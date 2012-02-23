@@ -1,0 +1,13 @@
+
+## The Unknown Veteran
+
+Player: Gabe
+Class: Fighter
+Level: 1
+
+## Fun Facts
+
+This fighting man, whose name nobody could recall, lead his group down the
+crack in the painted cavern.  Never the sharpest knife in the block, he had
+previously survived all manner of self-inflicted mishaps: meeting goblins in
+the dark, licking poison, and bitting very hard gems.

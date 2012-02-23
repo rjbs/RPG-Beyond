@@ -1,0 +1,10 @@
+
+## Neptune the Apprentice
+
+Player: Ben
+Class: Thief
+Level: 1
+
+Neptune was lost when he and his comrades descended into the chasm in the
+painted caves.
+

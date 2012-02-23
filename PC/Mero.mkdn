@@ -1,0 +1,42 @@
+
+## Mero the Deadly
+
+Player: Julie
+Class: Halfling
+Level: 1
+Alignment: Neutral
+
+## Stats
+
+  XP: 0
+
+  Str:  9
+  Int:  9
+  Wis:  3
+  Dex: 14
+  Con: 11
+  Cha: 10
+
+## Fun Facts
+
+Mero has killed more subterranean zombies than any other halfling in recent
+history.
+
+## Stuff
+
+* 165 gp
+* Wooden pole (5')
+* Rope, ?
+* Backpack
+* Torches (11)
+* Tinderbox
+* Short bow
+* Quiver, arrows (14)
+* Arrows, silver-tipped (2)
+* Leather armor
+* Seeds, green, like orange pips (3)
+* Small pouch of caltrops
+* Small container of healing balm (3 applications)
+* Vials of holy water (2)
+* Vials of scorpion venom (2)
+

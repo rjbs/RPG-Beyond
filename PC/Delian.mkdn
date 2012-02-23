@@ -1,0 +1,41 @@
+
+## Delian the Elf
+
+Player: Gabe
+Class: Elf
+Level: 1
+
+## Stats
+
+  XP: 305
+
+  Str: 14
+  Int: 12
+  Wis:  9
+  Dex:  9
+  Con:  5
+  Cha:  9
+
+## Fun Facts
+
+Delian lost his left hand due to a freak magic seed accident during his second
+delve into the caverns beneath the Gladwell farm.
+
+## Stuff
+
+* 10 sp
+* Spell book
+* Short sword
+* Short bow
+* Quiver, arrows (20)
+* Chain mail
+* Flint and steel
+* Oil flasks (6.5)
+
+## Spell Book
+
+* Read Magic
+* Magic Missile
+* Sleep
+* Floating Disc
+* Protection From Evil

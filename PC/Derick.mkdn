@@ -1,0 +1,43 @@
+
+## Derick the Veteran
+
+Player: Ben
+Class: Fighter
+Level: 1
+Alignment: Chaotic
+
+## Stats
+
+  XP: 336
+
+  Str: 17
+  Int: 11
+  Wis:  9
+  Dex: 11
+  Con: 13
+  Cha:  9
+
+## Fun Facts
+
+Derick may have lost the favor of St. Ishibek by declining to buy the rare
+surcoat emblazoned with his standard.
+
+## Stuff
+
+* 110 gp
+* Chain mail
+* Shield
+* Morning Star
+* Short bow
+* Quiver, arrows
+* Backpack
+* Torches (20)
+* Waterskin
+* Flint and steel
+* Silk rope
+* glass vial
+* 5 tetrahedral ("d4") seeds
+* vial of spiderfrog goo (blue)
+* vial of spiderfrog goo (red)
+* vial of spiderfrog goo (white)
+

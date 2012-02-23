@@ -1,21 +1,21 @@
 
 ## Derick the Veteran
 
-Player: Ben
-Class: Fighter
-Level: 1
-Alignment: Chaotic
+    Player: Ben
+    Class: Fighter
+    Level: 1
+    Alignment: Chaotic
 
 ## Stats
 
-  XP: 336
+    XP: 336
 
-  Str: 17
-  Int: 11
-  Wis:  9
-  Dex: 11
-  Con: 13
-  Cha:  9
+    Str: 17
+    Int: 11
+    Wis:  9
+    Dex: 11
+    Con: 13
+    Cha:  9
 
 ## Fun Facts
 

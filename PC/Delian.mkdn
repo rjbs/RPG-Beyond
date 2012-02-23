@@ -1,20 +1,20 @@
 
 ## Delian the Elf
 
-Player: Gabe
-Class: Elf
-Level: 1
+    Player: Gabe
+    Class: Elf
+    Level: 1
 
 ## Stats
 
-  XP: 305
+    XP: 305
 
-  Str: 14
-  Int: 12
-  Wis:  9
-  Dex:  9
-  Con:  5
-  Cha:  9
+    Str: 14
+    Int: 12
+    Wis:  9
+    Dex:  9
+    Con:  5
+    Cha:  9
 
 ## Fun Facts
 

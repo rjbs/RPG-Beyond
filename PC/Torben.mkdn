@@ -1,20 +1,20 @@
 
 ## Torben the Dwarf
 
-Player: Amanda
-Class: Dwarf
-Level: 1
+    Player: Amanda
+    Class: Dwarf
+    Level: 1
 
 ## Stats
 
-  XP: 0
+    XP: 0
 
-  Str: 14
-  Int:  7
-  Wis:  5
-  Dex:  8
-  Con: 14
-  Cha:  5
+    Str: 14
+    Int:  7
+    Wis:  5
+    Dex:  8
+    Con: 14
+    Cha:  5
 
 ## Fun Facts
 

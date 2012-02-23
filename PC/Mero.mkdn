@@ -1,21 +1,21 @@
 
 ## Mero the Deadly
 
-Player: Julie
-Class: Halfling
-Level: 1
-Alignment: Neutral
+    Player: Julie
+    Class: Halfling
+    Level: 1
+    Alignment: Neutral
 
 ## Stats
 
-  XP: 0
+    XP: 0
 
-  Str:  9
-  Int:  9
-  Wis:  3
-  Dex: 14
-  Con: 11
-  Cha: 10
+    Str:  9
+    Int:  9
+    Wis:  3
+    Dex: 14
+    Con: 11
+    Cha: 10
 
 ## Fun Facts
 

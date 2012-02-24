@@ -1,6 +1,6 @@
-# From Jeff Reints’ “Twenty Quick Questions:”
+# Jeff Reints’ “Twenty Quick Questions”
 
-## What is the deal with our clerics' religion?
+### What is the deal with our clerics' religion?
 
 There are dozens of orders of priesthood and other devotional groups organized
 around the commonly worshipped gods of the land.  Some of these consider others
@@ -13,7 +13,7 @@ of Thrul Victorious has established any foothold, with its claims that Thrul,
 the Man-Become-God, will in time unseat the reigning deities and rule in glory
 in their stead.
 
-## Where can we go to buy standard equipment?
+### Where can we go to buy standard equipment?
 
 The baron retains an armorer and blacksmith who can provide arms and armor at
 good rates.  Other equipment is bought as needed from the town’s stores.  There
@@ -21,12 +21,12 @@ are a few general stores in town with slightly different rates and goods, but
 they tend to be pretty comparable.  Prices and quality have been slowly
 declining over the past decade.
 
-## Where can we go to get plate armor custom fitted for this monster I just befriended?
+### Where can we go to get plate armor custom fitted for this monster I just befriended?
 
 You could ask the keep’s armorer, but in all likelihood you’d need to travel to
 find a master craftsman in the Dagnahan, quite a long distance indeed.
 
-## Who is the mightiest wizard in the land?
+### Who is the mightiest wizard in the land?
 
 Within the barony, there is but one wizard’s tower, belonging to Scrimgoer the
 Gold, whose several apprentices aid him in his studies of the relics of the
@@ -35,7 +35,7 @@ several likely contenders for that honor, but the most common choices would
 certainly include Harol the Swift, Master Scrute of the Guild of Transfigurers,
 and Ploenaster Alexamaedus.
 
-## Who is the greatest warrior in the land?
+### Who is the greatest warrior in the land?
 
 Baron Duncan Wheeler, who founded the town of Edgwold, is accepted by most as
 the greatest warrior in the barony, and likely greater than any found in its
@@ -43,7 +43,7 @@ nearest neighboring community, but as he gets on in years, numerous challengers
 to the title seem to be waiting in the wings, either to succeed him directly in
 his baronage or simply to gain renown as the new great hero of the land.
 
-## Who is the richest person in the land?
+### Who is the richest person in the land?
 
 Although Baron Duncan and other local governors command great fortunes, they
 are beholden to the duke and it is difficult to truly describe them as rich.
@@ -51,7 +51,7 @@ Without a doubt, the once great adventurer Rufus Vimatean, now residing in a
 great villa just outside the borders of the barony, is the wealthiest free man
 with no declared fealties.
 
-## Where can we go to get some magical healing?
+### Where can we go to get some magical healing?
 
 Within Edgwold, several churches exist and offer healing in exchange for
 donations, and the baron has a few clerics retained to tend to his knights.  A
@@ -59,7 +59,7 @@ few small shrines are operated in the wilderness, but they are not always
 staffed, and even when staffed it is often by inexperienced novices who are
 unable to provide such services.
 
-## Where can we go to get cures for the following conditions: poison, disease, curse, level drain, lycanthropy, polymorph, alignment change, death, undeath?
+### Where can we go to get cures for the following conditions: poison, disease, curse, level drain, lycanthropy, polymorph, alignment change, death, undeath?
 
 Although senior clerics sometimes pass through Edgwold on itinerant missions,
 it would be unsafe to rely on finding one in a pinch.  The best chance of
@@ -68,7 +68,7 @@ large temple operated by priests and laymen of the Church of The Dream Singular
 and Universal.  They will often be able to deal with these problems, though
 they will certainly ask for payment more unusual than mere gems.
 
-## Is there a magic guild my Magic-User belongs to or that I can join in order to get more spells?
+### Is there a magic guild my Magic-User belongs to or that I can join in order to get more spells?
 
 There are several guilds and colleges to which a magic-user might belong, but
 none have any presence within the barony, so study would require travel to
@@ -76,7 +76,7 @@ another village, or to the castle town of Dagnahan.  The best chance for access
 to arcane tomes and training would be at the tower of Scrimgoer the Gold, who
 takes on many students in exchange for their service in his research.
 
-## Where can I find an alchemist, sage or other expert NPC?
+### Where can I find an alchemist, sage or other expert NPC?
 
 Edgwold once had a fair population of experts, but most have since moved on as
 the spoils from the Temple of the Abyss have fallen off.  Quite a few have
@@ -84,14 +84,14 @@ since moved to the neighboring barony’s town of Deptford, which now boasts
 collection of experts in a number of fields.  Most are on retainer to the
 baron, and their rates are therefore topped by a sizable tariff.
 
-## Where can I hire mercenaries?
+### Where can I hire mercenaries?
 
 It depends on the quality and job you’re looking for.  There are quite a few
 townsmen who would be willing to serve as a footman for good pay, but few would
 sign on to enter a Labyrinth, even one thought to be largely emptied, like the
 Temple of the Abyss.  For that, one might need to travel to Deptford.
 
-## Is there any place on the map where swords are illegal, magic is outlawed or any other notable hassles from Johnny Law?
+### Is there any place on the map where swords are illegal, magic is outlawed or any other notable hassles from Johnny Law?
 
 Swords and other weapons are illegal for commoners, but most PCs will be in the
 employ of Baron Duncan, which implies permission to be armed and armored.
@@ -100,13 +100,13 @@ it is traditional to allow knights of one baron to remain armed when traveling
 through other baronies, so long as they do not undertake any delving without
 permission.
 
-## Which way to the nearest tavern?
+### Which way to the nearest tavern?
 
 There are several taverns in or around Edgwold and Deptford, ranging from
 well-appointed (if somewhat run down and often-empty) inns to poor but bustling
 public ale houses.
 
-## What monsters are terrorizing the countryside sufficiently that if I kill them I will become famous?
+### What monsters are terrorizing the countryside sufficiently that if I kill them I will become famous?
 
 Terror in Edgwold is at an all time low.  Though the night watch sometimes
 reports apparent goblin activity on the outskirts of town, and there are
@@ -116,21 +116,21 @@ years, and mad wizards have been few, far between, and fairly easily
 apprehended since the defeat of the demons in the depths of the Temple of the
 Abyss.
 
-## Are there any wars brewing I could go fight?
+### Are there any wars brewing I could go fight?
 
 Although there are occasional rumors of great wars being fought in far distant
 lands, they are hard to confirm, and to travel so far would take months or
 longer.
 
-## How about gladiatorial arenas complete with hard-won glory and fabulous cash prizes?
+### How about gladiatorial arenas complete with hard-won glory and fabulous cash prizes?
 
 In general, bloodsport is illegal and not practiced.  Contests of skill in pugilism and swordplay are occasionally staged, but they are (mostly) harmless exhibition rather than fights to the death.
 
-## Are there any secret societies with sinister agendas I could join and/or fight?
+### Are there any secret societies with sinister agendas I could join and/or fight?
 
 Probably.
 
-## What is there to eat around here?
+### What is there to eat around here?
 
 Pigs and chickens are raised for their meat, along with a few small herds of
 cattle.  Local farmers grow many and varied vegetables, and the region’s farms
@@ -138,13 +138,13 @@ are considered particularly good.  On the other hand, the town is not known for
 its cooking, and braised or stewed meat and vegetables are often the order of
 the day.
 
-## Any legendary lost treasures I could be looking for?
+### Any legendary lost treasures I could be looking for?
 
 With the Temple of the Abyss nearly entirely exhausted of treasure, most
 aspiring adventurers have taken their quest for legendary lost treasure to
 other, younger towns and the less fully explored labyrinths found there.
 
-## Where is the nearest dragon or other monster with a massive treasure hoard?
+### Where is the nearest dragon or other monster with a massive treasure hoard?
 
 A great dragon is said to nest under Mt. Dale, though he has not been seen in
 nearly a generation.  The Temple of the Abyss once overflowed with treasure and

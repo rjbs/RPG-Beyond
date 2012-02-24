@@ -1,5 +1,5 @@
 
-## Derick the Veteran
+## Derick the Soldier
 
     Player: Ben
     Class: Fighter

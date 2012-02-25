@@ -23,12 +23,13 @@ delve into the caverns beneath the Gladwell farm.
 
 ## Stuff
 
-* 456 gp, 10 sp
+* 436 gp, 10 sp
 * Spell book
 * Short sword
 * Short bow
 * Quiver, arrows (20)
 * Chain mail
+* Shield (x2)
 * Flint and steel
 * Oil flasks (6.5)
 * 3 vials of goo from big walnutty seed

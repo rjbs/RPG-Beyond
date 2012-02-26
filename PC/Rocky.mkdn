@@ -1,0 +1,32 @@
+
+## Rocky the Soldier
+
+    Player: Ben
+    Class: Fighter
+    Level: 1
+
+## Stats
+
+    XP: 766
+
+## Stuff
+
+* 31 gp
+* 122 koboldic cp
+* Chain mail (2x)
+* Morning Star
+* Short bow
+* Quiver, arrows
+* Backpack
+* Torches (20)
+* Waterskin
+* Flint and steel
+* Silk rope
+* glass vial
+* vial of spiderfrog goo (blue)
+* vial of spiderfrog goo (red)
+* vial of spiderfrog goo (white)
+* 4 tetrahedral ("d4") seeds
+* 11 kobold wallets
+* 40' of blue rope (from goblin in armor)
+

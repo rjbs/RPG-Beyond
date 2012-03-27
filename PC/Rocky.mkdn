@@ -13,12 +13,13 @@
 
 * 31 gp
 * 122 koboldic cp
-* Chain mail (2x)
+* Chain mail
+* Shield
 * Morning Star
 * Short bow
 * Quiver, arrows
 * Backpack
-* Torches (20)
+* Torches (12)
 * Waterskin
 * Flint and steel
 * Silk rope
@@ -30,3 +31,7 @@
 * 11 kobold wallets
 * 40' of blue rope (from goblin in armor)
 
+## In His Room
+
+* 665 gp
+* chain mail (extra)

@@ -1,0 +1,23 @@
+
+## Prudence the Medium
+
+    Player: NPC
+    Class: Magic-User
+    Level: 1
+    Alignment: Lawful
+
+## Stats
+
+    XP: 0
+
+    Str: 15
+    Int: 15
+    Wis: 13
+    Dex:  9
+    Con: 11
+    Cha:  8
+
+## Stuff
+
+## In Her Quarters
+

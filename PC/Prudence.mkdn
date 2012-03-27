@@ -21,3 +21,9 @@
 
 ## In Her Quarters
 
+## Spell Book
+
+* Light
+* Magic Missile
+* Read Languages
+* Read Magic

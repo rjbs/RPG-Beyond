@@ -31,7 +31,7 @@ carved flute.
 
 ## Stuff
 
-* 187 gp
+* 37 gp
 * Short bow
 * Quiver, arrows
 * Leather Armor
@@ -55,3 +55,7 @@ carved flute.
 * ?
 * ?
 * ?
+
+## In His Quarters
+
+* 150 gp

@@ -12,14 +12,14 @@
 ## Stuff
 
 * 31 gp
-* 122 koboldic cp
+* 2 koboldic cp
 * Chain mail
 * Shield
 * Morning Star
 * Short bow
 * Quiver, arrows
 * Backpack
-* Torches (12)
+* Torches (5)
 * Waterskin
 * Flint and steel
 * Silk rope
@@ -34,4 +34,5 @@
 ## In His Room
 
 * 665 gp
+* 120 koboldic cp
 * chain mail (extra)

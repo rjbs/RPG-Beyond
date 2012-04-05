@@ -24,7 +24,7 @@ history.
 
 ## Stuff
 
-* 165 gp
+* 15 gp
 * Wooden pole (5')
 * Rope, ?
 * Backpack
@@ -39,4 +39,8 @@ history.
 * Small container of healing balm (3 applications)
 * Vials of holy water (2)
 * Vials of scorpion venom (2)
+
+## In His Quarters
+
+* 150 gp
 

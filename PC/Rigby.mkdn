@@ -1,0 +1,34 @@
+
+## Rigby the Apprentice
+
+    Player: NPC
+    Class: Thief
+    Level: 1
+    Alignment: Lawful
+
+## Stats
+
+    XP: 313
+
+    Str: 10
+    Int: 11
+    Wis: 11
+    Dex: 12
+    Con: 10
+    Cha: 11
+
+## Fun Facts
+
+Rigby lost his left forearm to a dwarfish skeleton's axe.  Huk the goblin
+cauterized the wound with a torch.
+
+## Stuff
+
+* 18 gp
+* 2 gems (worth about 50 gp each)
+* short sword
+* leather armor
+* black cloak with hood
+
+## In His Quarters
+

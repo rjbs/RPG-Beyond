@@ -24,17 +24,25 @@ delve into the caverns beneath the Gladwell farm.
 ## Stuff
 
 * 36 gp, 10 sp
+* 2 small gemstones
 * Spell book
 * Short sword
+* 3 daggers (from dead guys in tower)
 * Chain mail
 * Shield (Dwarven)
 * Shield (extra)
 * Flint and steel
-* Oil flasks (6.5)
-* 3 vials of goo from big walnutty seed
-* 3 vials of goo from little lima beany seed
+* Oil flasks (5.5)
+* 2 vials of goo from big walnutty seed
+* 2 vials of goo from little lima beany seed
 * 5 coin-like seeds
 * invitation to the goblin market
+* four glass pots of black fluid
+* goblin book (guidebook?)
+* medical kit(?)
+    * 2 jars of balm; 2 rolls of bandages; 2 metal squeezey tubes
+    * six glass vials
+
 
 ## In his quarters
 

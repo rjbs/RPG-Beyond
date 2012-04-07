@@ -7,7 +7,7 @@
 
 ## Stats
 
-    XP: 29
+    XP: 89
 
     Str: 13
     Int: 11

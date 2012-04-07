@@ -8,7 +8,7 @@
 
 ## Stats
 
-    XP: 342
+    XP: 402
 
     Str: 10
     Int: 11

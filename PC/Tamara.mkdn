@@ -1,0 +1,37 @@
+
+## Tamara the Aspirant
+
+    Player: Robert
+    Class: Cleric
+    Level: 1
+
+## Stats
+
+    XP: 0
+
+    Str: 13
+    Int: 11
+    Wis:  6
+    Dex: 11
+    Con:  8
+    Cha:  8
+
+## Stuff
+
+* 18 gp
+* Chain mail
+* halberd
+* Long bow
+* 20 arrows
+* 2 silver arrows
+* 2 flasks of oil
+* Hand mirror
+* 5 torches
+* Tinderbox
+* aterskin
+* 2 large sacks
+* 1 small sack
+* 50' rope
+* 12 iron spikes
+* Invitation to the Goblin Market
+* Rigby's left hand

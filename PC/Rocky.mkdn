@@ -12,17 +12,17 @@
 ## Stuff
 
 * 31 gp
+* 2 small gem
 * 2 koboldic cp
 * Chain mail
 * Shield
 * Morning Star
+* Axe
 * Short bow
 * Quiver, arrows
 * Backpack
-* Torches (5)
 * Waterskin
 * Flint and steel
-* Silk rope
 * glass vial
 * vial of spiderfrog goo (blue)
 * vial of spiderfrog goo (red)
@@ -30,6 +30,11 @@
 * 4 tetrahedral ("d4") seeds
 * 11 kobold wallets
 * 40' of blue rope (from goblin in armor)
+* dwarf skull
+* troll head
+* tin whistle
+* portable stove
+* plush wolf-snake-thing
 
 ## In His Room
 

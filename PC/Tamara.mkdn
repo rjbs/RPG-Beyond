@@ -22,14 +22,14 @@
 * Chain mail
 * halberd
 * Long bow
-* 20 arrows
+* 19 arrows
 * 2 silver arrows
-* 2 flasks of oil
+* 1 flasks of oil
 * Hand mirror
 * 5 torches
 * Tinderbox
 * aterskin
-* 2 large sacks
+* 1 large sack
 * 1 small sack
 * 50' rope
 * 12 iron spikes

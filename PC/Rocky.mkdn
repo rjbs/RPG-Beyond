@@ -9,6 +9,13 @@
 
     XP: 1017
 
+    Str: 12
+    Int: 11
+    Wis:  9
+    Dex: 12
+    Con:  6
+    Cha:  7
+
 ## Stuff
 
 * 31 gp

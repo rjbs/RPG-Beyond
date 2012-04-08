@@ -8,6 +8,7 @@
 ## Stats
 
     XP: 1017
+    XP Bonus: 0%
 
     Str: 12
     Int: 11

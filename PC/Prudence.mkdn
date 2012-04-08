@@ -8,7 +8,8 @@
 
 ## Stats
 
-    XP:  120
+    XP:  126
+    XP Bonus: 5%
 
     Str: 15
     Int: 15

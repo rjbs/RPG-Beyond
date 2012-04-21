@@ -19,11 +19,14 @@
 
 ## Stuff
 
-* 18 gp
+* 42 gp
+* 1 goblin gp
+* 4 darts
+* staff
 * Chain mail
 * halberd
 * Long bow
-* 19 arrows
+* 18 arrows
 * 2 silver arrows
 * 1 flasks of oil
 * Hand mirror
@@ -36,3 +39,11 @@
 * 12 iron spikes
 * Invitation to the Goblin Market
 * Rigby's left hand
+* backpack
+* goblin string
+
+* Spellbook
+  * Light
+  * Magic Missile
+  * Read Languages
+  * Read Magic

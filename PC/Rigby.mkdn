@@ -36,6 +36,9 @@ cauterized the wound with a torch.
 * Torches (3)
 * tent
 * large sack
+* vial of spiderfrog goo (blue)
+* vial of spiderfrog goo (red)
+* vial of spiderfrog goo (white)
 
 ## In His Quarters
 

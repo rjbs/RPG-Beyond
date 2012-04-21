@@ -32,9 +32,6 @@
 * Waterskin
 * Flint and steel
 * glass vial
-* vial of spiderfrog goo (blue)
-* vial of spiderfrog goo (red)
-* vial of spiderfrog goo (white)
 * 4 tetrahedral ("d4") seeds
 * 11 kobold wallets
 * 40' of blue rope (from goblin in armor)
@@ -43,6 +40,15 @@
 * tin whistle
 * portable stove
 * plush wolf-snake-thing
+* big yellow silk circle
+* clear packet of candy(?)
+
+* ten pounds of food:
+  * one bar of lousy fake chocolate
+  * a canister of a half pound of salt
+  * two little tin cans of anchovy paste
+  * three little tin cans of chocolate pudding
+  * a low broad glass jar of vitamins
 
 ## In His Room
 

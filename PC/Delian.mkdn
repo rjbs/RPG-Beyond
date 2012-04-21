@@ -28,7 +28,7 @@ delve into the caverns beneath the Gladwell farm.
 * 2 small gemstones
 * Spell book
 * Short sword
-* 3 daggers (from dead guys in tower)
+* 2 daggers (from dead guys in tower)
 * Chain mail
 * Shield (Dwarven)
 * Shield (extra)
@@ -42,8 +42,7 @@ delve into the caverns beneath the Gladwell farm.
 * goblin book (guidebook?)
 * medical kit(?)
     * 2 jars of balm; 2 rolls of bandages; 2 metal squeezey tubes
-    * six glass vials
-
+    * three glass vials
 
 ## In his quarters
 

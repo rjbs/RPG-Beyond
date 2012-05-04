@@ -32,7 +32,7 @@
 * Hand mirror
 * 5 torches
 * Tinderbox
-* aterskin
+* waterskin
 * 1 large sack
 * 1 small sack
 * 50' rope
@@ -42,7 +42,7 @@
 * backpack
 * goblin string
 
-* Spellbook
+* Spellbook (formerly Prudence's)
   * Light
   * Magic Missile
   * Read Languages

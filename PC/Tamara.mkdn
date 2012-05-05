@@ -20,7 +20,7 @@
 
 ## Stuff
 
-* 42 gp
+* 17 gp
 * 1 goblin gp
 * 4 darts
 * staff
@@ -42,4 +42,5 @@
 * Rigby's left hand
 * backpack
 * goblin string
+* scroll of "Find the Way"
 

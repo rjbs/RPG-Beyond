@@ -20,39 +20,34 @@
 
 ## Stuff
 
-* 27 gp
+* 12 gp
 * 2 small gem
-* 2 koboldic cp
 * Chain mail
-* Shield
-* Morning Star
 * Short bow
 * Quiver, arrows
 * Waterskin
 * Backpack
-* Flint and steel
-* glass vial
-* 4 tetrahedral ("d4") seeds
-* 11 kobold wallets
-* 40' of blue rope (from goblin in armor)
-* dwarf skull
-* troll head
-* tin whistle
-* portable stove
-* plush wolf-snake-thing
-* big yellow silk circle
-* clear packet of candy(?)
+  * Flint and steel
+  * glass vial
+  * 40' of blue rope (from goblin in armor)
+  * dwarf skull
+  * troll head
+  * tin whistle
+  * portable stove
+  * plush wolf-snake-thing
+  * big yellow silk flag
+  * clear packet of candy(?)
 
-* ten pounds of food:
+* food from airdrop:
   * one bar of lousy fake chocolate
   * a canister of a half pound of salt
   * two little tin cans of anchovy paste
   * three little tin cans of chocolate pudding
   * a low broad glass jar of vitamins
-* eight man-days of fine provisions
+* four man-days of fine provisions
 
 ## In His Room
 
 * 665 gp
-* 120 koboldic cp
+* 122 koboldic cp
 * chain mail (extra)

@@ -25,7 +25,7 @@ cauterized the wound with a torch.
 
 ## Stuff
 
-* 18 gp
+* 8 gp
 * 2 gems (worth about 50 gp each)
 * 1 more gem
 * stiletto
@@ -38,6 +38,8 @@ cauterized the wound with a torch.
 * vial of spiderfrog goo (blue)
 * vial of spiderfrog goo (red)
 * vial of spiderfrog goo (white)
+* 4 tetrahedral ("d4") seeds
+* 11 kobold wallets
 
 ## In His Quarters
 

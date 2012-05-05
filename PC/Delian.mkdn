@@ -44,6 +44,12 @@ delve into the caverns beneath the Gladwell farm.
     * 2 jars of balm; 2 rolls of bandages; 2 metal squeezey tubes
     * three glass vials
 
+* Spellbook (formerly Prudence's)
+  * Light
+  * Magic Missile
+  * Read Languages
+  * Read Magic
+
 ## In his quarters
 
 * 1010 gp (25 from first dwarven mine visit)

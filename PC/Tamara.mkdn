@@ -41,9 +41,3 @@
 * Rigby's left hand
 * backpack
 * goblin string
-
-* Spellbook (formerly Prudence's)
-  * Light
-  * Magic Missile
-  * Read Languages
-  * Read Magic

@@ -4,6 +4,7 @@
     Player: Robert
     Class: Cleric
     Level: 1
+    Age: x + 20
 
 ## Stats
 

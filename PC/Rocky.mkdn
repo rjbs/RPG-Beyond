@@ -4,17 +4,18 @@
     Player: Ben
     Class: Fighter
     Level: 1
+    Age: 96 (was 26)
 
 ## Stats
 
     XP: 1017
     XP Bonus: 0%
 
-    Str: 12
+    Str:  8 (was 12)
     Int: 11
     Wis:  9
-    Dex: 12
-    Con:  6
+    Dex:  9 (was 12)
+    Con:  3 (was 3)
     Cha:  7
 
 ## Stuff

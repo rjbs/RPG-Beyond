@@ -19,7 +19,7 @@
 
 ## Stuff
 
-* 29 gp
+* 27 gp
 * 2 small gem
 * 2 koboldic cp
 * Chain mail
@@ -28,8 +28,8 @@
 * Axe
 * Short bow
 * Quiver, arrows
-* Backpack
 * Waterskin
+* Backpack
 * Flint and steel
 * glass vial
 * 4 tetrahedral ("d4") seeds
@@ -49,6 +49,7 @@
   * two little tin cans of anchovy paste
   * three little tin cans of chocolate pudding
   * a low broad glass jar of vitamins
+* eight man-days of fine provisions
 
 ## In His Room
 

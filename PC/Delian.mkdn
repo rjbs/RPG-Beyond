@@ -24,9 +24,8 @@ delve into the caverns beneath the Gladwell farm.
 
 ## Stuff
 
-* 31 gp, 10 sp
+* 1 gp, 10 sp
 * 3 throwing hammers
-* 2 small gemstones
 * Spell book
 * Short sword
 * 2 daggers (from dead guys in tower)
@@ -59,9 +58,10 @@ delve into the caverns beneath the Gladwell farm.
 
 ## Spell Book
 
-* Read Magic
-* Magic Missile
-* Sleep
 * Floating Disc
-* Read Languages
+* Light
+* Magic Missile
 * Protection From Evil
+* Read Languages
+* Read Magic
+* Sleep

@@ -25,7 +25,6 @@
 * Chain mail
 * Shield
 * Morning Star
-* Axe
 * Short bow
 * Quiver, arrows
 * Waterskin

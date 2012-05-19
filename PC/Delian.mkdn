@@ -25,29 +25,29 @@ delve into the caverns beneath the Gladwell farm.
 ## Stuff
 
 * 1 gp, 10 sp
-* 3 throwing hammers
-* Spell book
+* 2 throwing hammers
 * Short sword
 * Chain mail
 * Shield (Dwarven)
 * Shield (extra)
-* Flint and steel
-* Oil flasks (5.5)
-* 2 vials of goo from big walnutty seed
-* 2 vials of goo from little lima beany seed
-* 5 coin-like seeds
-* invitation to the goblin market
-* four glass pots of black fluid
-* goblin book (guidebook?)
-* medical kit(?)
-    * 2 jars of balm; 2 rolls of bandages; 2 metal squeezey tubes
-    * three glass vials
-
-* Spellbook (formerly Prudence's)
-  * Light
-  * Magic Missile
-  * Read Languages
-  * Read Magic
+* Backpack
+  * Flint and steel
+  * Oil flasks (5.5)
+  * 2 vials of goo from big walnutty seed
+  * 2 vials of goo from little lima beany seed
+  * 5 coin-like seeds
+  * four glass pots of black fluid
+  * goblin book (guidebook?)
+  * medical kit(?)
+      * 2 jars of balm; 2 rolls of bandages; 2 metal squeezey tubes
+      * three glass vials
+  * Spell book
+  * Spellbook (formerly Prudence's)
+    * Light
+    * Magic Missile
+    * Read Languages
+    * Read Magic
+  * shards of glass from sewer (was glowing)
 
 ## In his quarters
 

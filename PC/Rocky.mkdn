@@ -20,7 +20,7 @@
 
 ## Stuff
 
-* 12 gp
+* 10 gp
 * 2 small gem
 * Chain mail
 * Short bow
@@ -31,7 +31,6 @@
   * glass vial
   * 40' of blue rope (from goblin in armor)
   * dwarf skull
-  * troll head
   * tin whistle
   * portable stove
   * plush wolf-snake-thing

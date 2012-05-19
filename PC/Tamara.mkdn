@@ -30,17 +30,5 @@
 * 18 arrows
 * 2 silver arrows
 * 1 flasks of oil
-* Hand mirror
 * 5 torches
-* Tinderbox
 * waterskin
-* 1 large sack
-* 1 small sack
-* 50' rope
-* 12 iron spikes
-* Invitation to the Goblin Market
-* Rigby's left hand
-* backpack
-* goblin string
-* scroll of "Find the Way"
-

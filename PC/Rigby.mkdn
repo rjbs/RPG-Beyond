@@ -32,7 +32,7 @@ cauterized the wound with a torch.
 * leather armor
 * black cloak with hood
 * 5 speaking stones
-* Torches (3)
+* Torches (1)
 * tent
 * large sack
 * vial of spiderfrog goo (blue)

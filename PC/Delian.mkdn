@@ -7,7 +7,7 @@
 
 ## Stats
 
-    XP: 1636
+    XP: 1852
     XP Bonus: 0%
 
     Str: 14

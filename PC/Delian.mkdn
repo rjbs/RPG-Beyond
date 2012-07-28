@@ -26,7 +26,7 @@ delve into the caverns beneath the Gladwell farm.
 
 * Chain mail
 * Backpack
-  * 128 pp (from Alithican market)
+  * 118 pp (from Alithican market)
   * short sword
   * shield
   * Flint and steel

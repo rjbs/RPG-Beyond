@@ -28,7 +28,6 @@ delve into the caverns beneath the Gladwell farm.
 * 2 throwing hammers
 * Short sword
 * Chain mail
-* Shield (Dwarven)
 * Shield (extra)
 * Backpack
   * Flint and steel
@@ -42,12 +41,14 @@ delve into the caverns beneath the Gladwell farm.
       * 2 jars of balm; 2 rolls of bandages; 2 metal squeezey tubes
       * three glass vials
   * Spell book
-  * Spellbook (formerly Prudence's)
+  * Spell book (from the sewer wizard)
+  * Spell book (formerly Prudence's)
     * Light
     * Magic Missile
     * Read Languages
     * Read Magic
   * shards of glass from sewer (was glowing)
+  * lizard tooth
 
 ## In his quarters
 

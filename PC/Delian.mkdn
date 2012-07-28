@@ -28,7 +28,6 @@ delve into the caverns beneath the Gladwell farm.
 * 2 throwing hammers
 * Short sword
 * Chain mail
-* Shield (extra)
 * Backpack
   * Flint and steel
   * Oil flasks (5.5)

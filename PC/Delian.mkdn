@@ -24,9 +24,6 @@ delve into the caverns beneath the Gladwell farm.
 
 ## Stuff
 
-* 1 gp, 10 sp
-* 2 throwing hammers
-* Short sword
 * Chain mail
 * Backpack
   * Flint and steel
@@ -36,9 +33,6 @@ delve into the caverns beneath the Gladwell farm.
   * 5 coin-like seeds
   * four glass pots of black fluid
   * goblin book (guidebook?)
-  * medical kit(?)
-      * 2 jars of balm; 2 rolls of bandages; 2 metal squeezey tubes
-      * three glass vials
   * Spell book
   * Spell book (from the sewer wizard)
   * Spell book (formerly Prudence's)

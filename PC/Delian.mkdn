@@ -32,6 +32,8 @@ delve into the caverns beneath the Gladwell farm.
   * 2 vials of goo from little lima beany seed
   * 5 coin-like seeds
   * four glass pots of black fluid
+  * Invitation to the Goblin Market
+  * scroll of "Find the Path"
   * goblin book (guidebook?)
   * Spell book
   * Spell book (from the sewer wizard)
@@ -48,10 +50,8 @@ delve into the caverns beneath the Gladwell farm.
   * 1 large sack
   * 1 small sack
   * 12 iron spikes
-  * Invitation to the Goblin Market
   * Rigby's left hand
   * goblin string
-  * scroll of "Find the Path"
 
 ## In his quarters
 

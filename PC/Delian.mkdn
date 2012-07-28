@@ -43,6 +43,16 @@ delve into the caverns beneath the Gladwell farm.
   * shards of glass from sewer (was glowing)
   * lizard tooth
 
+* backpack (from Tamara)
+  * Tinderbox
+  * 1 large sack
+  * 1 small sack
+  * 12 iron spikes
+  * Invitation to the Goblin Market
+  * Rigby's left hand
+  * goblin string
+  * scroll of "Find the Path"
+
 ## In his quarters
 
 * 1010 gp (25 from first dwarven mine visit)

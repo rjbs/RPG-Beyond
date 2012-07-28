@@ -40,18 +40,5 @@ cauterized the wound with a torch.
 * vial of spiderfrog goo (white)
 * 4 tetrahedral ("d4") seeds
 * 11 kobold wallets
-
-* backpack (from Tamara)
-  * Hand mirror
-  * Tinderbox
-  * 1 large sack
-  * 1 small sack
-  * 50' rope
-  * 12 iron spikes
-  * Invitation to the Goblin Market
-  * Rigby's left hand
-  * goblin string
-  * scroll of "Find the Path"
-
 ## In His Quarters
 

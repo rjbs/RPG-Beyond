@@ -1,0 +1,22 @@
+
+## Rob-E the Automaton
+
+    Player: Frank
+    Class: Automaton
+    Level: n/a
+
+## Stats
+
+    XP: n/a
+
+    Str:  7
+    Int: 11
+    Wis:  6
+    Dex: 10
+    Con: 13
+    Cha: 13
+
+## Stuff
+
+absolutely nothing
+

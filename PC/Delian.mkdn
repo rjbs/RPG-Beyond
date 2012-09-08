@@ -7,7 +7,7 @@
 
 ## Stats
 
-    XP: 1852
+    XP: 2967
     XP Bonus: 0%
 
     Str: 14
@@ -37,6 +37,7 @@ delve into the caverns beneath the Gladwell farm.
   * four glass pots of black fluid
   * Invitation to the Goblin Market
   * goblin book (guidebook?)
+  * Book: "Answers in the Time of Questions"
   * Spell book
   * Spell book (from the sewer wizard)
   * Spell book (formerly Prudence's)

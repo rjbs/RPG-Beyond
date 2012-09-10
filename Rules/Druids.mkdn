@@ -1,6 +1,10 @@
 
 # Druid
 
+Druids form the priesthood of the Wood Men of the north.  They revere no single
+god, but a vast array of spirits, divinities, and heroes.  Unlike clerics, they
+are not holy warriors.  They are priests and sages.
+
 ## Requirements and Restrictions
 
 Druids use four-sided dice (d4) to determine their hit points.  They may not
@@ -80,3 +84,12 @@ Lycanthropy require other means to remove.
 7. Summon Insects
 8. Water Breathing
 
+## Credits
+
+The healing powers come from "[LL - B/X Druid
+Class](http://thedicearealie.blogspot.com/2012/03/ll-bx-druid-class-work-in-progress.html)"
+by OSRBaron.  The XP costs are the cleric XP costs from B/X D&D.  The spell
+progression table is the cleric table from Labyrinth Lord.  The saving throws
+are the cleric saving throws rescaled to improve every 4th level.  The spell
+list is the AD&D 1E spell list, pruned to eight spells per level.  The rest,
+such as it is, is original.

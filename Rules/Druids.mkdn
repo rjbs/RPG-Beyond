@@ -1,0 +1,82 @@
+
+# Druid
+
+## Requirements and Restrictions
+
+Druids use four-sided dice (d4) to determine their hit points.  They may not
+use metal weapons or armor.
+
+The druid's healing and curing powers require access to the correct natural
+substances, which can normally be collected from a familiar area.
+
+## Special Abilities
+
+### Healing
+
+During periods of rest (1 turn or longer), the druid can apply a poultice to
+anyone (1 person/turn) with reduced hit points.  This helps reduce pain and
+fatigue providing 1d3+1 hit points.  Individuals can only be treated this way
+once per day.
+
+### Curing Disease
+
+Individuals resting for 24 hours under the care of a Druid and imbibing the
+herbal remedies prepared for them may make another saving throw at +2. Success
+cures the disease if it is of natural origins. Curses such as Mummy Rot and
+Lycanthropy require other means to remove.
+
+## Advancement
+                                              Spells
+    Level   Title         XP          HD      1   2   3   4   5
+        1   Aspirant            0     1d4     1
+        2   Initiate        1,500     2d4     2
+        3   Sage            3,000     3d4     2   1
+        4   Ovate           6,000     4d4     3   2
+        5   Mystic         12,000     5d4     3   2   1
+        6   Seer           25,000     6d4     3   3   2
+        7   Prophet        50,000     7d4     4   3   2   1
+        8   Sacrificator  100,000     8d4     4   3   3   2
+        9   Hierophant    200,000     9d4     4   4   3   2   1
+
+## Saving Throws
+
+    Level   Death   Wand    Stone   Breath  Spells
+    1-3     11      12      14      16      15
+    4-6      9      10      12      14      12
+    7-9      6       7       9      11       9
+
+## Spell List
+
+### Level One
+
+1. Animal Friendship
+2. Entangle
+3. Invisibility to Animals
+4. Locate Animals
+5. Pass Without Trace
+6. Purify Water
+7. Shillelagh
+8. Speak With Animals
+
+### Level Two
+
+1. Barkskin
+2. Create Water
+3. Cure Light Wounds
+4. Feign Death
+5. Locate Plants
+6. Obscurement
+7. Produce Flame
+8. Warp Wood
+
+### Level Three
+
+1. Call Lightening
+2. Cure Disease
+3. Hold Animal
+4. Neutralize Poison
+5. Plant Growth
+6. Protection From Fire
+7. Summon Insects
+8. Water Breathing
+

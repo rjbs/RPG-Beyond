@@ -17,6 +17,14 @@ some hits that might land on better qualified adventurers.
 Every character receives one Awesome Point per game day.  Awesome Points
 can be spent to replace any die or dice roll with a d30.
 
+### Bows, Slings, and Crossbows
+
+Archery and sling use take a lot more skill than swinging sharp or heavy
+objects.  Proficient archers (fighters and elfs, for example) can use their
+usual attack rolls, but all others take a -2 attack penalty with a bow or
+sling.  Crossbows are much easier to use, so no such penalty is applied.  Don't
+forget, though, that crossbows can fire only once *every other* round.
+
 ### Carousing
 
 I use Jeff's rules for

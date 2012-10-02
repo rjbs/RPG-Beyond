@@ -1,0 +1,25 @@
+
+## Red the Medium
+
+    Player: John
+    Class: Magic-User
+    Level: 1
+    Alignment: Neutral
+
+## Stats
+
+    XP: 0
+    XP Bonus: 10%
+
+    Str:  5
+    Int: 18
+    Wis:  9
+    Dex: 12
+    Con: 15
+    Cha: 13
+
+## Stuff
+
+* Spell book
+* ???
+

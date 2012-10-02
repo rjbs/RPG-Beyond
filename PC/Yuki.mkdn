@@ -1,0 +1,45 @@
+
+## Yuki the Aspirant
+
+    Player: Robert
+    Class: Druid
+    Level: 1
+    Alignment: Neutral
+
+## Stats
+
+    XP: 137
+    XP Bonus: 10%
+
+    Str:  6
+    Int: 11
+    Wis: 16
+    Dex: 13
+    Con: 11
+    Cha: 10
+
+    Languages:
+    - Common
+    - Lizardfolklinguq
+
+## Stuff
+
+* 4 pp, 11 gp
+* druid's robes
+* Leather armor
+* shield
+* dagger, flint
+* Crossbow
+* Quarrel case, 30 quarrels
+* lantern
+* Backpack
+  * rope, 50' silk
+  * torches (6)
+  * wolfsbane, 2 bunches
+  * oil, 4 flasks
+  * hand mirror
+  * iron rations, 1 week
+  * tinder box
+  * iron spikes
+  * water skin, wine
+  * quill and parchment

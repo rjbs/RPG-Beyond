@@ -18,8 +18,38 @@
     Con: 15
     Cha: 13
 
+## Languages
+
+- Enochian
+- Mercean
+- Pigsy
+
 ## Stuff
 
 * Spell book
-* ???
+  * Charm Person
+  * Detect Magic
+  * Floating Disc
+  * Light
+  * Magic Missile
+  * Read Magic
+  * Shield
+  * Sleep
+
+* Backpack
+  * rope, 50' silk
+  * 2 flasks oil
+  * lantern
+  * iron rations, 2k
+  * tinderbox
+* 6 torches
+* silver dagger
+* 10 daggers
+* wineskin
+* hand mirror
+* wolfbane
+* sack, large
+* sack, small
+* belt pouches
+* 2 sets of clothes
 

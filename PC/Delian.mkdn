@@ -17,6 +17,13 @@
     Con:  5
     Cha:  9
 
+## Languages
+
+- Draconic
+- Dwarven
+- Elven
+- Mercean
+
 ## Fun Facts
 
 Delian lost his left hand due to a freak magic seed accident during his second
@@ -26,13 +33,14 @@ delve into the caverns beneath the Gladwell farm.
 
 * Chain mail
 * Backpack
-  * 109 pp (from Alithican market)
+  * 37 pp (from Alithican market)
   * short sword
   * shield
   * Flint and steel
   * Oil flasks (5.5)
   * 2 vials of goo from big walnutty seed
   * 2 vials of goo from little lima beany seed
+  * 8 vials of holy water
   * 3 coin-like seeds
   * four glass pots of black fluid
   * Invitation to the Goblin Market

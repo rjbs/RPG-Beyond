@@ -16,6 +16,10 @@
     Con: 13
     Cha: 13
 
+## Fun Facts
+
+Rob-E weighs 75 pounds.
+
 ## Stuff
 
 absolutely nothing

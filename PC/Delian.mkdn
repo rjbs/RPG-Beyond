@@ -22,6 +22,7 @@
 - Draconic
 - Dwarven
 - Elven
+- Goblin
 - Mercean
 
 ## Fun Facts

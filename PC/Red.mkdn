@@ -42,14 +42,27 @@
   * lantern
   * iron rations, 2k
   * tinderbox
+  * wineskin
+  * hand mirror
+  * wolfbane
+  * sack, large
+  * sack, small
+  * 2 sets of clothes
+  * bar of soap
+  * scroll case, ivory and brass
+    * map of Alithica/Middlemarch region
+    * rough street map of Alithica
+  * key ring; five keys
+  * wallet
+    * four notes of old Imperial money
+    * 12 banknotes from Central Bank of Moran, totalling 72 crowns
+    * travel papers
+    * identity papers for Sebastian Quay-Tyrwhitt
+    * small ebony card with mystic circle inscribed
+  * wooden case with clarinet
+  * book: The Ennobling Legacy of Ægreþ the Exalted
+* belt pouches
 * 6 torches
 * silver dagger
 * 10 daggers
-* wineskin
-* hand mirror
-* wolfbane
-* sack, large
-* sack, small
-* belt pouches
-* 2 sets of clothes
 

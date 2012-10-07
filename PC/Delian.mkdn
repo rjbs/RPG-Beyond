@@ -54,6 +54,15 @@ delve into the caverns beneath the Gladwell farm.
     * Magic Missile
     * Read Languages
     * Read Magic
+  * Tiny Spellbook
+    * Pagid’s Compelling Summons
+    * Growain’s Fastidious Rebirth
+  * leather case
+    * straight razor, strop
+    * 1 bar of soap
+    * bottle of Mugwump's Specific (smells like cherries!)
+    * tin of Stafford’s Excellent Energizing Chewing Chalk
+  * two paper boxes of .5" bullets; 128 in total
   * shards of glass from sewer (was glowing)
   * lizard tooth
 

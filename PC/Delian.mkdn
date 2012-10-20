@@ -32,24 +32,33 @@ delve into the caverns beneath the Gladwell farm.
 
 ## Stuff
 
-* Chain mail
+* Chain mail (*enc 15*)
+
+* Belt
+  * short sword (*enc 1*)
+  * 1 vial of goo from big walnutty seed
+  * 1 vial of goo from big walnutty seed
+  * 1 vial of goo from little lima beany seed
+  * 1 vial of goo from little lima beany seed
+  * 1 vial of holy water
+
+* Shield (*enc 2*)
+
 * Backpack
   * 37 pp (from Alithican market)
-  * short sword
-  * shield
-  * Flint and steel
-  * Oil flasks (5.5)
-  * 2 vials of goo from big walnutty seed
-  * 2 vials of goo from little lima beany seed
-  * 8 vials of holy water
+  * 1 Tinderbox
+  * 1 Tinderbox
+  * 2 flasks of oil
+  * 7 vials of holy water (*enc 1*)
   * 3 coin-like seeds
-  * four glass pots of black fluid
+  * four glass pots of black fluid (*enc 1*)
   * Invitation to the Goblin Market
+
   * goblin book (guidebook?)
   * Book: "Answers in the Time of Questions"
-  * Spell book
-  * Spell book (from the sewer wizard)
-  * Spell book (formerly Prudence's)
+  * Spell book (Delian's original spellbook) (*enc 1*)
+  * Spell book (from the sewer wizard) (*enc 1*)
+  * Spell book (formerly Prudence's) (*enc 1*)
     * Light
     * Magic Missile
     * Read Languages
@@ -57,21 +66,19 @@ delve into the caverns beneath the Gladwell farm.
   * Tiny Spellbook
     * Pagid’s Compelling Summons
     * Growain’s Fastidious Rebirth
-  * leather case
+
+  * leather case (*enc 1*)
     * straight razor, strop
     * 1 bar of soap
     * bottle of Mugwump's Specific (smells like cherries!)
     * tin of Stafford’s Excellent Energizing Chewing Chalk
-  * two paper boxes of .5" bullets; 128 in total
+  * two paper boxes of .5" bullets; 128 in total (*enc 2*)
   * shards of glass from sewer (was glowing)
   * lizard tooth
-
-* backpack (from Tamara)
-  * Tinderbox
   * 1 large sack
   * 1 small sack
-  * 12 iron spikes
-  * Rigby's left hand
+  * 12 iron spikes (*enc 1*)
+  * Rigby's left hand (*enc 1*)
   * goblin string
 
 ## In his quarters

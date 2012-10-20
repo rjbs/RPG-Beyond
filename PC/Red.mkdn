@@ -43,7 +43,6 @@
   * iron rations, 2k
   * tinderbox
   * wineskin
-  * hand mirror
   * wolfbane
   * sack, large
   * sack, small
@@ -62,7 +61,6 @@
   * wooden case with clarinet
   * book: The Ennobling Legacy of Ægreþ the Exalted
 * belt pouches
-* 6 torches
 * silver dagger
 * 10 daggers
 

@@ -1,0 +1,26 @@
+
+## Name the Title
+
+    Player: 
+    Class: 
+    Level: 1
+    Alignment: 
+
+## Stats
+
+    XP: 0
+    XP Bonus: 0%
+
+    Str: 
+    Int: 
+    Wis: 
+    Dex: 
+    Con: 
+    Cha: 
+
+## Languages
+
+- Mercean (Common)
+
+## Stuff
+

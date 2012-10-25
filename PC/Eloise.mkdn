@@ -1,0 +1,30 @@
+
+## Eloise the Apprentice
+
+    Player: Cydney
+    Class: Thief
+    Level: 1
+    Alignment: 
+
+## Stats
+
+    XP: 669
+    XP Bonus: 5%
+
+    Str: 12
+    Int: 11
+    Wis:  7
+    Dex: 14
+    Con:  8
+    Cha: 10
+
+## Languages
+
+- Mercean (Common)
+
+## Stuff
+
+* 8 gp
+* short sword
+* leather armor
+* wall mirror, 12 x 18" (?! so sayeth Robert)

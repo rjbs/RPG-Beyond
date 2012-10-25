@@ -1,0 +1,30 @@
+
+## Exeter the Soldier
+
+    Player: Gabe
+    Class: Fighter
+    Level: 1
+    Alignment: 
+
+## Stats
+
+    XP: 637
+    XP Bonus: 0%
+
+    Str: 10
+    Int: 11
+    Wis: 12
+    Dex:  9
+    Con: 12
+    Cha:  6
+
+## Languages
+
+- Mercean (Common)
+
+## Stuff
+
+* sword
+* leather armor
+* 3 gp
+

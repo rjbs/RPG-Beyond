@@ -8,7 +8,7 @@
 
 ## Stats
 
-    XP: 0
+    XP: 733
     XP Bonus: 10%
 
     Str:  5
@@ -21,7 +21,7 @@
 ## Languages
 
 - Enochian
-- Mercean
+- Mercean (Common)
 - Pigsy
 
 ## Stuff

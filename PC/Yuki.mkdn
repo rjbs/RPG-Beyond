@@ -8,7 +8,7 @@
 
 ## Stats
 
-    XP: 137
+    XP: 838
     XP Bonus: 10%
 
     Str:  6
@@ -18,9 +18,10 @@
     Con: 11
     Cha: 10
 
-    Languages:
-    - Common
-    - Lizardfolklinguq
+## Languages:
+
+- Mercean (Common)
+- Lizardfolklingua
 
 ## Stuff
 

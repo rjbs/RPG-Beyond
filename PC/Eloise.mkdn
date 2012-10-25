@@ -27,4 +27,4 @@
 * 8 gp
 * short sword
 * leather armor
-* wall mirror, 12 x 18" (?! so sayeth Robert)
+* hand mirror

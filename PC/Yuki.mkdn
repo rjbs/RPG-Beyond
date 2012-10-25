@@ -27,18 +27,15 @@
 
 * 4 pp, 11 gp
 * druid's robes
-* Leather armor
-* shield
 * dagger, flint
 * Crossbow
 * Quarrel case, 30 quarrels
 * lantern
 * Backpack
   * rope, 50' silk
-  * torches (6)
+  * torches (5)
   * wolfsbane, 2 bunches
   * oil, 4 flasks
-  * hand mirror
   * iron rations, 1 week
   * tinder box
   * iron spikes

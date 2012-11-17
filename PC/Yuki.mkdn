@@ -32,7 +32,6 @@
 * Quarrel case, 30 quarrels
 * lantern
 * Backpack
-  * torches (5)
   * wolfsbane, 2 bunches
   * oil, 4 flasks
   * iron rations, 1 week

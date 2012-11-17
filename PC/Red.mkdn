@@ -46,6 +46,7 @@
   * wolfbane
   * sack, large
   * sack, small
+    * 50 gp
   * 2 sets of clothes
   * bar of soap
   * scroll case, ivory and brass
@@ -53,7 +54,6 @@
     * rough street map of Alithica
   * key ring; five keys
   * wallet
-    * four notes of old Imperial money
     * 12 banknotes from Central Bank of Moran, totalling 72 crowns
     * travel papers
     * identity papers for Sebastian Quay-Tyrwhitt

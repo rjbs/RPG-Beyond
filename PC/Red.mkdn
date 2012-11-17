@@ -1,7 +1,7 @@
 
 ## Red the Medium
 
-    Player: John
+    Player: John (then Frank)
     Class: Magic-User
     Level: 1
     Alignment: Neutral

@@ -40,7 +40,7 @@
   * rope, 50' silk
   * 2 flasks oil
   * lantern
-  * iron rations, 2k
+  * iron rations, 2wk
   * tinderbox
   * wineskin
   * wolfbane

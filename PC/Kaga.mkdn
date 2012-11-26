@@ -35,6 +35,7 @@
   * Holy water, 1 flask
   * Rope, 50' silk
   * pouch: 1 pp, 70 gp
+  * pouch: red dust
 
 ## In Storage
 

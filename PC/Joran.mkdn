@@ -10,7 +10,7 @@
 
     Max HP: 3
 
-    XP: 750
+    XP: 850
     XP Bonus: 0%
 
     Str: 12
@@ -32,7 +32,7 @@
 
 * Belt
   * 7 Torches
-  * pouch: 11 sp, 2 ep, 8 cp, 4 other coins (brass?)
+  * pouch: 1 gp, 11 sp, 2 ep, 8 cp, 4 other coins (brass?)
 
 * Horse, flashy
   * saddle

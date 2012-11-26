@@ -1,0 +1,45 @@
+
+## Bergen the Apprentice
+
+    Player: NPC
+    Class: Thief
+    Level: 1
+    Alignment: Neutral
+
+## Stats
+
+    XP: 0
+    XP Bonus: 0%
+
+    Str: 
+    Int: 
+    Wis: 
+    Dex: 
+    Con: 
+    Cha: 
+
+## Languages
+
+- Mercean (Common)
+
+## Stuff
+
+* Leather armor
+* Dagger
+
+* belt
+  * rope, 50' silk
+  * thieves' tools
+
+* small backpack
+  * 5 iron spikes
+  * rock hammer
+
+## In Storage
+
+On deposit with the Edgwold treasurer: 464 gp
+
+## Other
+
+* Horse (Galliard)
+  * saddle

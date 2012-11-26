@@ -1,0 +1,39 @@
+
+## Joran the Soldier
+
+    Player: Abigail
+    Class: Fighter
+    Level: 1
+    Alignment: Neutral
+
+## Stats
+
+    Max HP: 3
+
+    XP: 750
+    XP Bonus: 0%
+
+    Str: 12
+    Int: 10
+    Wis:  6
+    Dex:  9
+    Con:  9
+    Cha:  9
+
+## Languages
+
+- Mercean (Common)
+
+## Stuff
+
+* Sword
+* Leather armor
+* Shield
+
+* Belt
+  * 7 Torches
+  * pouch: 11 sp, 2 ep, 8 cp, 4 other coins (brass?)
+
+* Horse, flashy
+  * saddle
+

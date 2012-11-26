@@ -1,0 +1,46 @@
+
+## Kaga the Proslyte
+
+    Player: Breno
+    Class: Cleric
+    Level: 1
+    Alignment: Lawful
+
+## Stats
+
+    Max HP: 1
+
+    XP: 193
+    XP Bonus: 10%
+
+    Str:  6
+    Int:  7
+    Wis: 18
+    Dex: 10
+    Con: 10
+    Cha: 10
+
+## Languages
+
+- Mercean (Common)
+
+## Stuff
+
+* Chain mail
+* Shield
+* Club (with nails in it)
+* Holy symbol, silver; worn around neck
+
+* Belt
+  * Holy water, 1 flask
+  * Rope, 50' silk
+  * pouch: 1 pp, 70 gp
+
+## In Storage
+
+On deposit with the Edgwold treasurer: 365 gp
+
+## Other
+
+* Riding horse
+  * saddle

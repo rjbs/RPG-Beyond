@@ -32,7 +32,7 @@
 
 * 6 darts
 * Short bow
-  * Quiver w/20 arrows
+  * Quiver w/19 arrows
 
 * Belt
   * 7 Torches

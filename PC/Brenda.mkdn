@@ -10,7 +10,7 @@
 
     Max HP: 5
 
-    XP: 385
+    XP: 793
     XP Bonus: 10%
 
     Str: 16
@@ -29,9 +29,12 @@
 * Chain mail
 * Shield with a monster face on the front
 
+* Short bow
+  * Quiver w/20 arrows
+
 * Belt
   * Sword
-  * 7 Torches
+  * 5 Torches
   * small sack, 27gp
 
 * Backpack
@@ -40,6 +43,8 @@
   * Waterskin
   * Bedroll
   * Rope
+  * Hand drill
+  * Wooden mallet
 
   * Small pouch with blue chalk (found on well-dressed zombie)
   * identity papers (found on well-dressed zombie)
@@ -47,7 +52,7 @@
 
 ## In Storage
 
-On deposit with the Edgwold treasurer: 473 gp
+On deposit with the Edgwold treasurer: 620 gp
 
 In her quarters:
 

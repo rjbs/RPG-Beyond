@@ -10,7 +10,7 @@
 
     Max HP: 3
 
-    XP: 1370
+    XP: 1778
     XP Bonus: 0%
 
     Str: 12
@@ -30,9 +30,13 @@
 * Leather armor
 * Shield
 
+* 6 darts
+* Short bow
+  * Quiver w/20 arrows
+
 * Belt
   * 7 Torches
-  * pouch: 9 dwarfish gp, 11 sp, 2 ep, 8 cp, 4 other coins (brass?)
+  * pouch: 10 gp, 11 sp, 2 ep, 8 cp, 4 other coins (brass?)
   * small sack with seeds scavenged from pots in the river cavern
     * 4 pale red pods like small lotus seeds
     * 2 oversized blue seeds like orange pips
@@ -45,3 +49,6 @@
 * Horse, flashy
   * saddle
 
+## In Storage
+
+On deposit with the Edgwold treasurer: 159 gp

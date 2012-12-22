@@ -10,7 +10,7 @@
 
     Max HP: 1
 
-    XP: 193
+    XP: 531
     XP Bonus: 10%
 
     Str:  6
@@ -39,7 +39,7 @@
 
 ## In Storage
 
-On deposit with the Edgwold treasurer: 365 gp
+On deposit with the Edgwold treasurer: 658 gp
 
 ## Other
 

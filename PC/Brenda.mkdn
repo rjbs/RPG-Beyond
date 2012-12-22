@@ -44,21 +44,14 @@
   * Small pouch with blue chalk (found on well-dressed zombie)
   * identity papers (found on well-dressed zombie)
   * Small book (found on well-dressed zombie)
-  * Heavy, Rainbow Pole (found behind stone pile in mine)
 
 ## In Storage
 
 On deposit with the Edgwold treasurer: 473 gp
 
 In her quarters:
-* small sack with seeds scavenged from pots in the river cavern
-  * 4 pale red pods like small lotus seeds
-  * 2 oversized blue seeds like orange pips
-  * 3 coin-shaped iridescent yellow-green seeds
-  * 5 walnut-sized brown nuts
-  * 8 small lima bean shaped green seeds
-  * 7 prickly grey husks
-  * 3 grey-blue grape-sized seeds
+
+  * Heavy, Rainbow Pole (found behind stone pile in mine)
 
 ## Other
 

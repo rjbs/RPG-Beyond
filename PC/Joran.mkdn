@@ -26,25 +26,16 @@
 
 ## Stuff
 
-* Sword
 * Leather armor
 * Shield
 
 * 6 darts
 * Short bow
-  * Quiver w/19 arrows
+  * Quiver w/18 arrows
 
 * Belt
-  * 7 Torches
+  * 6 Torches
   * pouch: 10 gp, 11 sp, 2 ep, 8 cp, 4 other coins (brass?)
-  * small sack with seeds scavenged from pots in the river cavern
-    * 4 pale red pods like small lotus seeds
-    * 2 oversized blue seeds like orange pips
-    * 3 coin-shaped iridescent yellow-green seeds
-    * 5 walnut-sized brown nuts
-    * 8 small lima bean shaped green seeds
-    * 7 prickly grey husks
-    * 3 grey-blue grape-sized seeds
 
 * Horse, flashy
   * saddle
@@ -52,3 +43,5 @@
 ## In Storage
 
 On deposit with the Edgwold treasurer: 159 gp
+
+Should arrive in account in a few days: 3500gp

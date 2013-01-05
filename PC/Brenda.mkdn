@@ -34,7 +34,7 @@
 
 * Belt
   * Sword
-  * 5 Torches
+  * 4 Torches
   * small sack, 27gp
 
 * Backpack
@@ -50,15 +50,14 @@
   * identity papers (found on well-dressed zombie)
   * Small book (found on well-dressed zombie)
 
-  * giant bug head
-
 ## In Storage
 
 On deposit with the Edgwold treasurer: 620 gp
 
+Should arrive in account in a few days: 3500gp
+
 In her quarters:
 
-  * Heavy, Rainbow Pole (found behind stone pile in mine)
   * Four dwarf skulls (minus mandible)
 
 ## Other
@@ -67,6 +66,3 @@ In her quarters:
   * saddle
 * Donkey (Dernklee)
   * saddle
-* Hirelings
-  * Bergen (Thief 1)
-  * Oresta (Healer)

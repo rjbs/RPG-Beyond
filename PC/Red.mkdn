@@ -30,6 +30,7 @@
 
 ## Stuff
 
+* wizard robes
 * Spell book
   * Charm Person
   * Detect Magic
@@ -47,11 +48,11 @@
   * iron rations, 2wk
   * tinderbox
   * wineskin
-  * wolfbane
+  * wolfbane, 1 bunch
   * sack, large
   * sack, small
     * 80 gp
-  * 2 sets of clothes
+  * 2 sets of clothes (poor condition)
   * bar of soap
   * scroll case, ivory and brass
     * map of Alithica/Middlemarch region

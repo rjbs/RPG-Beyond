@@ -8,7 +8,7 @@
 
 ## Stats
 
-    XP: 838
+    XP: 852
     XP Bonus: 10%
 
     Str:  6
@@ -25,7 +25,7 @@
 
 ## Stuff
 
-* 4 pp, 11 gp
+* 4 pp, 38 gp
 * druid's robes
 * dagger, flint
 * Crossbow

@@ -25,6 +25,7 @@
 
 ## Stuff
 
+* leather armor
 * 4 pp, 38 gp
 * druid's robes
 * dagger, flint

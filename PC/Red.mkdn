@@ -6,6 +6,10 @@
     Level: 1
     Alignment: Neutral
 
+## Fun Facts
+
+* his left hand was crushed by a bandit's mace
+
 ## Stats
 
     XP: 747

@@ -6,6 +6,11 @@
     Level: 1
     Alignment: 
 
+## Fun Facts
+
+* lost his left hand to metallic webbing when falling down the plinth of the
+  statue of Cosativa
+
 ## Stats
 
     XP: 651
@@ -24,7 +29,11 @@
 
 ## Stuff
 
-* sword
 * leather armor
-* 32 gp
+* sword
+* bindle
+  * 32 gp
+  * 100' rope
+  * grappling hook
+  * iron rations, 1 wk
 

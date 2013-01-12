@@ -26,7 +26,7 @@
 ## Stuff
 
 * leather armor
-* 4 pp, 38 gp
+* 4 pp, 33 gp
 * druid's robes
 * dagger, flint
 * Crossbow
@@ -42,3 +42,5 @@
   * quill and parchment
   * 3 applications of poultice
 
+
+* horse!

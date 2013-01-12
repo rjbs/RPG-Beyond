@@ -33,8 +33,10 @@
 * leather armor
 * sword
 * backpack
-  * 27 gp
+  * 16 gp
   * 100' rope
   * grappling hook
-  * iron rations, 1 wk
+  * rations, iron, 1 wk
+  * rations, std., 1 wk
+  * waterskin, water
 

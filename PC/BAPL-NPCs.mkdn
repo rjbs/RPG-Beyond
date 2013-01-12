@@ -1,11 +1,12 @@
 
 ## Michael the Soldier
 
-* 28 gp, 2 cp
+* 23 gp, 2 cp
 
 ## Thordis the Soldier
 
-* 27 gp
+* 26 gp
 * sword
 * hand mirror
+* waterskin, water
 

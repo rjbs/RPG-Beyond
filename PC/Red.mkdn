@@ -45,13 +45,14 @@
   * rope, 50' silk
   * 2 flasks oil
   * lantern
-  * iron rations, 2wk
+  * rations, iron, 2 wk
+  * rations, std., 1 wk
   * tinderbox
-  * wineskin
+  * wineskin, water
   * wolfbane, 1 bunch
   * sack, large
   * sack, small
-    * 80 gp
+    * 110 gp
   * 2 sets of clothes (poor condition)
   * bar of soap
   * scroll case, ivory and brass
@@ -63,7 +64,6 @@
     * travel papers
     * identity papers for Sebastian Quay-Tyrwhitt
     * small ebony card with mystic circle inscribed
-  * wooden case with clarinet
   * book: The Ennobling Legacy of Ægreþ the Exalted
 * belt pouches
 * silver dagger

@@ -43,7 +43,7 @@
 
 * Backpack
   * rope, 50' silk
-  * 2 flasks oil
+  * 1 flasks oil
   * lantern
   * rations, iron, 2 wk
   * rations, std., 1 wk
@@ -52,7 +52,7 @@
   * wolfbane, 1 bunch
   * sack, large
   * sack, small
-    * 110 gp
+    * 105 gp
   * 2 sets of clothes (poor condition)
   * bar of soap
   * scroll case, ivory and brass

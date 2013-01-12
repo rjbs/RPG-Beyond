@@ -33,7 +33,7 @@
 * leather armor
 * sword
 * backpack
-  * 16 gp
+  * 11 gp
   * 100' rope
   * grappling hook
   * rations, iron, 1 wk

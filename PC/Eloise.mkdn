@@ -6,6 +6,10 @@
     Level: 1
     Alignment: 
 
+## Fun Facts
+
+* cut down by bandits after cutting a swath through them
+
 ## Stats
 
     XP: 669

@@ -26,7 +26,7 @@
 ## Stuff
 
 * leather armor
-* 4 pp, 33 gp
+* 4 pp, 27 gp
 * druid's robes
 * dagger, bone; serrated; hole for tying off
 * 10 dagger, throwing, bone
@@ -42,6 +42,9 @@
   * water skin, wine
   * quill and parchment
   * 3 applications of poultice
+  * 2 flasks of sap
+  * bag of glass dust
+  * 3 empty vials
 
 
 * horse!

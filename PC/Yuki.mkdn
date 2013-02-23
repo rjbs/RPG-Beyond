@@ -28,7 +28,8 @@
 * leather armor
 * 4 pp, 33 gp
 * druid's robes
-* dagger, flint
+* dagger, bone; serrated; hole for tying off
+* 10 dagger, throwing, bone
 * Crossbow
 * Quarrel case, 30 quarrels
 * lantern

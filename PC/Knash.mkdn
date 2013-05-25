@@ -1,0 +1,35 @@
+
+## Name the Title
+
+    Player: 
+    Class: 
+    Level: 1
+    Alignment: 
+
+## Stats
+
+    HP: 1
+
+    XP: 0
+    XP Bonus: 0%
+
+    Str:  6
+    Int: 11
+    Wis:  9
+    Dex: 13 (+1)
+    Con: 11
+    Cha:  9
+
+## Languages
+
+- Mercean (Common)
+
+## Stuff
+
+## Spells
+
+* Read Magic
+* Disguise
+* Knives
+* and Sleep
+

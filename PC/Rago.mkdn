@@ -1,0 +1,32 @@
+
+## Name the Title
+
+    Player: Breno
+    Class: Fighter
+    Level: 1
+    Alignment: 
+
+## Stats
+
+    HP: 6
+
+    XP: 0
+    XP Bonus: 0%
+
+    Str: 10
+    Int: 12
+    Wis:  6
+    Dex:  9
+    Con: 12
+    Cha:  7
+
+## Complications
+
+Nearsighted.  Anything beyond 10' is a blur.  -4 to hit with missile weapons.
+
+## Languages
+
+- Mercean (Common)
+
+## Stuff
+

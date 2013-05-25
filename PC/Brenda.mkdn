@@ -31,6 +31,7 @@
 
 ## Stuff
 
+* masterwork sword (+1)
 * Chain mail with gaping hole (AC 6)
 
 * Belt

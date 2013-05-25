@@ -20,6 +20,11 @@
     Con: 12
     Cha: 10
 
+## Complications
+
+* regenerate 1 hp / 3 rounds
+* "don't sleep more than two hours at a time" or else COMPLICATIONS
+
 ## Languages
 
 - Mercean (Common)

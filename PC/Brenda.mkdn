@@ -26,14 +26,9 @@
 
 ## Stuff
 
-* Chain mail
-* Shield with a monster face on the front
-
-* Short bow
-  * Quiver w/20 arrows
+* Chain mail with gaping hole (AC 6)
 
 * Belt
-  * Sword
   * 4 Torches
   * small sack, 27gp
 

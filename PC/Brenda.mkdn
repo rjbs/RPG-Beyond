@@ -3,14 +3,14 @@
 
     Player: Frew
     Class: Fighter
-    Level: 1
+    Level: 2
     Alignment: ?
 
 ## Stats
 
-    Max HP: 5
+    Max HP: 16
 
-    XP: 793
+    XP: 2000
     XP Bonus: 10%
 
     Str: 16
@@ -52,9 +52,7 @@
 
 ## In Storage
 
-On deposit with the Edgwold treasurer: 620 gp
-
-Should arrive in account in a few days: 7000gp
+On deposit with the Edgwold treasurer: 7620 gp
 
 In her quarters:
 

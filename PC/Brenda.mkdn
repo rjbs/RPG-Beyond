@@ -1,5 +1,5 @@
 
-## Brenda the Soldier
+## Brenda the Woman-at-Arms
 
     Player: Frew
     Class: Fighter
@@ -10,7 +10,7 @@
 
     Max HP: 16
 
-    XP: 2000
+    XP: 2393
     XP Bonus: 10%
 
     Str: 16

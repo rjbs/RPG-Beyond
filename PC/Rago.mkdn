@@ -1,7 +1,7 @@
 
-## Name the Title
+## Rago the Soldier
 
-    Player: Breno
+    Player: Breno the Soldier
     Class: Fighter
     Level: 1
     Alignment: 
@@ -10,7 +10,7 @@
 
     HP: 6
 
-    XP: 0
+    XP: 270
     XP Bonus: 0%
 
     Str: 10

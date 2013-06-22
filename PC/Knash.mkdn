@@ -1,7 +1,7 @@
 
 ## Knash Wigg'lPops the ?
 
-    Player: 
+    Player: Abigail
     Class: Unseen
     Level: 1
     Alignment: 
@@ -10,7 +10,7 @@
 
     HP: 1
 
-    XP: 0
+    XP: 358
     XP Bonus: 0%
 
     Str:  6

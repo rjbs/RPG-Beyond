@@ -1,8 +1,8 @@
 
-## Name the Title
+## Knash Wigg'lPops the ?
 
     Player: 
-    Class: 
+    Class: Unseen
     Level: 1
     Alignment: 
 
@@ -26,17 +26,39 @@
 
 ## In Storage
 
-On deposit with the Edgwold treasurer: 3000 gp
+On deposit with the Edgwold treasurer: 3970 gp
 
 ## Stuff
 
-* Horse, flashy
+* Gold 46
+* Leather Armour
+* Shield
+* Dagger
+* Short Bow
+* Quiver w 20 arrows
+* Backpack
+* Thieves Tools
+* Tinder Box
+* Bedroll
+* Lantern
+* Flasks of Oil (5x)
+* Water Skin
+* Standard Rations (5x)
+* Rope
+* Gold
+* Flashy Horse
   * saddle
+* Long dagger (Paul Fenwick)
+* 3 Scroll cases (Paul Fenwick)
+  * Fotheringay's Summons
+  * Keralon's Mirror Image
+  * Imperial War Horror
+* Pouch (Paul Fenwick)
 
 ## Spells
 
 * Read Magic
 * Disguise
 * Knives
-* and Sleep
+* Sleep
 

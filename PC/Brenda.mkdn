@@ -53,7 +53,7 @@
 
   * Small pouch with blue chalk (found on well-dressed zombie)
   * identity papers (found on well-dressed zombie)
-  * Small book (found on well-dressed zombie)
+  * Small book in Goblinese (found on well-dressed zombie)
 
 ## In Storage
 

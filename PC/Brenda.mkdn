@@ -32,7 +32,10 @@
 ## Stuff
 
 * masterwork sword (+1)
-* Chain mail with gaping hole (AC 6)
+* Chain mail (AC 5)
+* shield
+* short bow
+* quiver, 20 arrows
 
 * Belt
   * 4 Torches
@@ -46,16 +49,15 @@
   * Rope
   * Hand drill
   * Wooden mallet
+  * 1 Flask of Oil
 
   * Small pouch with blue chalk (found on well-dressed zombie)
   * identity papers (found on well-dressed zombie)
   * Small book (found on well-dressed zombie)
 
-  * pouch of blue mold from the "water room" under the Gladwell place
-
 ## In Storage
 
-On deposit with the Edgwold treasurer: 4277 gp
+On deposit with the Edgwold treasurer: 4380 gp
 
 In her quarters:
 

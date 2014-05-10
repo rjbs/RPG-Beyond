@@ -10,7 +10,7 @@
 
     Max HP: 16
 
-    XP: 3143
+    XP: 3443
     XP Bonus: 10%
 
     Str: 16

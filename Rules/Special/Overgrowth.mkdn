@@ -1,0 +1,46 @@
+# Heretical Overgrowth Rules
+
+## Overview
+
+Heresy weed is an extraordinary plant cultivated mostly by wizards, arcanists,
+and other such troublemakers.  If carefully tended, it can survive and even
+flourish for many seasons, but will eventually die off, and it never produces
+seed.  It can, however, be transplanted into the living body of any creature
+with a soul, and can live there indefinitely.  After an extended period in a
+host body, it can even be used to take cuttings.
+
+The effects of a heresy weed implantation are complex.  They are dangerous but
+not *entirely* harmful to the host.  The heresy weed can impart improved
+physical and mental prowess, accelerate healing, and even bring the host back
+from apparent death.  On the other hand, it can have strange effects on the
+host's judgement and priorities, can cause fits of somnambulism and lost time,
+and even permanent insanity.  Reports of stranger side effects exist, but are
+neither uniform nor well documented.
+
+## System
+
+A character has a pool of temporary Wisdom points.  The maximum number of
+points in the pool, and its starting value, is the character's permanent Wisdom
+score.
+
+* The player may spend one temporary Wisdom point to regain one hit point, no
+  more than one per combat round.
+
+* The player may spend one permanent Wisdom point to increase their Strength,
+  Dexterity, Constitution, or Intelligence by two.
+
+* The player may spend two permanent Strength, Dexterity, Constitution, or
+  Intelligence points to increase their Wisdom by one.  (This must be two
+  points in a single ability.  Mixing and matching is not allowed.)
+
+* When the character sleeps more than a few hours at a stretch, they must save
+  versus spells (+6) or somnambulate.
+
+* For every two continuous hours of sleep, the character regains one temporary
+  Wisdom point.
+
+* When the character's temporary Wisdom pool is reduced to zero, the character
+  loses one permanent point of Wisdom and gains one Derangement.
+
+* When the character's permanent Wisdom is reduced to zero…
+

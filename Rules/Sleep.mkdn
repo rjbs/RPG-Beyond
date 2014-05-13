@@ -1,0 +1,26 @@
+# Rest and Recovery Rules (tentative)
+
+The best way to be healed from one's injuries is magic.  Unfortunately, most
+of the time you're stuck with bedrest.  The efficacy of bed rest depends on
+the amount of rest and the luxury of the accomodations.
+
+Make one roll for the entire party.  Either everybody slept well or nobody
+did.  Fosters team spirit!  Also, less dice to roll.  This may change in the
+future if we think it would be more fun.
+
+Luxury determines the size of the healing dice:
+
+* Dangerous or desperate accomodations (the dungeon, the woods): d1
+* Standard accomodations (a lousy inn, soldier's quarters): d2
+* Luxurious accomodations (a private villa, a spa): d3
+* Legendary accomodations (a mystical spring, a god's house): d4+1
+
+Duration determines the number of dice:
+
+* an interrupted night's rest: one die, halved, rounded down
+* a full night's rest: one die
+* a full day and night of rest: two dice
+
+After three days without a full night's rest, characters suffer a -2
+to all saving throws.
+

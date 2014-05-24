@@ -39,7 +39,7 @@
 
 * Belt
   * 4 Torches
-  * small sack, 27gp
+  * small sack, 17gp
 
 * Backpack
   * Spyglass (found on well-dressed zombie)
@@ -50,10 +50,14 @@
   * Hand drill
   * Wooden mallet
   * 1 Flask of Oil
+  * manacles, leg irons, locks, keys
+  * miner's pick
 
   * Small pouch with blue chalk (found on well-dressed zombie)
   * identity papers (found on well-dressed zombie)
   * Small book in Goblinese (found on well-dressed zombie)
+
+  * folding-up communication screen (for talking to the goblins)
 
 ## In Storage
 

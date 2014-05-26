@@ -38,7 +38,7 @@
 * quiver, 20 arrows
 
 * Belt
-  * 4 Torches
+  * 2 Torches
   * small sack, 17gp
 
 * Backpack

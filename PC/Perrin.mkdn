@@ -1,0 +1,51 @@
+## Perrin the Ranger
+
+    Player: Matthew H.
+    Class: Ranger
+    Level: 1
+    Alignment: Neutral
+
+## Stats
+
+    Max HP: 4
+
+    XP: 3476
+    XP Bonus: 10%
+
+    Str: 13
+    Int: 11
+    Wis: 12
+    Dex: 14
+    Con: 11
+    Cha:  8
+
+## Languages
+
+- Mercean (Common)
+
+## Stuff
+
+* 25gp
+
+* studded leather armor
+* shortbow
+* quiver, 20 arrows
+* longsword
+* shortsword
+* dagger
+* grenade, mystery
+
+* backpack
+* waterskin
+* bottle, stoppered, steel
+* rope, 50'
+* torches, 6
+* tinderbox
+* nylon wire, 100'
+* caltrops, 1 pouch
+
+## In Storage
+
+
+## Other
+

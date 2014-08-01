@@ -1,0 +1,41 @@
+# Aspect-Oriented Progression
+
+PCs have Aspects.  These are words or phrases that describe what the character
+is good at and what they're all about.  There are two kinds of Aspects: General
+Aspects and Specific Aspects.  When performing an action covered by one of the
+PC's Aspects, the player gets a bonus to their roll.
+
+Specific Aspects grant an additional +2 beyond the normal Aspect bonus.
+
+When applying Aspect bonuses, only one Aspect's bonus is applied.  Use the
+larger bonus.  The applicability of an aspect to any given circumstance is up
+to the referee's discretion.
+
+    PC Level          Aspect Bonus      Aspect Count
+    1                 +2                2
+    2                 +2                2
+    3                 +3                3
+    4                 +3                3
+    5                 +3                3
+    6                 +4                4
+    7                 +4                4
+    8                 +4                4
+    9                 +5                5
+
+Every PC begins with their class as a General Aspect and may pick one second
+Aspect.  At every third level, the PC gains another Aspect of the player's
+choice and referee's approval.
+
+## Examples
+
+Ergot the Prophet is 3rd level.  His Aspects are Prophet (General), Vagabond
+(General), and Fast-Talker (Specific).
+
+When looking for a suitable place to camp after losing all of his gear in a
+freak miracle-misfire, he can call upon his years as a homeless wanderer and
+get a +4 bonus to his check.  Successful, he finds a small stone bridge that
+provides shelter from the rain.  When the troll who usually camps beneath the
+bridge returns and Ergot attempts to convince her that she should be pleased by
+his visit, he gets a +5 bonus (+3 for his Fast-Talker aspect, +2 because it's a
+Specific Aspect).
+

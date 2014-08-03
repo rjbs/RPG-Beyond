@@ -1,0 +1,64 @@
+
+# Ranger
+
+Rangers are masters of the outdoors, patrolling and protecting large stretches
+of wilderness from evil humanoids and monsters. Rangers often take on the role
+of spy, scout and the first line of defense for more civilized and settled
+areas. They are well-versed in combat and survival in wilderness settings.
+
+## Requirements and Restrictions
+
+Rangers use eight-sided dice (d8) to determine their hit points and standard
+weapon damage.
+
+Rangers may use any weapons and armor, but they can not use their unique
+ranger abilities when wearing heavier than chain mail.
+
+## Special Abilities
+
+Rangers use the 2d6 Thief Skills table for the following skills, of which they
+choose one as their favored skill.
+
+### Tracking
+
+Familiar with the signs left by humans, humanoids and various other creatures
+as they make their way through the wilderness, rangers can discover and follow
+the trail of those they are pursuing – sometimes even in the worst of
+conditions.
+
+### Move Silently
+
+(as thief skill)
+
+### Hide in Wilderness
+
+(as thief skill "Hide in Shadows")
+
+### Wilderness Survival
+
+Rangers learn how to live off of the land and survive even the harshest natural
+environments. If a ranger spends at least six hours a day gathering food and
+supplies (hunting, fishing, gathering fruits, berries, firewood, setting up a
+camp, etc.) they can keep a party of up to six adventures alive and well.
+
+### Direction Sense
+
+When traveling from a known location through natural terrain, Rangers do not
+get lost.
+
+## Advancement
+
+    Level   Title         XP          HD 
+        1                      0      1d8
+        2                  2,500      2d8
+        3                  5,000      3d8
+        4                 10,000      4d8
+        5                 20,000      5d8
+        6                 40,000      6d8
+        7                 80,000      7d8
+        8                160,000      8d8
+        9                310,000      9d8
+
+## Saving Throws
+
+(as fighter)

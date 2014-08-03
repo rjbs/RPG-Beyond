@@ -53,6 +53,7 @@
   * manacles, leg irons, locks, keys
   * miner's pick
 
+  * pouch of orange fungus from Temple of the Abyss
   * Small pouch with blue chalk (found on well-dressed zombie)
   * identity papers (found on well-dressed zombie)
   * Small book in Goblinese (found on well-dressed zombie)

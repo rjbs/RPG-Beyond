@@ -14,8 +14,12 @@ some hits that might land on better qualified adventurers.
 
 ### Awesome Points
 
-Every character receives one Awesome Point per game day.  Awesome Points
-can be spent to replace any die or dice roll with a d30.
+Every character receives one Awesome Point per game day.  Use it or lose it.
+
+The Awesome Point can be spent to:
+
+* replace a d20 with a d30 (before you roll it)
+* reroll any roll after it's been made but before its effect has been declared
 
 ### Carousing
 

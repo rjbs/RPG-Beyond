@@ -9,8 +9,7 @@
 
     Max HP: 4
 
-    XP: 3476
-    XP Bonus: 10%
+    XP: 365
 
     Str: 13
     Int: 11

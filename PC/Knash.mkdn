@@ -26,7 +26,10 @@
 
 ## In Storage
 
-On deposit with the Edgwold treasurer: 3642 gp
+On deposit with the Edgwold treasurer:
+
+* 3642 gp
+* 2 Rainbow coins, 1 coin w square designs; stored in bank
 
 ## Stuff
 
@@ -54,7 +57,15 @@ On deposit with the Edgwold treasurer: 3642 gp
   * Keralon's Mirror Image
   * Imperial War Horror
 * Pouch (Paul Fenwick)
+* key to Benjamin Harker's chains
 * keyring (from guardsman killed at the Temple ruins)
+* Sprigs of wolfsbane (archer)
+
+* "gold magic" -- hollow coin from goblin
+* "sad magic" -- sphere section from goblin
+* "move magic" -- box and wired-up wand from goblin
+* excavation device (as reassembled by Dera)
+
 
 ## Spells
 

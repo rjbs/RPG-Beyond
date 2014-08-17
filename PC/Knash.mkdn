@@ -30,6 +30,7 @@ On deposit with the Edgwold treasurer:
 
 * 3642 gp
 * 2 Rainbow coins, 1 coin w square designs; stored in bank
+* Long dagger (Paul Fenwick)
 
 ## Stuff
 
@@ -38,33 +39,31 @@ On deposit with the Edgwold treasurer:
 * Shield
 * Dagger
 * Short Bow
-* Quiver w 20 arrows
+* 2 Quivers w 13 arrows
 * Backpack
 * Thieves Tools
 * Tinder Box
 * Bedroll
 * Lantern
-* Flasks of Oil (5x)
+* Flasks of Oil (4x)
 * Water Skin
 * Standard Rations (5x)
 * Rope
-* Gold
 * Flashy Horse
   * saddle
-* Long dagger (Paul Fenwick)
 * 3 Scroll cases (Paul Fenwick)
   * Fotheringay's Summons
   * Keralon's Mirror Image
   * Imperial War Horror
-* Pouch (Paul Fenwick)
-* key to Benjamin Harker's chains
-* keyring (from guardsman killed at the Temple ruins)
+* Pouch (Paul Fenwick) (Handed over to Brenda)
+* Key to Benjamin Harker's chains
+* Keyring (from guardsman killed at the Temple ruins)
 * Sprigs of wolfsbane (archer)
 
-* "gold magic" -- hollow coin from goblin
-* "sad magic" -- sphere section from goblin
-* "move magic" -- box and wired-up wand from goblin
-* excavation device (as reassembled by Dera)
+* "Gold magic" -- hollow coin from goblin
+* "Sad magic" -- sphere section from goblin
+* "Move magic" -- box and wired-up wand from goblin
+* Excavation device (as reassembled by Dera)
 
 
 ## Spells

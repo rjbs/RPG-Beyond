@@ -26,7 +26,7 @@
 
 ## In Storage
 
-On deposit with the Edgwold treasurer: 3600 gp
+On deposit with the Edgwold treasurer: 3642 gp
 
 ## Stuff
 
@@ -54,6 +54,7 @@ On deposit with the Edgwold treasurer: 3600 gp
   * Keralon's Mirror Image
   * Imperial War Horror
 * Pouch (Paul Fenwick)
+* keyring (from guardsman killed at the Temple ruins)
 
 ## Spells
 

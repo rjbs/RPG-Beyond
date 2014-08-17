@@ -1,0 +1,54 @@
+# Calendar for The Year 937
+
+* Each row is one season: Winter, Spring, Summer, Autumn
+* Each month is one moon cycle; the new moon is on the first, full on the 15th
+* Occasionally, intercalary days are added at the beginning of seasons
+
+         Snowy Moon               Lover's Moon              Green Moon
+    Su Mo Tu We Th Fr Sa     Su Mo Tu We Th Fr Sa     Su Mo Tu We Th Fr Sa
+           1  2  3  4  5               1  2  3  4                     1  2
+     6  7  8  9 10 11 12      5  6  7  8  9 10 11      3  4  5  6  7  8  9
+    13 14 15 16 17 18 19     12 13 14 15 16 17 18     10 11 12 13 14 15 16
+    20 21 22 23 24 25 26     19 20 21 22 23 24 25     17 18 19 20 21 22 23
+    27 28 29                 26 27 28 29 30           24 25 26 27 28 29
+
+
+          Hail Moon              Triumphal Moon            Yellow Moon
+    Su Mo Tu We Th Fr Sa     Su Mo Tu We Th Fr Sa     Su Mo Tu We Th Fr Sa
+                       1         1  2  3  4  5  6            1  2  3  4  5
+     2  3  4  5  6  7  8      7  8  9 10 11 12 13      6  7  8  9 10 11 12
+     9 10 11 12 13 14 15     14 15 16 17 18 19 20     13 14 15 16 17 18 19
+    16 17 18 19 20 21 22     21 22 23 24 25 26 27     20 21 22 23 24 25 26
+    23 24 25 26 27 28 29     28 29                    27 28 29 30
+
+
+         Rainy Moon               Harvest Moon               Red Moon
+    Su Mo Tu We Th Fr Sa     Su Mo Tu We Th Fr Sa     Su Mo Tu We Th Fr Sa
+                 1  2  3                     1  2      1  2  3  4  5  6  7
+     4  5  6  7  8  9 10      3  4  5  6  7  8  9      8  9 10 11 12 13 14
+    11 12 13 14 15 16 17     10 11 12 13 14 15 16     15 16 17 18 19 20 21
+    18 19 20 21 22 23 24     17 18 19 20 21 22 23     22 23 24 25 26 27 28
+    25 26 27 28 29           24 25 26 27 28 29 30     29
+
+
+         Leafy Moon                Frost Moon                Black Moon
+    Su Mo Tu We Th Fr Sa     Su Mo Tu We Th Fr Sa     Su Mo Tu We Th Fr Sa
+        1  2  3  4  5  6               1  2  3  4                  1  2  3
+     7  8  9 10 11 12 13      5  6  7  8  9 10 11      4  5  6  7  8  9 10
+    14 15 16 17 18 19 20     12 13 14 15 16 17 18     11 12 13 14 15 16 17
+    21 22 23 24 25 26 27     19 20 21 22 23 24 25     18 19 20 21 22 23 24
+    28 29 30                 26 27 28 29              25 26 27 28 29 30
+
+
+## Notable Events
+
+*  4 Red:   Edgwold guard investigates disturbance at Gladwell
+
+*  8 Leafy: Party allies with goblins to kill the vampire
+* 12 Leafy: Party sets off for Strada to find a vampire killer
+* 19 Leafy: Perrin joins the party
+* 22 Leafy: Conway the Metalworker's cabin found destroyed by blue tendrils
+
+* Currently 22 Leafy
+
+* 1 Frost: Knash is meant to attend a secret revel; location yet undisclosed

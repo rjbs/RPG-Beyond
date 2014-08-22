@@ -2,9 +2,16 @@ Battle Axe:
   cost: 7
   enc:  1
 
+Battle Axe, two-handed:
+  cost: 10
+  enc:  2
+  damage: large
+  keywords: [ two-handed ]
+
 Hand Axe:
-  cost: 4
+  cost: 2
   enc:  1
+  damage: small
 
 Bolt case:
   cost: 5
@@ -17,14 +24,18 @@ Quarrels, 30:
 Crossbow:
   cost: 10
   enc:  2
+  range: ?
+  rate of fire: 1/2
 
 Long Bow:
   cost: 40
   enc:  2
+  range: ?
 
 Short Bow:
   cost: 25
   enc:  1
+  range: ?
 
 Quiver:
   cost: 5
@@ -42,10 +53,12 @@ Arrow, silver-tip:
 Dagger:
   cost: 3
   enc:  ~
+  damage: small
 
 Dagger, silver:
   cost: 30
   enc:  ~
+  damage: small
 
 
 Sword, Short:
@@ -55,10 +68,13 @@ Sword, Short:
 Sword, Bastard:
   cost: 10
   enc:  2
+  keywords: [ versatile ]
 
 Sword, Long:
   cost: 15
   enc:  3
+  damage: large
+  keywords: [ two-handed ]
 
 
 Mace:
@@ -70,18 +86,28 @@ Club:
   enc:  1
 
 Pole Arm:
-  cost: 7
-  enc:  2
+  cost: 10
+  enc:  4
+  damage: large
+  keywords: [ two-handed ]
 
 Sling:
   cost: 2
   enc:  1
+  range: ?
 
 Spear:
   cost: 3
   enc:  1
+  range: ?
 
 War Hammer:
   cost: 5
   enc:  2
+
+Maul:
+  cost: 8
+  enc:  3
+  keywords: [ two-handed ]
+  damage: large
 

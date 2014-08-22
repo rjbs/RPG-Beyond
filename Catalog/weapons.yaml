@@ -1,0 +1,87 @@
+Battle Axe
+  cost: 7
+  enc:  1
+
+Hand Axe
+  cost: 4
+  enc:  1
+
+Bolt case
+  cost: 5
+  enc:  1
+
+Quarrels, 30
+  cost: 10
+  enc:  1
+
+Crossbow
+  cost: 10
+  enc:  2
+
+Long Bow
+  cost: 40
+  enc:  2
+
+Short Bow
+  cost: 25
+  enc:  1
+
+Quiver
+  cost: 5
+  enc:  1
+
+Arrows, 20
+  cost: 5
+  enc:  1
+
+Arrow, silver-tip
+  cost: 5
+  enc:  -
+
+
+Dagger
+  cost: 3
+  enc:  -
+
+Dagger, silver
+  cost: 30
+  enc:  -
+
+
+Sword, Short
+  cost: 7
+  enc:  1
+
+Sword, Bastard
+  cost: 10
+  enc:  2
+
+Sword, Long
+  cost: 15
+  enc:  3
+
+
+Mace
+  cost: 5
+  enc:  1
+
+Club
+  cost: 3
+  enc:  1
+
+Pole Arm
+  cost: 7
+  enc:  2
+
+Sling
+  cost: 2
+  enc:  1
+
+Spear
+  cost: 3
+  enc:  1
+
+War Hammer
+  cost: 5
+  enc:  2
+

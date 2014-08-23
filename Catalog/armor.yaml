@@ -1,0 +1,20 @@
+Leather:
+  cost: 10 gp
+  AC: +2
+  weight: 10 lb.
+
+Mail shirt:
+  cost: 40 gp
+  AC: +4
+  weight: 40 lb.
+
+Half plate:
+  cost: 300 gp
+  AC: +6
+  weight: 55 lb.
+  notes: No benefit to AC from Dexterity while wearing.
+
+Shield:
+  cost: 10 gp
+  AC: +1
+  weight: 6 lb.

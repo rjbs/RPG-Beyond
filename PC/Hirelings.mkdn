@@ -1,0 +1,41 @@
+# The Gang's Hired Help
+
+## Oresta the Healer
+
+Normal human.  2 hp.  AC 9.  THAC0 20.
+
+Earns 3gp per day on retainer, including "non-adventuring days."
+
+## Clem the Carrier
+
+Normal human.  7 hp.  AC 8.  THAC0 20.
+
+Earns 2gp per day of adventure.
+
+## Dera the Sword ♀
+
+Fighter 1.  6 hp.  AC 6.  THAC0 19.  +1 to hit, damage.
+
+Bastard sword, chainmail.
+
+Earns 10gp per day of adventure, plus a half share of any significant treasure.
+
+## Hoyte the Soldier
+
+Fighter 0.  6 hp.  AC 6.  THAC0 19.
+
+**EARNINGS NOT YET DETERMINED**
+
+## Burdoc the Cook ♂
+
+Normal human.  2 hp.  AC 9.  THAC0 20.
+
+Earns 1gp per day of adventure.
+
+## Tucky the Page ♀
+
+Normal human.  2 hp.  AC 9.  THAC0 20.
+
+Teenager who watches the animals, runs odd jobs.
+
+Earns 1gp per day of adventure.

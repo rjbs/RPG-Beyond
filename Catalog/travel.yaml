@@ -1,0 +1,52 @@
+# Pack, draft, and riding animals:
+
+Donkey:
+  cost: 10 gp
+  speed: 40
+  load: 400 lb.
+
+Horst, draft:
+  cost: 50 gp
+  speed: 40
+  load: 500 lb.
+
+Horse, riding:
+  cost: 75 gp
+  speed: 60
+  load: 400 lb.
+
+# Vehicles and riding gear
+
+Cart:
+  cost: 15 gp
+  load: 200 lb.
+
+Saddle, pack:
+  cost: 5 gp
+
+Saddle, riding:
+  cost: 10 gp
+
+Saddlebags:
+  cost: 4 gp
+
+Wagon:
+  cost: 35 gp
+  load: 400 lb.
+
+# Travel as a Service (TaaS)
+# Prices given are per day.
+
+Caravan travel, membership:
+  cost: 5 gp
+  notes: |
+    This gets you the right to travel with a caravan that has its own mercenary
+    guards.  It can travel 15 miles per day over roads, on average.
+
+Caravan travel, carriage:
+  cost: 10 gp
+  notes: |
+    This includes caravan membership as well as a private carriage for up to
+    six people and their (limited) belongings.  Each additional wagonload costs
+    an additional 5 gp.
+

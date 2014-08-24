@@ -20,6 +20,8 @@
     Con: 11
     Cha:  9
 
+    Attack: +1
+
 ## Languages
 
 - Mercean (Common)

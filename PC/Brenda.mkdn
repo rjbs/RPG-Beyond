@@ -20,6 +20,8 @@
     Con: 12
     Cha: 10
 
+    Attack: +2
+
 ## Complications
 
 * regenerate 1 hp / 3 rounds

@@ -20,6 +20,8 @@
     Con: 12
     Cha:  7
 
+    Attack: +1
+
 ## Complications
 
 Nearsighted.  Anything beyond 10' is a blur.  -4 to hit with missile weapons.

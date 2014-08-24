@@ -34,7 +34,7 @@
 ## Stuff
 
 * masterwork sword (+1)
-* Chain mail (AC 5)
+* Chain mail (AC +4)
 * shield
 * short bow
 * quiver, 20 arrows

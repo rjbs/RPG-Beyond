@@ -21,6 +21,7 @@
     Cha:  9
 
     Attack: +1
+    BONUS : Bow proficiency
 
 ## Languages
 

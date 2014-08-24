@@ -21,6 +21,13 @@ The Awesome Point can be spent to:
 * replace a d20 with a d30 (before you roll it)
 * reroll any roll after it's been made but before its effect has been declared
 
+### Bows Are Hard
+
+Bows are the exception to "everybody can use every weapon."  Using a bow
+requires special training.  Otherwise, there's a hefty to-hit penalty.  Only
+fighter-like classes are trained in bow use.  Anybody can use a crossbow,
+though.
+
 ### Carousing
 
 I use Jeff's rules for

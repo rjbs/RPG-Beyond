@@ -22,7 +22,7 @@ Quarrels, 30:
   enc:  1
 
 Crossbow:
-  cost: 10
+  cost: 25
   enc:  2
   range: ?
   rate of fire: 1/2

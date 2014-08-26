@@ -115,3 +115,7 @@ Maul:
   keywords: [ two-handed ]
   damage: large
 
+Quarterstaff:
+  cost: 4 sp
+  enc: 2
+  keywords: [ two-handed ]

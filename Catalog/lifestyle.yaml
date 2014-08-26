@@ -4,12 +4,12 @@
 
 Lifestyle, squalid:
   cost: 8 cp
-Lifestyle, poor:
-  cost: 2 sp
 Lifestyle, modest:
   cost: 6 sp
+Lifestyle, comfortable:
+  cost: 2 gp
 Lifestyle, luxurious:
-  cost: 6 gp
+  cost: 8 gp
 
 # Costs for one-off items.
 

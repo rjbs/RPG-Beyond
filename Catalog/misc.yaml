@@ -1,70 +1,233 @@
-Backpack: ~
+Backpack:
+  cost: 4 gp
+  description: durable leather backpack
+  availability: common
 Bedroll: ~
-Bell, hand: ~
-Billycan: ~
-Birdcage: ~
-Bivy: ~
-Bottle, pint: ~
-Caltrops: ~
-Camp stove: ~
-Candle: ~
-Canteen: ~
-Chain: ~
-Chalk: ~
-Chest, large: ~
-Chest, small: ~
-Climbing kit: ~
-Clothing, common: ~
-Clothing, exotic: ~
+  cost: 2 gp
+  description: roll-up quilted sleeping bag with oilcloth exterior
+  availability: common
+Bell, hand:
+  cost: 1 gp
+  description: brass bell with a handle
+  availability: uncommon
+Billycan:
+  cost: 5 sp
+  description: small steel can or pot for boiling water
+  availability: common
+Birdcage:
+  cost: 1 gp
+  description: brass cage about 1 ft³ suitable for small bird
+  availability: special order
+Bivy:
+  cost: 2 gp
+  description: collapsible waterproof enclosure for one person
+Caltrops:
+  cost: 1 gp
+  description: two dozen steel snares, each about the size of a plum
+Camp stove:
+  cost: 5 gp
+  description: portable metal stove; two burners, burns naphtha or paraffin
+  availability: uncommon
+Candle:
+  cost: 1 sp
+  description: a dozen wax candles, six hours each; 5' light radius
+Canteen:
+  cost: 5 sp
+  description: sealed leather skin for water or wine; stopper and strap
+Chain, 3 ft.:
+  cost: 5 gp
+  description: a yard of steel chain
+Chalk:
+  cost: 1 sp
+  description: one piece of hard writing chalk, color of your choice
+Chest, large:
+  cost: 2 gp
+  description: wooden chest, 12 ft³, latch but no lock
+Chest, small:
+  cost: 1 gp
+  description: wooden chest, 1 ft³, latch but no lock
+Climbing harness:
+  cost: 5 gp
+  description: leather harness with fittings for safe climbing
+Clothing, common:
+  cost: 5 sp
+  availability: common
+  description: clothing in the local style for daily wear
+Clothing, exotic:
+  cost: 20 gp
+  availability: special order
+  description: common clothing in the style of a distant land
 Clothing, finery: ~
-Compass: ~
-Cookware, compact: ~
-Crowbar: ~
-Entrenching tool: ~
-First aid kit: ~
-Flare: ~
-Flask, glass, pint: ~
-Gloves: ~
-Goggles: ~
-Grappling hook: ~
-Hammer, metal: ~
-Hatchet: ~
-Healer's kit: ~
-Heater, flameless: ~
-Holy symbol, wood: ~
-Holy symbol: silver: ~
-Ink: ~
-Jeweler's tools: ~
-Ladder: ~
-Lantern: ~
-Lock: ~
-Locksmith's kit: ~
-Lucifers: ~
-Magnifying glass: ~
-Mallet, wooden: ~
-Manacles: ~
-Mirror, hand: ~
-Mirror, tiny: ~
-Naphtha: ~
-Oil, pint: ~
+  cost: 10 gp
+  availability: special order
+  description: the clothing of the aristocracy
+Compass:
+  cost: 10 gp
+  availability: special order
+  description: a metal and glass compass that finds due north
+Cookware, compact:
+  cost: 3 gp
+  description: a small set of pots and utensils for use on the road
+Crowbar:
+  cost: 5 sp
+  description: a 3 ft. steel bar with hooked and tapered ends
+Entrenching tool:
+  cost: 8 gp
+  description: a collapsible shovel and axe
+  availability: uncommon
+First aid kit:
+  cost: 10 gp
+  description: small metal case with plasters, creosote, opium
+Flare:
+  cost: 8 gp
+  description: paper rocket with parachute, on a stick
+  availability: special order
+Flask, glass, pint:
+  cost: 3 sp
+  description: hard glass bottle with a cork
+Gloves, work:
+  cost: 1 gp
+  description: heavy cut-resistant leather gloves
+Goggles:
+  cost: 3 gp
+  description: leather, brass, and glass goggles that cover the eyes
+Grappling hook:
+  cost: 1 gp
+  description: light metal hook with a ring for attaching rope
+Hammer, metal:
+  cost: 5 sp
+  description: suitable for driving nails or pitons
+Hatchet:
+  cost: 5 sp
+  description: one handed axe for cutting or shaping wood
+Healer's kit:
+  cost: 5 gp
+  description: herbs, salves, powders, foul liquids, and no instructions
+Heater, flameless:
+  cost: 20 gp
+  description: |
+    portable metal heater that consumes naphtha and produces heat, but no flame
+Holy symbol, wood:
+  cost: 1 sp
+  description: |
+    simple wooden holy symbol on a string; availability varies by symbol
+Holy symbol: silver:
+  cost: 5 gp
+  description: |
+    well-crafted sylver holy symbol on a chain; availability varies by symbol
+Ink:
+  cost: 6 sp
+  description: four ounces of black ink in a glass vial (included)
+Jeweler's tools:
+  cost: 40 gp
+  description: leather pouch with a loupe, pins, files, burrs, and the like
+Ladder:
+  cost: 2 gp
+  description: wooden ladder, 10 feet
+Lantern, mantle:
+  cost: 6 gp
+  description: brass lantern with a gas mantle; burns naptha, 3 hours per pint
+Lock:
+  cost: 10 gp
+  description: simple pad lock with a key
+Locksmith's kit:
+  cost: 40 gp
+  description: blank keys, files, probes, clamps, and other small tools
+Lucifers:
+  cost: 5 sp
+  description: two dozen wooden matches in a paper box with a striking surface
+Magnifying glass:
+  cost: 8 gp
+  description: hand-held magnifying glass, 4x magnification
+Mallet, wooden:
+  cost: 2 sp
+Manacles:
+  cost: 5 gp
+  description: sturdy steel manacles for human-sized wrists or ankles
+Mining helmet:
+  cost: 5 sp
+  description: a light helmet with a small candle mount and reflector
+Mirror, hand:
+  cost: 1 gp
+  description: a hand-held mirror for looking at one's own face
+Mirror, tiny:
+  cost: 1 gp
+  description: a circular mirror about four inches in diameter
+Naphtha:
+  cost: 3 sp
+  description: |
+    one pint of naptha; container not included; naptha burns cleaner than
+    paraffin and evaporates much more readily
 Paper case, leather: ~
-Paper, 10 leaves: ~
-Pencil: ~
-Pocketwatch: ~
-Pole, 10 ft.: ~
-Pliers: ~
-Pulley: ~
-Rations, one week: ~
-Rope, hemp: ~
-Sewing kit: ~
-Sledgehammer: ~
-Songbird: ~
-Spike, iron: ~
-Spyglass: ~
-Tape, duck: ~
-Tarp, oilcloth: ~
-Tent: ~
-Tinderbox: ~
-Toiletry kit: ~
-Torches: ~
-Whistle: ~
+  cost: 4 gp
+  description: a round leather case that holds up to 20 leaves of paper
+Paper, 10 leaves:
+  cost: 1 sp
+  description: ten leaves of whitish paper about 6 by 9 inches
+Paraffin:
+  cost: 1 sp
+  description: |
+    one pint of paraffin; container not included; paraffin burns dirtier than
+    naptha, is stickier, and evaporates less readily
+Pencil:
+  cost: 5 cp
+  description: a single wooden pencil; no eraser
+Pocketwatch:
+  cost: 5 gp
+  description: brass pocketwatch, accurate within a few minutes a week
+Pole, 10 ft.:
+  cost: 3 sp
+  description: a sturdy length of hardwood
+Pliers:
+  cost: 8 sp
+  description: a pair of steel flat-nosed pliers
+Pulley:
+  cost: 15 sp
+  description: a single wooden pulley
+Rations, one week:
+  cost: 3 gp
+  description: enough food for one week's nutrition, preserved to last weeks
+Rope, hemp:
+  cost: 4 sp
+  description: 50 ft. of ½ inch thick hemp rope
+Sewing kit:
+  cost: 5 sp
+  description: |
+    several needles, a few small spools of thread, buttons, and a seam ripper
+Sledgehammer:
+  cost: 5 sp
+Songbird:
+  cost: 5 cp
+  description: a small bird (e.g. sparrow or starling); considered good luck
+Spike, iron:
+  cost: 1 sp
+  description: an iron wedge with a hole for rope in the thick end
+Spyglass:
+  cost: 20 gp
+  description: metal telescope, 12 inches extended, 6 inches collapsed; 10x
+Tape, duck:
+  cost: 6 sp
+  description: a roll of adhesive cotton, 100 feet
+Tarp, oilcloth:
+  cost: 7 sp
+  description: 9 by 12 foot waterproofed canvas with grommets along the edges
+Tent:
+  cost: 4 gp
+  description: collapsible fabric tent for up to three people
+Tinderbox:
+  cost: 5 sp
+  description: stoppered steel tube with flint, steel, and charpaper
+Toiletry kit:
+  cost: 10 gp
+  description: |
+    leather case with soap, alum, comb, toothbrush, razor, salt, tiny mirror
+Torches:
+  cost: 5 cp
+  description:
+    a wooden stick with a sulfurous paste at one end; will burn for one hour,
+    even under water, and provides light in a 15 foot radius
+Vial, glass:
+  description: glass tube with stopper; holds about four fluid ounces
+Whistle:
+  cost: 2 sp
+  description: a small wooden pea whistle on a string

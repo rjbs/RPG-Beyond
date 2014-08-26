@@ -18,22 +18,28 @@ Bolt case:
   enc:  1
 
 Quarrels, 30:
-  cost: 10
+  cost: 5
   enc:  1
 
 Crossbow:
-  cost: 25
+  cost: 30
   enc:  2
   range: ?
   rate of fire: 1/2
 
+Crossbow, hand:
+  cost: 50
+  enc: 1
+  range: ?
+  rate of fire: 1/2
+
 Long Bow:
-  cost: 40
+  cost: 20
   enc:  2
   range: ?
 
 Short Bow:
-  cost: 25
+  cost: 12
   enc:  1
   range: ?
 
@@ -42,24 +48,22 @@ Quiver:
   enc:  1
 
 Arrows, 20:
-  cost: 5
+  cost: 4
   enc:  1
 
 Arrow, silver-tip:
-  cost: 5
+  cost: 2
   enc:  ~
 
-
 Dagger:
-  cost: 3
+  cost: 2
   enc:  ~
   damage: small
 
 Dagger, silver:
-  cost: 30
+  cost: 20
   enc:  ~
   damage: small
-
 
 Sword, Short:
   cost: 7
@@ -82,11 +86,11 @@ Mace:
   enc:  1
 
 Club:
-  cost: 3
+  cost: 1 sp
   enc:  1
 
 Pole Arm:
-  cost: 10
+  cost: 8 gp
   enc:  4
   damage: large
   keywords: [ two-handed ]

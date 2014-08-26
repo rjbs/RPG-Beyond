@@ -14,7 +14,15 @@ Half plate:
   weight: 55 lb.
   notes: No benefit to AC from Dexterity while wearing.
 
+Helmet:
+  cost: 8 gp
+  AC: +1
+  notes: penalties to perception checks
+
 Shield:
   cost: 10 gp
   AC: +1
   weight: 6 lb.
+  notes: |
+    Can be used against two attacks per round.
+    Can be sacrificed, after damage is dealt, to negate one attack.

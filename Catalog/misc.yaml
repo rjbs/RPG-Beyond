@@ -78,6 +78,9 @@ Entrenching tool:
 First aid kit:
   cost: 10 gp
   description: small metal case with plasters, creosote, opium
+Fishing kit:
+  cost: 6 gp
+  description: rod, string, hook, floats, lures, sinkers, and gaff
 Flare:
   cost: 8 gp
   description: paper rocket with parachute, on a stick

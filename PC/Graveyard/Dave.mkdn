@@ -1,9 +1,0 @@
-
-## Dave the Medium
-
-Player: Ben
-Class: Magic-User
-Level: 1
-
-Dave was lost when his party descended down the chasm in the painted cave,
-never to return.

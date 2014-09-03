@@ -1,9 +1,0 @@
-
-## Poseidon the Apprentice
-
-Player: Ben
-Class: Thief
-Level: 1
-
-Poseidon was laid low by a goblin who disarmed him of his trademark
-trident.  He was avenged by the nameless fighter.

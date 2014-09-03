@@ -1,9 +1,0 @@
-
-## Jared the Acolyte
-
-Player: Robert
-Class: Cleric
-Level: 1
-
-Jared bravely charged into the zombie pit and learned that zombies really hate
-clerics.

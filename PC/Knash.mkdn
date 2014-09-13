@@ -23,6 +23,11 @@
     Attack: +1
     BONUS : Bow proficiency
 
+    Armour Class: 14    10 Base
+                        +2 Leather Armour
+                        +1 Shield
+                        +1 Dex
+
 ## Languages
 
 - Mercean (Common)

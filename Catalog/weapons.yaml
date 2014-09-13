@@ -65,6 +65,10 @@ Dagger, silver:
   enc:  ~
   damage: small
 
+Darts:
+  cost: 10
+  enc: ~
+
 Sword, Short:
   cost: 7
   enc:  1

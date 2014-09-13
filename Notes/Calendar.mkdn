@@ -4,6 +4,7 @@
 * Each month is one moon cycle; the new moon is on the first, full on the 15th
 * Occasionally, intercalary days are added at the beginning of seasons
 
+```
          Snowy Moon               Lover's Moon              Green Moon
     Su Mo Tu We Th Fr Sa     Su Mo Tu We Th Fr Sa     Su Mo Tu We Th Fr Sa
            1  2  3  4  5               1  2  3  4                     1  2
@@ -38,7 +39,7 @@
     14 15 16 17 18 19 20     12 13 14 15 16 17 18     11 12 13 14 15 16 17
     21 22 23 24 25 26 27     19 20 21 22 23 24 25     18 19 20 21 22 23 24
     28 29 30                 26 27 28 29              25 26 27 28 29 30
-
+```
 
 ## Notable Events
 

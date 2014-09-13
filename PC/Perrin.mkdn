@@ -46,6 +46,7 @@
 * waterskin
 * bottle, stoppered, steel
 * rope, 50'
+* climbing harness
 * torches, 6
 * duck tape (100 feet)
 * whistle

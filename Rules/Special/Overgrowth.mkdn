@@ -27,7 +27,7 @@ score.
   more than one per combat round.
 
 * The player may spend one permanent Wisdom point to increase their Strength,
-  Dexterity, Constitution, or Intelligence by two.
+  Dexterity, Constitution, or Intelligence by one.
 
 * The player may spend two permanent Strength, Dexterity, Constitution, or
   Intelligence points to increase their Wisdom by one.  (This must be two

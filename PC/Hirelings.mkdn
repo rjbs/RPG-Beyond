@@ -4,7 +4,7 @@
 
 Normal human.  2 hp.  AC 10.  Attack +0.
 
-Earns 3gp per day on retainer, including "non-adventuring days."
+Earns 1gp per day on retainer, including "non-adventuring days."
 
 ## Clem the Carrier
 
@@ -18,13 +18,14 @@ Fighter 1.  6 hp.  AC 14.  Attack +1.  +1 to hit, damage.
 
 Bastard sword, chainmail.
 
-Earns 10gp per day of adventure, plus a half share of any significant treasure.
+Earns 5gp per day of adventure, plus a half share of any significant treasure.
 
 ## Hoyte the Soldier
 
 Fighter 0.  6 hp.  AC 14.  Attack +1.
 
-**EARNINGS NOT YET DETERMINED**
+Earns 4gp per day of adventure, plus a quarter share of any significant
+treasure.
 
 ## Burdoc the Cook ♂
 

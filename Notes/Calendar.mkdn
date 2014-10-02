@@ -49,7 +49,12 @@
 * 12 Leafy: Party sets off for Strada to find a vampire killer
 * 19 Leafy: Perrin joins the party
 * 22 Leafy: Conway the Metalworker's cabin found destroyed by blue tendrils
+* 29 Leafy: Party calls in a goblin to demolish the entrance to the old
+            temple ruins.
+* 30 Leafy: "The Dwarf" is sent to investigate the ruins and determine a cause.
+*  1 Frost: Party attempts to make their way into the old mines beneath the
+            Gladwell place, but is chased off by ghasts.
 
-* Currently 22 Leafy
+* Currently 1 Frost
 
 * 1 Frost: Knash is meant to attend a secret revel; location yet undisclosed

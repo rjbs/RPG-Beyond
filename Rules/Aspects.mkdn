@@ -22,9 +22,12 @@ to the referee's discretion.
     8                 +4                4
     9                 +5                5
 
-Every PC begins with their class as a General Aspect and may pick one second
-Aspect.  At every third level, the PC gains another Aspect of the player's
-choice and referee's approval.
+A PC has a Concept, which is the way in which that PC embodies their class.
+For example, a "Fighter" class PC might be "Mercenary" or "Swashbuckler" or
+"Itinerant Student of All The World's Great Warriors."  Every PC begins with
+their Concept as a General Aspect and may pick one second Aspect.  At every
+third level, the PC gains another Aspect of the player's choice and referee's
+approval.
 
 ## Examples
 

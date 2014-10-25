@@ -10,7 +10,7 @@
 
     HP: 1
 
-    XP: 2089
+    XP: 2289
     XP Bonus: 0%
 
     Str:  6
@@ -34,16 +34,17 @@
 
 ## In Storage
 
-On deposit with the Edgwold treasurer:
+On deposit with the Edgwold treasurer: 100
 
-* 3625 gp, 75 cp
-* 2 Rainbow coins, 1 coin w square designs; stored in bank
-* Long dagger (Paul Fenwick)
 
 ## Stuff
 
+* 3163 gp
+* 2 Rainbow coins, 1 coin w square designs; stored in bank
+* Long dagger (Paul Fenwick)
+
 * Gold 32
-* Silver 6
+* Silver 5
 * Leather Armour
 * Shield
 * Dagger
@@ -68,6 +69,14 @@ On deposit with the Edgwold treasurer:
 * Key to Benjamin Harker's chains
 * Keyring (from guardsman killed at the Temple ruins)
 * Sprigs of wolfsbane (archer)
+* Compact Cookware
+* Entrenching tool
+* Fishing kit
+* Grappling hook
+* Jeweler's tools
+* Tape, duck
+* Tent
+* Whistle
 
 * "Gold magic" -- hollow coin from goblin
 * "Sad magic" -- sphere section from goblin

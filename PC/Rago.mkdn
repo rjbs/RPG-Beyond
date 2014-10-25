@@ -47,10 +47,15 @@ Nearsighted.  Anything beyond 10' is a blur.  -4 to hit with missile weapons.
 * Dagger
 * Chain Mail Armor
 * Shield (Cool; flames on it and stuff)
+* Extra Shield (not so cool, but does the trick)
 * Bedroll
 * Ration (5x)
 * Water Skin
 * Wine Skin
+* Manacles
+* Magnifying Glass
+* Goggles
+* Spy Glass
 * Glass bottle of green healing drink; 1 pint
 * piece of paper with illegible writing and Rago's signature
 

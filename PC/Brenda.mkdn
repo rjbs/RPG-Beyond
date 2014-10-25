@@ -60,7 +60,26 @@
   * identity papers (found on well-dressed zombie)
   * Small book in Goblinese (found on well-dressed zombie)
 
-  * 293 gp, 75 cp
+  * 265 gp, 3sp, 75 cp
+
+  * folding-up communication screen (for talking to the goblins)
+
+  * Winter clothes (?)
+  * Saddlebags
+  * Block and Tackle
+  * Fishing Gear
+  * Caltrops
+  * Cookpots (?)
+  * Crampons (?)
+  * Crowbar
+  * Grappling Hook
+  * Lock
+  * Maps (?)
+  * Mirror Hand
+  * Mirror Tiny
+  * Shovel (?)
+  * Soap (?)
+  * Whistle
 
 In her quarters:
 

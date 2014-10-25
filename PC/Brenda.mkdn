@@ -60,15 +60,17 @@
   * identity papers (found on well-dressed zombie)
   * Small book in Goblinese (found on well-dressed zombie)
 
-  * folding-up communication screen (for talking to the goblins)
-
-## In Storage
-
-On deposit with the Edgwold treasurer: 3293 gp, 75 cp
+  * 293 gp, 75 cp
 
 In her quarters:
 
   * Four dwarf skulls (minus mandible)
+
+ * folding-up communication screen (for talking to the goblins)
+
+## In Storage
+
+* in bank: 3000
 
 ## Other
 

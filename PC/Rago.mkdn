@@ -32,13 +32,13 @@ Nearsighted.  Anything beyond 10' is a blur.  -4 to hit with missile weapons.
 
 ## In Storage
 
-On deposit with the Edgwold treasurer: 400
+* in bank, 50
 
 ## Stuff
 
 * A camel named "Pearl" (+saddle/bridle)
 * 2 saddle bags
-* 13gp, 70cp
+* 363gp, 70cp
 
 * Tinderbox (flint & steel)
 * 6 torches

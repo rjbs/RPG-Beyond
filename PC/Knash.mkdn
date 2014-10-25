@@ -42,13 +42,14 @@ On deposit with the Edgwold treasurer:
 
 ## Stuff
 
-* Gold 43
+* Gold 42
 * Silver 6
 * Leather Armour
 * Shield
 * Dagger
 * Short Bow
 * 2 Quivers w 23 arrows
+* 10 Darts
 * Backpack
 * Thieves Tools
 * Tinder Box

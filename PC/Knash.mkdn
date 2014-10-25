@@ -42,7 +42,7 @@ On deposit with the Edgwold treasurer:
 
 ## Stuff
 
-* Gold 42
+* Gold 32
 * Silver 6
 * Leather Armour
 * Shield
@@ -75,6 +75,7 @@ On deposit with the Edgwold treasurer:
 * Excavation device (as reassembled by Dera)
 
 * Fancy goatskin hat/cloak in a hatbox
+* Nice outfit, including "finery" hat.
 
 
 ## Spells

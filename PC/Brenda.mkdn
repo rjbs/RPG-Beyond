@@ -10,7 +10,7 @@
 
     Max HP: 16
 
-    XP: 3757
+    XP: 4057
     XP Bonus: 10%
 
     Str: 16
@@ -60,7 +60,7 @@
   * identity papers (found on well-dressed zombie)
   * Small book in Goblinese (found on well-dressed zombie)
 
-  * 3165 gp, 3sp, 75 cp
+  * 2865 gp, 3sp, 75 cp
 
   * folding-up communication screen (for talking to the goblins)
 
@@ -89,7 +89,7 @@ In her quarters:
 
 ## In Storage
 
-* in bank: 2900
+* in bank: 100
 
 ## Other
 

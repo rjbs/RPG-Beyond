@@ -10,7 +10,7 @@
 
     HP: 1
 
-    XP: 2089
+    XP: 2289
     XP Bonus: 0%
 
     Str:  6
@@ -34,13 +34,14 @@
 
 ## In Storage
 
-On deposit with the Edgwold treasurer:
+On deposit with the Edgwold treasurer: 100
 
-* 3563 gp
-* 2 Rainbow coins, 1 coin w square designs; stored in bank
-* Long dagger (Paul Fenwick)
 
 ## Stuff
+
+* 3263 gp
+* 2 Rainbow coins, 1 coin w square designs; stored in bank
+* Long dagger (Paul Fenwick)
 
 * Gold 32
 * Silver 5

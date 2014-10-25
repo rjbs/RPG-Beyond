@@ -9,7 +9,7 @@
 
     Max HP: 4
 
-    XP: 465
+    XP: 165
 
     Str: 13
     Int: 11

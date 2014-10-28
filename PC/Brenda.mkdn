@@ -24,8 +24,7 @@
 
 ## Complications
 
-* regenerate 1 hp / 3 rounds
-* "don't sleep more than two hours at a time" or else COMPLICATIONS
+* see "Overgrowth" rules in git
 
 ## Languages
 

@@ -60,7 +60,7 @@
   * identity papers (found on well-dressed zombie)
   * Small book in Goblinese (found on well-dressed zombie)
 
-  * 2865 gp, 3sp, 75 cp
+  * 2845 gp, 3sp, 75 cp
 
   * folding-up communication screen (for talking to the goblins)
 

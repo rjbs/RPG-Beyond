@@ -57,7 +57,7 @@ On deposit with the Edgwold treasurer: 100
 * Tinder Box
 * Bedroll
 * Lantern
-* Flasks of Oil -- Paraffin (5x)
+* Flasks of Oil -- Paraffin (4x)
 * Water Skin
 * Standard Rations (5x)
 * Rope

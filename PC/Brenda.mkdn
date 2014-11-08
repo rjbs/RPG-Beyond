@@ -3,12 +3,12 @@
 
     Player: Frew
     Class: Fighter
-    Level: 2
+    Level: 3
     Alignment: ?
 
 ## Stats
 
-    Max HP: 16
+    Max HP: 20
 
     XP: 4057
     XP Bonus: 10%
@@ -20,12 +20,11 @@
     Con: 12
     Cha: 10
 
-    Attack: +2
+    Attack: +3
 
 ## Complications
 
-* regenerate 1 hp / 3 rounds
-* "don't sleep more than two hours at a time" or else COMPLICATIONS
+* see "Overgrowth" rules in git
 
 ## Languages
 
@@ -60,7 +59,7 @@
   * identity papers (found on well-dressed zombie)
   * Small book in Goblinese (found on well-dressed zombie)
 
-  * 2865 gp, 3sp, 75 cp
+  * 2820 gp, 3sp, 75 cp
 
   * folding-up communication screen (for talking to the goblins)
 

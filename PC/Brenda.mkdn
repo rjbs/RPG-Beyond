@@ -55,6 +55,7 @@
   * miner's pick
 
   * pouch of orange fungus from Temple of the Abyss
+  * pouch of brown fungus from clearing in elven woods
   * Small pouch with blue chalk (found on well-dressed zombie)
   * identity papers (found on well-dressed zombie)
   * Small book in Goblinese (found on well-dressed zombie)
@@ -80,11 +81,9 @@
   * Soap (?)
   * Whistle
 
-In her quarters:
+Packed up:
 
-  * Four dwarf skulls (minus mandible)
-
- * folding-up communication screen (for talking to the goblins)
+ * Four dwarf skulls (minus mandible)
 
 ## In Storage
 

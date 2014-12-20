@@ -16,6 +16,7 @@ Energy Points: 10
 
 1 - Cerebral Override;  touch person, dominate their will for 6 turns
 1 - Commune with Machine;  touch complex machine, gain understanding of it
+1 - Risk Assessment;  spend a round studying foe, learn something about it
 2 - System Repair; heal 1d6+6 hp on self
 2 - Enhanced Senses; see in the dark, into IR and UV, bionic hearing; etc; 1hr
 3 - Communication Network; everyone touched can comm. silently for 1hr

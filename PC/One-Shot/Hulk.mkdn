@@ -24,5 +24,5 @@
 * torn-up clothes
 * surprisingly-expensive steel-toed boots
 
-* ?
+* brutal cestus: +1 damage per two points beyond needed to-hit
 * ?

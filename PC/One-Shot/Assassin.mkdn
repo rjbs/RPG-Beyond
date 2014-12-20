@@ -38,5 +38,5 @@ failure, they die.  On a success, they take double damage from the attack.
 
 * two doses poison
 
-* ?
+* 2 smoke bombs
 * ?

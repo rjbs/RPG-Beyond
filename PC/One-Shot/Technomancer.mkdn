@@ -34,5 +34,5 @@ Energy Points: 10
 * invisibility device; 6 pins; every person wearing a pin is invisible for 6
   minutes;  **costs 3 energy to activate**
 
-* ?
+* exchange hp for ep, 2:1
 * ?

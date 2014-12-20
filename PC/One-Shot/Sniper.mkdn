@@ -1,0 +1,28 @@
+
+## Eriana the Sniper
+
+    Sniper 6
+    hp 21
+
+    str 10  dex 16  con  8  int  8  wis 15  cha 13
+         -      +2      -1      -1      +1      +1
+
+    atk +6
+    def 14
+
+### Gear
+
+* leather armor
+* soft boots
+* short sword
+* crossbow, 30 bolts
+* single-shot rifle
+
+* exploding bolt
+* sleeping-gas bolt
+* self-anchoring climbing rope bolt (2)
+* flash-bang bolt
+* web bolt
+
+* ?
+* ?

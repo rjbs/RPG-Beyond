@@ -1,7 +1,7 @@
 ## Perrin the Ranger
 
     Player: Matthew H.
-    Class: Ranger
+    Class: Hunter (Ranger)
     Level: 1
     Alignment: Neutral
 
@@ -19,6 +19,10 @@
     Cha:  8
 
     Attack: +1
+
+## Aspects
+
+* Hunter
 
 ## Languages
 

@@ -1,0 +1,28 @@
+
+## Nergal the Hulk
+
+    Hulk 6
+    hp 45
+
+    str 18  dex 10  con 16  int  5  wis 11  cha  8
+        +3       -      +2      -2       -      -1
+
+    atk +6
+    def 12
+
+### Special
+
+* can't be knocked prone
+* can split attack dice without penalty in melee combat
+* shrugs off 1hp of every attack
+* gets a free attack when taking more than 4hp
+
+### Gear
+
+* big metal shield
+* cestus
+* torn-up clothes
+* surprisingly-expensive steel-toed boots
+
+* brutal cestus: +1 damage per two points beyond needed to-hit
+* ?

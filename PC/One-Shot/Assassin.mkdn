@@ -1,0 +1,42 @@
+
+## Berk the Assassin
+
+    Assassin 6
+    hp 21
+
+    str 13  dex 15  con 10  int 16  wis  8  cha  8
+        +1      +1       -      +2      -1      -1
+
+    atk +3
+    def 15
+
+    pick pockets  45%
+    open locks    37%
+    trap stuff    35%
+    move silent   33%
+    hide/shadows  25%
+    climbs walls  88%
+    read langs    20%
+
+**Assassination**: Spent three rounds studying your enemy and then perform a
+sneak attack.  The victim must save versus assault with a penalty of 8.  On
+failure, they die.  On a success, they take double damage from the attack.
+
+
+### Spells
+
+* Feather Fall
+* Spider Climb
+
+### Gear
+
+* black clothing; so black; head to toe
+* black hood and mask
+* short sword
+* stiletto
+* leather armor
+
+* two doses poison
+
+* 2 smoke bombs
+* ?

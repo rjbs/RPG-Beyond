@@ -1,7 +1,7 @@
 ## Perrin the Ranger
 
     Player: Matthew H.
-    Class: Ranger
+    Class: Hunter (Ranger)
     Level: 1
     Alignment: Neutral
 
@@ -19,6 +19,11 @@
     Cha:  8
 
     Attack: +1
+
+## Aspects
+
+* Hunter
+* Expert Climber
 
 ## Languages
 
@@ -56,11 +61,14 @@
 * nylon wire, 100'
 * caltrops, 1 pouch, 24 caltrops
 * pencil and paper (5 sheets)
-* paperback book, "Rejecting Yourself: Being Purely Human"
 * crowbar
+* Rusted pistol, 18 bullets. Bad condition. Revolver - 6 shooter
+* Unknown amount of unknown white bricks that weigh very little and have slots in them
 
 ## In Storage
 
 
 ## Other
 
+* Riding horse
+  * Saddle

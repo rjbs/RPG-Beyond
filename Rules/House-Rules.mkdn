@@ -64,27 +64,20 @@ though, you'll still end up dead.
 Adventuring takes a lot of gear, and gear is a big pain to carry around.  So,
 yeah, we're going to use encumbrance.  Let's try to make it painless.
 
-If an item is big or heavy enough that you'd notice it being added to your kit,
-it counts toward encumbrance.  If it's particularly big or heavy, it might
-count double or more.  Carrying more than your Strength score in Encumbrance
-slows you down by 25% of your normal movement.  At double your Strength in
-encumbrance, you're at half speed and you lose your Dexterity bonus for armor
-class.
+A character's combat movement rate is 40' per round, assuming they are
+unarmored and not carrying a pack.  Leather armor slows you down to 30' per
+round and metal armor to 20' per round.
 
-Leather armor is worth 5 points.  Chainmail is worth 15 points.  Plate armor is
-worth 25 points.
-
-Most of the time, most equipment must be stowed in some kind of container.
-Otherwise, your character spends the whole adventure with his or her hands
-full, which makes swinging an axe pretty tough.  A character can hold one item
-in each hand.  A belt can hold six items, but only two of them can be
-encumbrance items.  A bandolier can hold four items, and does count toward
-encumbrance.  Everything else is likely to go into a bag or backpack.
+Most adventurers carry crazy amounts of stuff in big packs, "just in case."
+Wearing a pack slows you down by 10' per round.  You can't wear full plate
+armor *and* carry a pack.  Without a pack on, only minimal equipment can be
+carried: one or two pouches, or maybe a small purse.
 
 Accessing stuff in your backpack requires taking it off and rooting through it.
-If there are more than 5 items in your pack, getting the right item out in one
-round requires rolling 1d20 and getting a result higher than the number of
-items you've got.
+Getting your pack off or on takes a whole round's movement.  If there are more
+than five items in your pack, getting the right item out in one action requires
+a Dex/Wis check (whichever is higher) against a target set by the DM based on
+the length of the character's inventory.
 
 ### Every hero needs a sidekick
 

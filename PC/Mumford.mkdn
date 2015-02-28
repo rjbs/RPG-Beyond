@@ -1,0 +1,28 @@
+
+## Brother Mumford the Theurge
+
+    Player: Joe K.
+    Class: Cleric
+    Level: 1
+    Alignment:
+
+## Stats
+
+    XP: 0
+    XP Bonus: 0%
+
+    HP: 7
+
+    Str: 11
+    Int:  5
+    Wis: 12
+    Dex: 12
+    Con: 13
+    Cha: 18
+
+## Languages
+
+- Mercean (Common)
+
+## Stuff
+

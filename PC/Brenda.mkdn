@@ -59,6 +59,7 @@
   * Small pouch with blue chalk (found on well-dressed zombie)
   * identity papers (found on well-dressed zombie)
   * Small book in Goblinese (found on well-dressed zombie)
+  * jeweled silver music box
 
   * 100 gp, 3sp, 5 cp
 

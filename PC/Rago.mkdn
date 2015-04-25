@@ -38,7 +38,7 @@ Nearsighted.  Anything beyond 10' is a blur.  -4 to hit with missile weapons.
 
 * A camel named "Pearl" (+saddle/bridle)
 * 2 saddle bags
-* 312gp, 70cp
+* 100gp, 5cp
 
 * Tinderbox (flint & steel)
 * 6 torches

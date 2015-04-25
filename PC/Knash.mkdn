@@ -39,12 +39,10 @@ On deposit with the Edgwold treasurer: 100
 
 ## Stuff
 
-* 3155 gp
+* 100 gp, 5 sp
 * Long dagger (Paul Fenwick)
 
 * 7 gold + 2 other metal coins (from dresser in overgrown house)
-* Gold 32
-* Silver 5
 * Leather Armour
 * Shield
 * Dagger
@@ -55,14 +53,11 @@ On deposit with the Edgwold treasurer: 100
 * Thieves Tools
 * Tinder Box
 * Bedroll
-* 13 Lanterns (12 from village)
+* Lantern
 * Flasks of Oil -- Paraffin (4x)
-* 48 Flasks of Oil; 2 pints each (from village)
 * Water Skin
 * Standard Rations (5x)
 * Rope
-* Flashy Horse
-  * saddle
 * 2 Scroll cases (Paul Fenwick)
   * Fotheringay's Summons
   * Keralon's Mirror Image
@@ -84,13 +79,9 @@ On deposit with the Edgwold treasurer: 100
 * 2 Grenades (from machine in village)
 * Jewelry box w jewelry (building h in village)
    + Pairs of earrings
-   + Necklaces 
+   + Necklaces
    + Chokers    (all gold, 15-100 gold pieces)
 * Obsidian disc, with four small lights (building h in village)
-* Flour, 20 pounds (from village)
-* Sugar, 20 pounds (from village)
-* Rice, 20 pounds (from village)
-* Salt, 20 pounds (from village)
 
 * "Gold magic" -- hollow coin from goblin
 * "Sad magic" -- sphere section from goblin

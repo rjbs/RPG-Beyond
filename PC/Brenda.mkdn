@@ -60,12 +60,11 @@
   * identity papers (found on well-dressed zombie)
   * Small book in Goblinese (found on well-dressed zombie)
 
-  * 2820 gp, 3sp, 75 cp
+  * 100 gp, 3sp, 5 cp
 
   * folding-up communication screen (for talking to the goblins)
 
   * Winter clothes (?)
-  * Saddlebags
   * Block and Tackle
   * Fishing Gear
   * Caltrops
@@ -86,20 +85,9 @@ Packed up:
 
  * Four dwarf skulls (minus mandible)
 
-## Cart
-
- * 10 Bottles Wine
- * 24 tins powdered Milk
- * 10 lb dried meat
- * 3 large wheels of cheese
-
 ## In Storage
 
 * in bank: 100
 
 ## Other
 
-* Riding horse (Starpony)
-  * saddle
-* Donkey (Dernklee)
-  * saddle

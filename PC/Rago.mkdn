@@ -40,6 +40,8 @@ Nearsighted.  Anything beyond 10' is a blur.  -4 to hit with missile weapons.
 * 2 saddle bags
 * 100gp, 5cp
 
+* on the camel: 5862 gp
+
 * Tinderbox (flint & steel)
 * 6 torches
 * backpack

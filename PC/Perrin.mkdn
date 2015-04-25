@@ -14,11 +14,14 @@
     Str: 13
     Int: 11
     Wis: 12
-    Dex: 14
+    Dex: 14 +1
     Con: 11
     Cha:  8
 
     Attack: +1
+    Armour Class: 12    10 Base
+                        +2 Leather Armour
+                        +1 (Dex)
 
 ## Aspects
 
@@ -47,8 +50,6 @@
 > black top and bottom.  A metal handle runs the length of the side, hinged
 > at the top and fastened to the bottom with a pin.
 
-* grenade, 4x from the village machine, of lesser quality
-
 * backpack
 * waterskin
 * bottle, stoppered, steel
@@ -65,7 +66,7 @@
 * caltrops, 1 pouch, 24 caltrops
 * pencil and paper (5 sheets)
 * crowbar
-* Rusted pistol, 18 bullets. Bad condition. Revolver - 6 shooter
+* Rusted pistol, 15 bullets. Bad condition. Revolver - 6 shooter (2d6 damage)
 * Unknown amount of unknown white bricks that weigh very little and have slots in them
 * magic metal torch
 

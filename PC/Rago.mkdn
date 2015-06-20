@@ -43,13 +43,12 @@ Nearsighted.  Anything beyond 10' is a blur.  -4 to hit with missile weapons.
 * on the camel: 5862 gp
 
 * Tinderbox (flint & steel)
-* 6 torches
+* 4 torches
 * backpack
-* Battle Axe
+* Battle Axe (broken, unbalanced (-2), only one good side to hit)
 * Dagger
 * Chain Mail Armor
-* Shield (Cool; flames on it and stuff)
-* Extra Shield (not so cool, but does the trick)
+* Shield (not very cool, but does the trick)
 * Bedroll
 * Ration (5x)
 * Water Skin
@@ -60,6 +59,7 @@ Nearsighted.  Anything beyond 10' is a blur.  -4 to hit with missile weapons.
 * Spy Glass
 * Glass bottle of green healing drink; 1 pint
 * piece of paper with illegible writing and Rago's signature
+* mask: canvas sack with large goggles and large red grin painted on
 
 * (from Drex the spaceship scientist)
  * folding knife - wallet

@@ -8,6 +8,7 @@
 ## Stats
 
     Max HP: 4
+    **TWO BROKEN ARMS**
 
     XP: 855
 
@@ -35,7 +36,7 @@
 ## Stuff
 
 * 5 gp, 1 sp, 1 cp
-* 1 heavy rainbow-metal coin
+* middlemarch coins: 18 gp, 12 sp, 4 cp
 
 * studded leather armor
 * shortbow
@@ -43,6 +44,7 @@
 * longsword
 * shortsword
 * dagger
+* mask: perfectly circular smooth front; the rainbow wheel
 
 * grenade, mystery
 
@@ -55,7 +57,7 @@
 * bottle, stoppered, steel
 * rope, 50'
 * climbing harness
-* torches, 6
+* torches, 4
 * duck tape (100 feet)
 * whistle
 * tinderbox
@@ -66,7 +68,7 @@
 * caltrops, 1 pouch, 24 caltrops
 * pencil and paper (5 sheets)
 * crowbar
-* Rusted pistol, 15 bullets. Bad condition. Revolver - 6 shooter (2d6 damage)
+* Rusted pistol, 8 bullets. Bad condition. Revolver - 6 shooter (2d6 damage)
 * Unknown amount of unknown white bricks that weigh very little and have slots in them
 * magic metal torch
 

@@ -28,7 +28,7 @@ Earns 5gp per day of adventure, plus a half share of any significant treasure.
 
 ## Jared the Acolyte ♀
 
-Cleric 0.  3 gp.  AC 11.  Attack +0
+Cleric 0.  4 hp.  AC 11.  Attack +0
 
   Str 7, Int 7, Wis 11, Dex 11, Con 7, Cha 12
 

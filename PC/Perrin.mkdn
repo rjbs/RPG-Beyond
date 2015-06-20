@@ -10,7 +10,7 @@
     Max HP: 4
     **TWO BROKEN ARMS**
 
-    XP: 855
+    XP: 930
 
     Str: 13
     Int: 11

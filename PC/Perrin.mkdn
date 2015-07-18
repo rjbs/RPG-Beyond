@@ -4,6 +4,7 @@
     Class: Hunter (Ranger)
     Level: 1
     Alignment: Neutral
+    Mask: dome mask; the rainbow wheel
 
 ## Stats
 
@@ -44,7 +45,6 @@
 * longsword
 * shortsword
 * dagger
-* mask: perfectly circular smooth front; the rainbow wheel
 
 * grenade, mystery
 

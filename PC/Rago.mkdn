@@ -40,13 +40,15 @@ Nearsighted.  Anything beyond 10' is a blur.  -4 to hit with missile weapons.
 * 2 saddle bags
 * 50gp, 5cp
 
-* on the camel: 5662 gp
+* on the camel: 5605 gp
 
 * Tinderbox (flint & steel)
 * 4 torches
 * backpack
 * Battle Axe (broken, unbalanced (-2), only one good side to hit)
-* Dagger
+* wooden shield
+* Daggers, 2
+* War hammer
 * Chain Mail Armor
 * Shield (not very cool, but does the trick)
 * Bedroll

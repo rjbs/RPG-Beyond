@@ -14,7 +14,8 @@ some hits that might land on better qualified adventurers.
 
 ### Awesome Points
 
-Every character receives one Awesome Point per game day.  Use it or lose it.
+Every character receives one Awesome Point per game session.  Use it or lose
+it.
 
 The Awesome Point can be spent to:
 
@@ -24,7 +25,7 @@ The Awesome Point can be spent to:
 ### Bows Are Hard
 
 Bows are the exception to "everybody can use every weapon."  Using a bow
-requires special training.  Otherwise, there's a hefty to-hit penalty.  Only
+requires special training.  Otherwise, there's a hefty -4 to-hit penalty.  Only
 fighter-like classes are trained in bow use.  Anybody can use a crossbow,
 though.
 
@@ -39,15 +40,25 @@ sovereigns.
 
 ### Critical Hits & Fumbles
 
-A natural 20 on the 'to-hit' roll indicates a critical strike, and does
-maximum damage.  A natural 1 indicates a fumble, and something bad happens.
+A natural 20 on the 'to-hit' roll indicates a critical strike.  Roll for
+damage.  If you roll the maximum, roll again and add it.  Keep doing that as
+long as you roll the maximum on your damage dice.  If you don't roll the
+maximum the first time, you do as much damage as the best single roll could've
+gotten you.
+
+A natural 1 indicates a fumble, and something bad happens, to be determined by
+the DM.  Common rulings:  enemy gets a free attack, weapon dropped, weapon
+broken, attack hits an ally, or whatever seems hilarious at the time.
 
 ### Damage by Class
 
 The damage your weapons do is mostly determined by your class, not your weapon.
 Fighters usually do 1d8 damage.  Wizards do 1d4.  Everybody else does 1d6.
-Some weapons stink and do one die worse, and some are brutal and do one better.
-Pick your weapon because of its awesomeness, not its damage.  This rule is, in
+
+Some weapons (kitchen knives, darts, chair legs) stink and do one die worse,
+and some are brutal and do one better.  Fighting unarmed does one die worse.
+
+Pick your weapon because of its awesomeness, not its damage!  This rule is, in
 part, a harkening back to original D&D rules, and in part taken from [a forum
 post by Dyson Logos at Goblinoid
 Games](http://www.goblinoidgames.com/forums/viewtopic.php?f=9&t=102#p651).

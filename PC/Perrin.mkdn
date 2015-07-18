@@ -10,7 +10,7 @@
     Max HP: 4
     **TWO BROKEN ARMS**
 
-    XP: 930
+    XP: 1130
 
     Str: 13
     Int: 11
@@ -35,7 +35,7 @@
 
 ## Stuff
 
-* 5 gp, 1 sp, 1 cp
+* 1 sp, 1 cp
 * middlemarch coins: 18 gp, 12 sp, 4 cp
 
 * studded leather armor

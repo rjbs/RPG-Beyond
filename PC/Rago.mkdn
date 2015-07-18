@@ -10,7 +10,7 @@
 
     HP: 6
 
-    XP: 1526
+    XP: 1826
     XP Bonus: 0%
 
     Str: 10
@@ -40,7 +40,7 @@ Nearsighted.  Anything beyond 10' is a blur.  -4 to hit with missile weapons.
 * 2 saddle bags
 * 100gp, 5cp
 
-* on the camel: 5862 gp
+* on the camel: 5662 gp
 
 * Tinderbox (flint & steel)
 * 4 torches

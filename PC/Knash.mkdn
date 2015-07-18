@@ -10,7 +10,7 @@
 
     HP: 1
 
-    XP: 2589
+    XP: 2889
     XP Bonus: 0%
 
     Str:  6
@@ -39,7 +39,7 @@ On deposit with the Edgwold treasurer: 100
 
 ## Stuff
 
-* 3155 gp, 5 sp
+* 2660 gp, 5 sp
 * Long dagger (Paul Fenwick)
 
 * 7 gold + 2 other metal coins (from dresser in overgrown house)

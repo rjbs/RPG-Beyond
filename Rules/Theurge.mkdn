@@ -1,0 +1,39 @@
+# Theurge
+
+In every true human resides a shard of the divine.  Every human is chosen by
+one god, who lives within them and binds them to their brothers and sisters who
+share that god in common.  Many never have any experience of the god within
+them, or are unsure whether they have experienced it, though they may boast of
+their deep connection to their god.
+
+A theurge, though, goes further, and vows to take whatever orders may come,
+surrendering to the will of their god.  As a novice, a theurge takes up the
+profession of their order — healer, warrior, scholar, etc. — and practices it
+until achieving direct knowledge of their god.  From that point on, the theurge
+acts on divine orders when available, and personal instinct at other times.
+They perform miracles and defend their god in all its manifestations.
+
+A human's god choses them at birth (or earlier), and conversion from one god to
+another is impossible, or at least practically so.  Churches do not see to
+convert believers from one god to another, though individual orders try to win
+favor over others.  (The less divinely inspired men and women of a community
+are likely to pay their tithes just as well as those who feel they've been
+given orders directly from their god, after all.)
+
+Almost all gods are seen as allies of humanity, although some are considered
+quite bizarre, or at least not the topic of polite conversation.  Most theurges
+claim that there are no evil gods, only strange ones and demons masquerading as
+gods.  The more serious threat, theurges agree, is athiests.
+
+## Requirements and Restrictions
+
+## Special Abilities
+
+Depends on deity and order.  Most clerics of Ibrim act as fighters with
+inferior combat stats.
+
+Beginning at 2nd level, divine magic.
+
+## Advancement
+
+...

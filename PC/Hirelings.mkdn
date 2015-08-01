@@ -46,3 +46,4 @@ Earns 1gp per day of adventure.
 Hired out of the village of Clem, east of the elf's woods, Annis was not
 offerred any wages at all.
 
+* collection of spices (from exploded telescope house)

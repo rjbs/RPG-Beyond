@@ -48,7 +48,7 @@ On deposit with the Edgwold treasurer: 100
 * Shield
 * Dagger
 * Short Bow
-* 2 Quivers w 15 arrows
+* 2 Quivers w 14 arrows
 * 10 Darts
 * Backpack
 * Thieves Tools
@@ -80,7 +80,7 @@ On deposit with the Edgwold treasurer: 100
    - Labelled Whiskey (80-90 years).
 * 4 Potions (assumed to be healing potions) (from machine in village)
 * Device to channel energy (from machine in village)
-* 2 Grenades (from machine in village)
+* 1 Grenade (from machine in village)
 * Jewelry box w jewelry (building h in village)
    + Pairs of earrings
    + Necklaces
@@ -90,9 +90,27 @@ On deposit with the Edgwold treasurer: 100
    - Device used to detect presence of gods and their effects nearby
 * silk tent, collapsed
 * brass wrist watch  on ruined leather strap; engraved with coat of arms
+* from the dead guy in exploded house
+  * paper envelope of green herbs
+  * purse, 10 pp, 25 gp, 25 sp, all unmarked
+  * box of spell copying supplies (enough for one spell)
+  * four tubes of black lotus powder
+  * box of matches
+  * a badge of the Imperial prison transport service
+  * rod of death squad detonation; 3 charges left
+  * tin can of oil (screw top, half liter left)
+  * flare gun
+  * compass
+  * spellbook
+* from the exploded house
+  * sphere of rust
+  * blue metal sphere set with emeralds
+  * brass sphere with pins and grooves
+  * crystal skull
+  * clockwork bird
 
 * "Move magic" -- box and wired-up wand from goblin
-    - Tools to illuminate special Goblin doors, the Goblins use to 
+    - Tools to illuminate special Goblin doors, the Goblins use to
       magically move around.
 * Excavation device (as reassembled by Dera)
 

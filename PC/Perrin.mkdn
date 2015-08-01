@@ -9,7 +9,6 @@
 ## Stats
 
     Max HP: 4
-    **TWO BROKEN ARMS**
 
     XP: 1130
 
@@ -41,7 +40,7 @@
 
 * studded leather armor
 * shortbow
-* quiver, 20 arrows, + 1 silver tipped arrow
+* quiver, 18 arrows, + 1 silver tipped arrow
 * longsword
 * shortsword
 * dagger
@@ -64,13 +63,21 @@
 * lucifers (14 matches)
 * 11 more boxes of lucifers (2 doz. ea.)
 * 1 candle
-* nylon wire, 100'
+* nylon wire, 75'
 * caltrops, 1 pouch, 24 caltrops
 * pencil and paper (5 sheets)
 * crowbar
-* Rusted pistol, 8 bullets. Bad condition. Revolver - 6 shooter (2d6 damage)
+* Rusted pistol, 7 bullets. Bad condition. Revolver - 6 shooter (2d6 damage)
 * Unknown amount of unknown white bricks that weigh very little and have slots in them
 * magic metal torch
+* six bottles wine
+* three bottles brown liquor
+* one bottle green liquor
+* two golden candlesticks
+* small silver bell with circular line of text:
+  "...servant to H.Q. Pergax a humble..."
+* emerald pendant on gold chain
+* weird book of animal stories
 
 ## In Storage
 

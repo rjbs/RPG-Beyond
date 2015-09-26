@@ -3,13 +3,13 @@
 
     Player: Abigail
     Class: Unseen
-    Level: 1
+    Level: 2
     Alignment: 
     Mask: Dome mask; solid red (from Wim)
 
 ## Stats
 
-    HP: 1
+    HP: 6
 
     XP: 3039
     XP Bonus: 0%

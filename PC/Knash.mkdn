@@ -102,6 +102,11 @@ On deposit with the Edgwold treasurer: 100
   * flare gun
   * compass
   * spellbook
+    * read magic
+    * magic missile (1)
+    * monster summoning (1)
+    * sleep (1)
+    * arcane lock (2)
 * from the exploded house
   * sphere of rust
   * blue metal sphere set with emeralds

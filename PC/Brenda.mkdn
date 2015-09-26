@@ -63,8 +63,6 @@
 
   * 100 gp, 3sp, 5 cp
 
-  * folding-up communication screen (for talking to the goblins)
-
   * Winter clothes (?)
   * Block and Tackle
   * Fishing Gear

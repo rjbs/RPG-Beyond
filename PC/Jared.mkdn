@@ -5,6 +5,7 @@
     Class: Cleric
     Level: 1
     Alignment:
+    Mask smooth-fronted, canvas rear; black with a blue-silver star of Ibrim
 
 ## Stats
 
@@ -39,7 +40,6 @@
 * billycan 5sp
 * canteen 5sp
 * hatchet 5sp
-* mask: smooth-fronted, canvas rear; black with a blue-silver star of Ibrim
 
 * holy symbol, silver 5gp
 * rations, 1 week 3gp

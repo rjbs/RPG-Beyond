@@ -134,4 +134,6 @@ On deposit with the Edgwold treasurer: 100
 * Disguise
 * Knives
 * Sleep
-
+* Magic Missile
+* Monster Summoning
+* Arcane Lock (2-level)

@@ -60,7 +60,6 @@ Nearsighted.  Anything beyond 10' is a blur.  -4 to hit with missile weapons.
 * Spy Glass
 * Glass bottle of green healing drink; 1 pint
 * piece of paper with illegible writing and Rago's signature
-* mask: canvas sack with large goggles and large red grin painted on
 
 * (from Drex the spaceship scientist)
  * folding knife - wallet

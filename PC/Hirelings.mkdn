@@ -26,12 +26,6 @@ Bastard sword, chainmail.
 
 Earns 5gp per day of adventure, plus a half share of any significant treasure.
 
-## Jared the Acolyte ♀
-
-Cleric 0.  4 hp.  AC 11.  Attack +0
-
-  Str 7, Int 7, Wis 11, Dex 11, Con 7, Cha 12
-
 ## Tucky the Page ♀
 
 Normal human.  2 hp.  AC 10.  Attack +0.

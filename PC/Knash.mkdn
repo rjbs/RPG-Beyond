@@ -79,7 +79,6 @@ On deposit with the Edgwold treasurer: 100
    - Labelled Whiskey (80-90 years).
 * 4 Potions (assumed to be healing potions) (from machine in village)
 * Device to channel energy (from machine in village)
-* 1 Grenade (from machine in village)
 * Jewelry box w jewelry (building h in village)
    + Pairs of earrings
    + Necklaces

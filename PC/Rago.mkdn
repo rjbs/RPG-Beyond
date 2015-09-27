@@ -50,7 +50,6 @@ Nearsighted.  Anything beyond 10' is a blur.  -4 to hit with missile weapons.
 * Daggers, 2
 * War hammer
 * Chain Mail Armor
-* Shield (not very cool, but does the trick)
 * Bedroll
 * Ration (5x)
 * Water Skin

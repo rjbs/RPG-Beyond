@@ -4,7 +4,7 @@
     Player: Breno the Soldier
     Class: Fighter
     Level: 1
-    Alignment: 
+    Mask: canvas sack with large goggles and large red grin painted on
 
 ## Stats
 

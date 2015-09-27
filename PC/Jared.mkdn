@@ -4,7 +4,6 @@
     Player: Joe K.
     Class: Cleric
     Level: 1
-    Alignment:
     Mask smooth-fronted, canvas rear; black with a blue-silver star of Ibrim
 
 ## Stats

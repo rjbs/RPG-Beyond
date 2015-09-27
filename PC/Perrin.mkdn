@@ -3,7 +3,6 @@
     Player: Matthew H.
     Class: Hunter (Ranger)
     Level: 1
-    Alignment: Neutral
     Mask: dome mask; the rainbow wheel
 
 ## Stats

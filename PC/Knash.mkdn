@@ -4,7 +4,6 @@
     Player: Abigail
     Class: Unseen
     Level: 2
-    Alignment: 
     Mask: Dome mask; solid red (from Wim)
 
 ## Stats

@@ -4,7 +4,6 @@
     Player: 
     Class: 
     Level: 1
-    Alignment: 
 
 ## Stats
 

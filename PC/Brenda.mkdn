@@ -4,7 +4,7 @@
     Player: Frew
     Class: Fighter
     Level: 3
-    Alignment: ?
+    Derangements: fear of large plants
 
 ## Stats
 

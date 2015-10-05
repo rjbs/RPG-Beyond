@@ -1,0 +1,28 @@
+# Grenades
+
+There are two parts to grenades as weapons:  thrown weapons and explosions.
+
+## Thrown Weapons
+
+Thrown weapons are treated similarly to missile weapons.  They use the
+attacker's Dexterity bonus as a to-hit bonus and act in the missile weapon part
+of the round.
+
+When they miss, roll 1d8 to determine direction of miss and 1d4 to determine
+how many squares off the weapon landed.
+
+Instead of an animate target, thrown weapons may be thrown at a square.
+The base target number for throwing an object at a square is 5.
+
+Enemies in the target square may opt to lose their next action to try to catch
+or deflect the object by making a saving throw versus breath weapon.
+
+## Explosions
+
+An explosion does a base number of damage dice in its central square.  Each
+square further reduces the damage by one die.  For example, an explosion that
+does 4d6 damage to its center does 3d6 damage to the eight squares around it,
+2d6 to the sixteen squares around those, and so on.  Getting behind sufficient
+cover or making a saving throw versus breath weapon halves the damage.  These
+are not cumulative.  If you fail to catch a thrown explosive, you can't then
+save to halve the damage.

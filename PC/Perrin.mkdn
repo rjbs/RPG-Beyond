@@ -14,7 +14,7 @@
     Str: 13
     Int: 11
     Wis: 12
-    Dex: 14 +1
+    Dex: 13 +1
     Con: 11
     Cha:  8
 

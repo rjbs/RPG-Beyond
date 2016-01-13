@@ -52,9 +52,17 @@
 * 29 Leafy: Party calls in a goblin to demolish the entrance to the old
             temple ruins.
 * 30 Leafy: "The Dwarf" is sent to investigate the ruins and determine a cause.
+
 *  1 Frost: Party attempts to make their way into the old mines beneath the
             Gladwell place, but is chased off by ghasts.
+*  3 Frost: Party arrives at Halewin in the middle of the elfs' forest
+*  4 Frost: Party flees Halewin, destroyed by a robot-vs-athiest battle
+*  6 Frost: Party settles in at the barbarian village of Clem
+* 27 Frost: Party leaves Clem to visit Elf Market
 
-* Currently 1 Frost
+*  2 Black: Party blows up the observatory house on the hill
+*  5 Black: Party arrives at Foxhole
 
-* 1 Frost: Knash is meant to attend a secret revel; location yet undisclosed
+* Currently 7 Black
+
+* 16 Snowy: rough expectation for completion of log cabin 

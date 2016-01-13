@@ -1,0 +1,32 @@
+# Level -1
+
+## Cargo Teleport
+
+Dials on the door:
+
+* first dial, 12 positions; mostly letters, a few symbols
+* dials 2-4, 100 positions each, numbered
+
+## Human Teleport
+
+Dials on the door:
+
+* seven dials, 48 positions each
+  * all 29 letters, with K appearing twice
+  * 10 digits
+  * blank, space, star, eye, brain
+  * three unidentifiable symbols
+
+Twelve circles on the ground:
+
+      (entrance)
+    A   B   C   D
+    E   F   G   H
+    I   J   K   L
+      (rear wall)
+
+* B - Soldier
+* C - King
+* F - Seer
+* H - Torturer
+

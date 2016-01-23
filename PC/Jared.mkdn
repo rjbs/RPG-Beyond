@@ -8,7 +8,7 @@
 
 ## Stats
 
-    XP: 300
+    XP: 500
     XP Bonus: 0%
 
     HP: 4

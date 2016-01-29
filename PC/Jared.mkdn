@@ -50,4 +50,4 @@
 * camp stove 5gp
 
 * head of a weird green monster from the mine
-* claw-headed staff
+* claw-headed staff [UO-389-001]

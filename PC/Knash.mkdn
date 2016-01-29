@@ -60,9 +60,9 @@ On deposit with the Edgwold treasurer: 100
 * Rope
 * 2 Scroll cases (Paul Fenwick)
   * Fotheringay's Summons - requires a bell as a material component (not
-    consumed); some sort of spirit summoning spell
+    consumed); some sort of spirit summoning spell [SS-136-001]
   * Keralon's Mirror Image - requires a mirror large enough to reflect the
-    target of the spell, which is duplicated
+    target of the spell, which is duplicated [SS-136-002]
 * Key to Benjamin Harker's chains
 * Keyring (from guardsman killed at the Temple ruins)
 * Sprigs of wolfsbane (archer)
@@ -74,18 +74,18 @@ On deposit with the Edgwold treasurer: 100
 * Tape, duck
 * Tent
 * Whistle
-* Disk with metal band (from insectoids in Elven woods)
+* Disk with metal band (from insectoids in Elven woods) [UO-169-001]
    - Device for communicating. One of a set of two. Hold in front of
      you and have the desire to communicate with the other end.
 * 750 ml brown glass bottle. Corked. Opaque liquid inside. Labeled
    - Labelled Whiskey (80-90 years).
 * 4 Potions (assumed to be healing potions) (from machine in village)
-* Device to channel energy (from machine in village)
+* Device to channel energy (from machine in village) [UO-780-001]
 * Jewelry box w jewelry (building h in village)
    + Pairs of earrings
    + Necklaces
    + Chokers    (all gold, 15-100 gold pieces)
-* Obsidian disc, with four small lights (building h in village)
+* Obsidian disc, with four small lights (building h in village) [UO-780-002]
   - "theurgy detectory"
    - Device used to detect presence of gods and their effects nearby
 * silk tent, collapsed
@@ -94,10 +94,10 @@ On deposit with the Edgwold treasurer: 100
   * paper envelope of green herbs
   * purse, 10 pp, 25 gp, 25 sp, all unmarked
   * box of spell copying supplies (enough for one spell)
-  * four tubes of black lotus powder
+  * four tubes of black lotus powder [WC-910-001]
   * box of matches
   * metal badge
-  * magic rod
+  * magic rod [UO-910-002]
   * tin can of oil (screw top, half liter left)
   * flare gun
   * compass
@@ -113,12 +113,12 @@ On deposit with the Edgwold treasurer: 100
   * brass sphere with pins and grooves
   * crystal skull
   * clockwork bird
-  * pages from the full-color purple book
+  * pages from the full-color purple book [UO-910-003]
 
-* "Move magic" -- box and wired-up wand from goblin
+* "Move magic" -- box and wired-up wand from goblin [UO-136-004]
     - Tools to illuminate special Goblin doors, the Goblins use to
       magically move around.
-* Excavation device (as reassembled by Dera)
+* Excavation device (as reassembled by Dera) [UO-136-005b]
 
 * Fancy goatskin hat/cloak in a hatbox
 * Nice outfit, including "finery" hat.
@@ -129,7 +129,7 @@ On deposit with the Edgwold treasurer: 100
   * jacks
 * Gold necklace with pendant (corpse on level 1 of Foxhole)
 * Chair (from underneath corpse on level 1 of Foxhole)
-* Barrel with white powder (level 2 of Foxhole)
+* Barrel with white powder (level 2 of Foxhole) [UO-495-001]
 
 ## Spells
 

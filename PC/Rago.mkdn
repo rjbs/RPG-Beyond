@@ -63,8 +63,8 @@ Nearsighted.  Anything beyond 10' is a blur.  -4 to hit with missile weapons.
 
 * (from Drex the spaceship scientist)
  * folding knife - wallet
- * remote control (metal rod with four buttons)
- * pouch of pills
+ * remote control (metal rod with four buttons) [UO-238-001]
+ * pouch of pills [WC-238-002]
  * three cans of ancient soup
  * metal skull from dead "centurion trooper"?
 * brass and wood skull from golem in exploded telescope house

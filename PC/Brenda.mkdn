@@ -54,12 +54,12 @@
   * manacles, leg irons, locks, keys
   * miner's pick
 
-  * pouch of orange fungus from Temple of the Abyss
-  * pouch of brown fungus from clearing in elven woods
-  * Small pouch with blue chalk (found on well-dressed zombie)
-  * identity papers (found on well-dressed zombie)
-  * Small book in Goblinese (found on well-dressed zombie)
-  * jeweled silver music box
+  * pouch of orange fungus from Temple of the Abyss [FM-136-001]
+  * pouch of brown fungus from clearing in elven woods [FM-169-001]
+  * Small pouch with blue chalk (found on well-dressed zombie) [UO-136-001]
+  * identity papers (found on well-dressed zombie) [UO-136-002]
+  * Small book in Goblinese (found on well-dressed zombie) [UO-136-003]
+  * jeweled silver music box [UO-136-004]
 
   * 100 gp, 3sp, 5 cp
 

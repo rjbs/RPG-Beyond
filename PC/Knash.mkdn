@@ -118,6 +118,11 @@ On deposit with the Edgwold treasurer: 100
   * Nail
   * Blade of a sickle (sharp, steel)
   * Metal loop/eye (probably steel)
+  * 2 Pairs of boots
+  * Book (novel?, written in Common; title "Truth is a river", about 200 pages)
+  * Cigarette cages (3 dried out cigarettes; case made out of brass)
+  * Box with 6 eggs (metal, golden in color)
+  * Gold coin, twice normal size, irregular holes
 
 * "Move magic" -- box and wired-up wand from goblin [UO-136-004]
     - Tools to illuminate special Goblin doors, the Goblins use to

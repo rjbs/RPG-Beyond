@@ -114,6 +114,10 @@ On deposit with the Edgwold treasurer: 100
   * crystal skull
   * clockwork bird
   * pages from the full-color purple book [UO-910-003]
+* From Foxhole, Level 2:
+  * Nail
+  * Blade of a sickle (sharp, steel)
+  * Metal loop/eye (probably steel)
 
 * "Move magic" -- box and wired-up wand from goblin [UO-136-004]
     - Tools to illuminate special Goblin doors, the Goblins use to

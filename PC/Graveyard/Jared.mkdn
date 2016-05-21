@@ -43,11 +43,5 @@
 * holy symbol, silver 5gp
 * rations, 1 week 3gp
 
-* tent 4gp
-
-* naptha, 3 pints 12sp
-
-* camp stove 5gp
-
 * head of a weird green monster from the mine
 * claw-headed staff [UO-389-001]

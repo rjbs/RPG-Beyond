@@ -62,7 +62,8 @@
 
 *  2 Black: Party blows up the observatory house on the hill
 *  5 Black: Party arrives at Foxhole
+* 19 Black: Jared is killed by laser spiders.  Perrin loses a leg.
 
-* Currently 7 Black
+* Currently 29 Black
 
 * 16 Snowy: rough expectation for completion of log cabin 

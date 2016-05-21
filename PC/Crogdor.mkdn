@@ -8,10 +8,10 @@
 
 ## Stats
 
-    HP: 1
+    HP: 2
 
     XP: 0
-    XP Bonus: 0%
+    XP Bonus: 5%
 
     Str:  5
     Int:  9

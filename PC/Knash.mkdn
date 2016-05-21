@@ -139,6 +139,7 @@ On deposit with the Edgwold treasurer: 100
 * Gold necklace with pendant (corpse on level 1 of Foxhole)
 * Chair (from underneath corpse on level 1 of Foxhole)
 * Barrel with white powder (level 2 of Foxhole) [UO-495-001]
+* 8 pieces of paper from Table room (level 4 of Foxhole)
 
 ## Spells
 

@@ -34,7 +34,7 @@
 
 ## Stuff
 
-* 1 sp, 1 cp
+* 1 gp, 1 sp, 1 cp
 * middlemarch coins: 18 gp, 12 sp, 4 cp
 
 * studded leather armor
@@ -66,15 +66,12 @@
 * caltrops, 1 pouch, 24 caltrops
 * pencil and paper (5 sheets)
 * crowbar
-* Rusted pistol, 7 bullets. Bad condition. Revolver - 6 shooter (2d6 damage)
 * Unknown amount of unknown white bricks that weigh very little and have slots in them [UO-169-002]
 * magic metal torch [UO-780-002]
 * six bottles wine [WC-780-001]
 * three bottles brown liquor [WC-780-002]
 * one bottle green liquor [WC-780-003]
 * two golden candlesticks
-* small silver bell with circular line of text:
-  "...servant to H.Q. Pergax a humble..."
 * emerald pendant on gold chain
 * weird book of animal stories
 

@@ -36,13 +36,13 @@
 
 On deposit with the Edgwold treasurer: 100
 
+* 2606 gp, 5 sp
+* 7 gold + 2 other metal coins (from dresser in overgrown house)
 
 ## Stuff
 
-* 2657 gp, 5 sp
 * Long dagger (Paul Fenwick)
-
-* 7 gold + 2 other metal coins (from dresser in overgrown house)
+* 50 gp
 * Leather Armour
 * Shield
 * Dagger
@@ -128,6 +128,10 @@ On deposit with the Edgwold treasurer: 100
     - Tools to illuminate special Goblin doors, the Goblins use to
       magically move around.
 * Excavation device (as reassembled by Dera) [UO-136-005b]
+
+* from the house on the hill:
+  * small silver bell with circular line of text:
+    "...servant to H.Q. Pergax a humble..."
 
 * Fancy goatskin hat/cloak in a hatbox
 * Nice outfit, including "finery" hat.

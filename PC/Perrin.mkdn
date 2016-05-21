@@ -23,6 +23,9 @@
                         +2 Leather Armour
                         +1 (Dex)
 
+    Mangled right hand (-1 dex when using for life?)
+    Missing right leg (-4 dex when using for life?)
+
 ## Aspects
 
 * Hunter
@@ -43,6 +46,7 @@
 * longsword
 * shortsword
 * dagger
+* pegleg
 
 * grenade, mystery [UO-000-001]
 
@@ -60,15 +64,14 @@
 * whistle
 * tinderbox
 * lucifers (14 matches)
-* 11 more boxes of lucifers (2 doz. ea.)
+* 2 more boxes of lucifers (2 doz. ea.)
 * 1 candle
 * nylon wire, 75'
 * caltrops, 1 pouch, 24 caltrops
 * pencil and paper (5 sheets)
 * crowbar
-* Unknown amount of unknown white bricks that weigh very little and have slots in them [UO-169-002]
 * magic metal torch [UO-780-002]
-* six bottles wine [WC-780-001]
+* three bottles wine [WC-780-001]
 * three bottles brown liquor [WC-780-002]
 * one bottle green liquor [WC-780-003]
 * two golden candlesticks
@@ -77,6 +80,10 @@
 
 ## In Storage
 
+* Unknown amount of unknown white bricks that weigh very little and have slots in them [UO-169-002]
+* 9 boxes of lucifers (2 dozen per box)
+* Sledge Hammer
+* three bottles wine [WC-780-001]
 
 ## Other
 

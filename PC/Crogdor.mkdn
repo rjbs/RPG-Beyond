@@ -22,7 +22,9 @@
 
     Attack: +0
 
-## Complications
+## Was last seen in
+
+- Deptford
 
 
 ## Languages

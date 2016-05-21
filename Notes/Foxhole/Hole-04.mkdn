@@ -1,0 +1,42 @@
+# Level -4
+
+This level is 60 feet from the top.
+
+## Doors
+
+*  1 o'clock  (only one with platform)
+*  5 o'clock 
+*  7 o'clock
+* 10 o'clock
+
+
+## Platforms
+
+* From 11 o'clock to 2 o'clock. Steps leads down (from the 2 o'clock end).
+  Steps don't actually go anywhere.
+
+
+
+## Machine room (1 o'clock)
+
+* Glass dome on ceiling. (12ft up) Small amount of light.
+* Floor: lots of little pieces of machinery (most look new)
+* Three doors:
+** 10 o'clock  Table room
+**  3 o'clock
+**  4 o'clock
+
+
+## Table room
+
+* Circular room, 75ft diameter
+* Wooden table in middle
+** On top of table: several pieces of paper, with stone weights
+** 8 pieces of paper.
+** 5 in Common: dates, followed by single number.
+   and a name or something. One piece of paper has the date, the number 1,
+   and the word "goblin". (Example: "8 Snowy, 1, Goblin")
+   Other pieces of paper use "Brock", "Flumph", "Frank", "Espis".
+** Other pages: 2 are in unfamiliar, but different, scripts. Third may
+   be in some sort of Goblinese.
+

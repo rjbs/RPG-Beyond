@@ -1,0 +1,9 @@
+Three rooms:  cave-in
+              meat room
+              RIP room
+
+
+RIP room:  several connected rooms, one with "RIP Stay Out".
+           Light door (one way), Rago gets trapped.
+           Breaking glass frees Rago
+           Spiders: Jared dead, Perin lost leg.

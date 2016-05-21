@@ -1,0 +1,59 @@
+
+## Crogdor the Acquirer
+
+    Player: Gizmo
+    Class: Thief
+    Level: 1
+    Mask: plain leather mask. no adornment
+
+## Stats
+
+    HP: 1
+
+    XP: 0
+    XP Bonus: 0%
+
+    Str:  5
+    Int:  9
+    Wis: 11
+    Dex: 13
+    Con: 11
+    Cha:  9
+
+    Attack: +0
+
+## Complications
+
+
+## Languages
+
+- Mercean (Common)
+
+## In Storage
+
+## Stuff
+
+* 15 gp
+* Leather Armor
+* Daggers, 3
+* short sword
+* Tinderbox (flint & steel)
+* 6 torches
+* backpack
+* Bedroll
+* billy can
+* Bivy
+* camp stove
+* Ration 2 weeks
+* Water Skin
+* Wine Skin
+* 10 piece of chalk, multiple colors
+* crowbar
+* first aid kit
+* lantern
+* 4 pints naptha
+* Locksmith kit
+* climbing harness
+* 50' rope
+* 5 iron spikes
+* 3 large bags

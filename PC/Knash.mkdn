@@ -59,8 +59,6 @@ On deposit with the Edgwold treasurer: 100
 * Standard Rations (5x)
 * Rope
 * 2 Scroll cases (Paul Fenwick)
-  * Fotheringay's Summons - requires a bell as a material component (not
-    consumed); some sort of spirit summoning spell [SS-136-001]
   * Keralon's Mirror Image - requires a mirror large enough to reflect the
     target of the spell, which is duplicated [SS-136-002]
   * Scroll for summoning a bridge (Dead travellers)

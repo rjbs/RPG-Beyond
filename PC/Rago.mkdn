@@ -46,8 +46,8 @@ Nearsighted.  Anything beyond 10' is a blur.  -4 to hit with missile weapons.
 * 4 torches
 * backpack
 * Battle Axe (broken, unbalanced (-2), only one good side to hit)
+* two steel hand axes
 * metal shield
-* wooden shield
 * Daggers, 2
 * Sledge hammer
 * Sword

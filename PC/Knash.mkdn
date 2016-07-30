@@ -61,7 +61,7 @@ On deposit with the Edgwold treasurer: 100
 * 2 Scroll cases (Paul Fenwick)
   * Keralon's Mirror Image - requires a mirror large enough to reflect the
     target of the spell, which is duplicated [SS-136-002]
-  * Scroll for summoning a bridge (Dead travellers)
+  * Scroll for summoning a bridge (Dead travellers) [FW-902-005]
 * Key to Benjamin Harker's chains
 * Keyring (from guardsman killed at the Temple ruins)
 * Sprigs of wolfsbane (archer)
@@ -124,11 +124,12 @@ On deposit with the Edgwold treasurer: 100
   * Gold coin, twice normal size, irregular holes
 * From dead travellers in camp:
   * Wand (silver, with inscriptions)
-  * Bandelier with vials of liquids (four + 2 shattered). Vials are made
-       of glass -- one is darkened.
-       Liquids are Blue, Red, and Orange; Unknown colour in the 
-       vial with darkened glass.
-  * Spell book (will take time to investigate)
+  * Bandelier with glass vials of liquids (four + 2 shattered)
+    * pale blue [FW-902-001]
+    * deep red [FW-902-002]
+    * glowing orange [FW-902-003]
+    * something in a dark vial [FW-902-004]
+  * Spell book (will take time to investigate) [FW-902-006]
 
 * "Move magic" -- box and wired-up wand from goblin [UO-136-004]
     - Tools to illuminate special Goblin doors, the Goblins use to

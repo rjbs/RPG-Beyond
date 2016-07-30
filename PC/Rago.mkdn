@@ -3,14 +3,14 @@
 
     Player: Breno the Soldier
     Class: Fighter
-    Level: 1
+    Level: 2
     Mask: canvas sack with large goggles and large red grin painted on
 
 ## Stats
 
     HP: 7
 
-    XP: 2401
+    XP: 2751
     XP Bonus: 0%
 
     Str: 10

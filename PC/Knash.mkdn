@@ -124,7 +124,7 @@ On deposit with the Edgwold treasurer: 100
   * Gold coin, twice normal size, irregular holes
 * From dead travellers in camp:
   * Wand (silver, with inscriptions)
-  * Bandelier with glass vials of liquids (four + 2 shattered)
+  * Bandolier with glass vials of liquids (four + 2 shattered)
     * pale blue [FW-902-001]
     * deep red [FW-902-002]
     * glowing orange [FW-902-003]

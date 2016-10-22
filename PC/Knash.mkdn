@@ -47,7 +47,7 @@ On deposit with the Edgwold treasurer: 100
 * Shield
 * Dagger
 * Short Bow
-* 2 Quivers w 11 arrows
+* 2 Quivers w 10 arrows
 * 10 Darts
 * Backpack
 * Thieves Tools

@@ -85,7 +85,7 @@ On deposit with the Edgwold treasurer: 100
    + Necklaces
    + Chokers    (all gold, 15-100 gold pieces)
 * Obsidian disc, with four small lights (building h in village) [UO-780-002]
-  - "theurgy detectory"
+  - "theurgy detector"
    - Device used to detect presence of gods and their effects nearby
 * silk tent, collapsed
 * brass wrist watch  on ruined leather strap; engraved with coat of arms
@@ -123,7 +123,7 @@ On deposit with the Edgwold treasurer: 100
   * Box with 6 eggs (golden)
   * Gold coin, twice normal size, irregular holes
 * From dead travellers in camp:
-  * Wand (silver, with inscriptions)
+  * Wand (silver, with inscriptions) [FW-902-010]
   * Bandolier with glass vials of liquids (four + 2 shattered)
     * pale blue [FW-902-001]
     * deep red [FW-902-002]

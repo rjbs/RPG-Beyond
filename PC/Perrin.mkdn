@@ -20,7 +20,7 @@
     Cha:  8
 
     Attack: +1
-    Armour Class: 12    10 Base
+    Armour Class: 13    10 Base
                         +2 Leather Armour
                         +1 (Dex)
 
@@ -44,7 +44,7 @@
 * studded leather armor
 * shortbow
 * quiver, 13 arrows, + 1 silver tipped arrow
-* longsword
+* longsword; blunted by chopping wood
 * shortsword
 * dagger
 * pegleg

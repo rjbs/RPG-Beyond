@@ -31,7 +31,7 @@ though.
 
 ### Carousing
 
-I use Jeff's rules for
+I use [Jeff's rules for
 carousing](http://jrients.blogspot.com/2008/12/party-like-its-999.html).  In
 brief, characters can spend a lot of gold on debauchery and convert it into
 experience.  This runs the risk of drunken mishaps, however, so drink

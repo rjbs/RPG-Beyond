@@ -25,7 +25,6 @@
                         +1 (Dex)
 
     Mangled right hand (-1 dex when using for life?)
-    Missing right leg (-4 dex when using for life?)
 
 ## Aspects
 

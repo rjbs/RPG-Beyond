@@ -10,7 +10,7 @@
 
     HP: 6
 
-    XP: 4014
+    XP: 4389
     XP Bonus: 0%
 
     Str:  6

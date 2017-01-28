@@ -15,17 +15,6 @@ Normal human.  7 hp.  AC 11.  Attack +0.
 
 Earns 2gp per day of adventure.
 
-## Dera the Sword ♀
-
-Fighter 1.  6 hp.  AC 14.  Attack +1.  +1 to hit, damage.
-
-Bastard sword, chainmail.
-
-* Riding horse
-  * Saddle
-
-Earns 5gp per day of adventure, plus a half share of any significant treasure.
-
 ## Tucky the Page ♀
 
 Normal human.  2 hp.  AC 10.  Attack +0.

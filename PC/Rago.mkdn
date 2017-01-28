@@ -36,38 +36,7 @@ Nearsighted.  Anything beyond 10' is a blur.  -4 to hit with missile weapons.
 
 ## Stuff
 
-* A camel named "Pearl" (+saddle/bridle)
-* 2 saddle bags
-* 50gp, 5cp
+* A camel named "Pearl"
 
-* on the camel: 5605 gp
-
-* Tinderbox (flint & steel)
-* 4 torches
-* backpack
-* Battle Axe (broken, unbalanced (-2), only one good side to hit)
-* two steel hand axes
-* metal shield
-* Daggers, 2
-* Sledge hammer
-* Sword
-* Chain Mail Armor
-* Bedroll
-* Ration (5x)
-* Water Skin
-* Wine Skin
-* Manacles
-* Magnifying Glass
-* Goggles
-* Spy Glass
-* Glass bottle of green healing drink; 1 pint
-* piece of paper with illegible writing and Rago's signature
-
-* (from Drex the spaceship scientist)
- * folding knife - wallet
- * remote control (metal rod with four buttons) [UO-238-001]
- * pouch of pills [WC-238-002]
- * three cans of ancient soup
- * metal skull from dead "centurion trooper"?
-* brass and wood skull from golem in exploded telescope house
-
+* Battle axe
+* Leather armor

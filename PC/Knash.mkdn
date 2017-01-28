@@ -162,6 +162,11 @@ After waking up in the boat:
 * Brass ring (from guy in boat)
 * Short sword (from guy in boat)
 
+From man on top of lookout structure:
+* Bugel
+* Folding knife
+* Jacket
+
 ## Spells
 
 * Read Magic

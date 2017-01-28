@@ -167,6 +167,11 @@ From man on top of lookout structure:
 * Folding knife
 * Jacket
 
+From the farmhouse where Pearl was found:
+* farm business ledger
+* 287 gp, 62 sp, 8 cp
+* 1,620 "pounds" in banknotes drawn on the Bank of the Allied Farms of Fite
+
 ## Spells
 
 * Read Magic

@@ -43,11 +43,14 @@ On deposit with the Edgwold treasurer: 100
 After waking up in the boat:
 
 * Short sword
+* Metal shield
 * Bow + 14 arrows
 * Leather armour
 * Gaff (from guy in boat)
 * Brass ring (from guy in boat)
 * Short sword (from guy in boat)
+
+* Flashy horse (back from the dead?)
 
 From man on top of lookout structure:
 * Bugle
@@ -56,8 +59,11 @@ From man on top of lookout structure:
 
 From the farmhouse where Pearl was found:
 * farm business ledger
-* 287 gp, 62 sp, 8 cp
+* 57 gp, 22 sp, 8 cp
 * 1,620 "pounds" in banknotes drawn on the Bank of the Allied Farms of Fite
+
+From the caravan near the marsh:
+* magic arrow; "will kill anyone"
 
 ## Spells
 

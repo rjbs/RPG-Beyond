@@ -10,7 +10,7 @@
 
     HP: 2
 
-    XP: 125
+    XP: 225
     XP Bonus: 5%
 
     Str:  5
@@ -35,7 +35,8 @@
 
 ## Stuff
 
-* 15 gp
+* 12 gp, 9 sp
+* newspaper from the caravan on the road SW of town
 * Leather Armor
 * Daggers, 3
 * short sword
@@ -60,3 +61,5 @@
 * 5 iron spikes
 * 3 large bags
 * hand mirror
+
+* a horse

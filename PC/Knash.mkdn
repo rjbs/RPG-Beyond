@@ -1,4 +1,3 @@
-
 ## Knash Wigg'lPops the ?
 
     Player: Abigail
@@ -10,7 +9,7 @@
 
     HP: 6
 
-    XP: 4489
+    XP: 4589
     XP Bonus: 0%
 
     Str:  6

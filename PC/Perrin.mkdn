@@ -7,7 +7,7 @@
 
 ## Stats
 
-    Max HP: 4
+    Max HP: 10
 
     XP: 2505
     XP Bonus: 0%
@@ -39,7 +39,7 @@
 
 * studded leather armor
 * shortbow
-* quiver, 13 arrows, + 1 silver tipped arrow
+* quiver, 11 arrows, + 1 silver tipped arrow
 * shortsword
 * dagger
 

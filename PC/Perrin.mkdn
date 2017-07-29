@@ -2,7 +2,7 @@
 
     Player: Matthew H.
     Class: Hunter (Ranger)
-    Level: 1
+    Level: 2
     Mask: dome mask; the rainbow wheel
 
 ## Stats

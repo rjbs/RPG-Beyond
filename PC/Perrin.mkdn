@@ -20,9 +20,9 @@
     Cha:  8
 
     Attack: +1
-    Armour Class: 13    10 Base
-                        +2 Leather Armour
-                        +1 (Dex)
+    Armor Class: 13    10 Base
+                       +2 Leather Armour
+                       +1 (Dex)
 
     Mangled right hand (-1 dex when using for life?)
 

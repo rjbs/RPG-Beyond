@@ -39,7 +39,7 @@
 
 * studded leather armor
 * shortbow
-* quiver, 11 arrows, + 1 silver tipped arrow
+* quiver, 8 arrows, + 1 silver tipped arrow
 * shortsword
 * dagger
 

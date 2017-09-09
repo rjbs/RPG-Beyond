@@ -43,6 +43,8 @@
 * shortsword
 * dagger
 
+* horse stolen from the farm where Pearl was
+
 ## In Storage
 
 * Unknown amount of unknown white bricks that weigh very little and have slots in them [UO-169-002]

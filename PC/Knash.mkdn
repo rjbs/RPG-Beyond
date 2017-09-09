@@ -65,6 +65,14 @@ From the farmhouse where Pearl was found:
 From cabin with acid monster:
 * Old, damaged, axe-head (gift intended for Rago)
 
+From "Perrin's brother":
+* Necklace with random numbers and letters. Also, inscription which says
+ "In case of trouble, swallow".
+* Rectangled piece of glass: "There are a number of subtle enchantments on
+  the piece of glass, and you're able to at least detect divination magic
+  and some sort of magic related to being granted power or access to secret
+  places."
+
 ## Spells
 
 * Read Magic

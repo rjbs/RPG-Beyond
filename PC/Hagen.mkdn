@@ -1,0 +1,45 @@
+## Hagen the Wizard
+
+    Player: Michael M.
+    Class: Wizard
+    Level: 1
+
+## Stats
+
+    Max HP: 2
+
+    XP: 0
+    XP Bonus: 5%
+
+    Str: 10
+    Int: 13
+    Wis: 12
+    Dex: 10
+    Con: 11
+    Cha: 17
+
+    Attack: +1
+    Armor Class: 10
+
+## Aspects
+
+* Wizard
+
+## Languages
+
+- Mercean (Common)
+
+## Stuff
+
+* dagger (2)
+* backpack
+* lantern
+* length of rope (1)
+* wineskins (2)
+* 45 gp
+
+## Spells
+
+* Read magic
+* Detect magic
+* Magic missile

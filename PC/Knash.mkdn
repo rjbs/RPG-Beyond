@@ -73,6 +73,10 @@ From "Perrin's brother":
   and some sort of magic related to being granted power or access to secret
   places."
 
+From wooden crate:
+* Silver cylinder. Placing hands on the cylinder brings you to room
+  with ceramic person, belonging to some empire.
+
 ## Spells
 
 * Read Magic

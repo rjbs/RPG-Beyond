@@ -23,8 +23,8 @@ This level is 60 feet from the top.
 * Floor: lots of little pieces of machinery (most look new)
 * Three doors:
 ** 10 o'clock  Table room
-**  3 o'clock
-**  4 o'clock
+**  3 o'clock  Dead Body Room
+**  4 o'clock  Vast Vaulted Cavern
 
 
 ## Table room
@@ -32,7 +32,7 @@ This level is 60 feet from the top.
 * Circular room, 75ft diameter
 * Wooden table in middle
 ** On top of table: several pieces of paper, with stone weights
-** 8 pieces of paper.
+** 8 pieces of paper. (Retrieved earlier; now gone)
 ** 5 in Common: dates, followed by single number.
    and a name or something. One piece of paper has the date, the number 1,
    and the word "goblin". (Example: "8 Snowy, 1, Goblin")
@@ -59,3 +59,39 @@ This level is 60 feet from the top.
 * Doors:
 ** 2 o'clock: To table room
 ** 5 o'clock: Leads towards the main hole
+
+
+## Dead Body Room
+
+* Floor: grass, mossy. It's raining. Vista seems to go for long way.
+  Dozens of dead bodies, wearing jumpsuits (mostly).
+  Large pieces of metal machinery.
+* Bodies contain a lot of loot, but the loot disintegrates when stepping
+  outside of the room.
+* Machines strip bodies.
+* Overhead machines release black clouds
+* Tour guide:
+** Room displays the most recent victory in the great war
+** Empire was victorious
+** Tour guide does not recall who was the enemy
+* Doors/Exits:
+** 8 o'clock: Back to Machine room
+** 6 o'clock: To Vaulted Cavern
+** Exits look like hatches of machines
+
+## Vaulted Cavern
+* Pathways with side paths, leading a pond and small building.
+* Temple at the end. Silver star above temple.
+* 3 Metal figures come from temple.
+* Staircase to temple; on both sides are stair leading down to steaming pools;
+  need to bath before entering the temple.
+* Inside the temple three archways. Above are symbols: star, flame, eye
+** Star: room is empty except a wooden kneeler. Underneath kneeler, small
+   silver pendant, no chain.
+** Flame: room is empty except for a stone seat. Carving: stay asleep.
+** Eye: painted black (pitch?) Two metal chains coming from the ceiling,
+   with handles. No reaction when pulling.
+* Doors/Exits:
+** 11 o'clock: Back to machine room
+** 1 o'clock: Corridor behind small building. Leads to dead body room.
+

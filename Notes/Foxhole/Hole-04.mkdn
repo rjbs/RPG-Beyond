@@ -7,7 +7,7 @@ This level is 60 feet from the top.
 *  1 o'clock  (only one with platform)
 *  5 o'clock 
 *  7 o'clock
-* 10 o'clock
+* 10 o'clock  Garden room
 
 
 ## Platforms

@@ -1,0 +1,5 @@
+# Level -2
+
+Living quarters: 9 o'clock
+Spider room:     2 o'clock
+Other room:      4 o'clock

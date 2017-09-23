@@ -42,6 +42,8 @@
 * quiver, 8 arrows, + 1 silver tipped arrow
 * shortsword
 * dagger
+* 4 torches
+* flint and steel
 
 ## In Storage
 

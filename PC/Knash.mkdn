@@ -80,6 +80,10 @@ From wooden crate:
 * Silver cylinder. Placing hands on the cylinder brings you to room
   with ceramic person, belonging to some empire.
 
+From trading place (table room, level -4 Foxhole)
+* "Goblin death magic". Cylinder, 10cm long, 1cm wide. Powerful protective
+  device. If you break it, it will kill you and anyone near you.
+
 ## Spells
 
 * Read Magic

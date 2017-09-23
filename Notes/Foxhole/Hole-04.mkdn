@@ -43,3 +43,19 @@ This level is 60 feet from the top.
 * Goblins come here every 19th day to trade.
 * Black faced person (Quiown) trading magical stones & goblin steel
   cylinders. He shows up on an unknown schedule.
+
+* Doors:
+** 4 o'clock: Back to machine room
+** 12 o'clock: Goblin rooms; goblins asked us to keep out.
+** 7 o'clock: Garden room
+
+## Garden room
+
+* Lush garden: hedgerows, benches, topiaries. High sky, with a sun.
+* East wall is made from marble
+* West side is mostly hedges. Going west is hard; we're not making much
+  progress.
+* Contains gazebo
+* Doors:
+** 2 o'clock: To table room
+** 5 o'clock: Leads towards the main hole

@@ -7,7 +7,7 @@
 
 ## Stats
 
-    HP: 6
+    HP: 2
 
     XP: 5274
     XP Bonus: 0%
@@ -44,7 +44,7 @@ After waking up in the boat:
 
 * Short sword
 * Metal shield
-* Bow + 12 arrows
+* Bow + 10 arrows
 * Leather armour
 * Gaff (from guy in boat)
 * Brass ring (from guy in boat)

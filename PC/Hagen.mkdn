@@ -8,7 +8,7 @@
 
     Max HP: 2
 
-    XP: 0
+    XP: 110
     XP Bonus: 5%
 
     Str: 10

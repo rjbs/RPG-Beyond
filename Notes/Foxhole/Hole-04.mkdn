@@ -95,3 +95,51 @@ This level is 60 feet from the top.
 ** 11 o'clock: Back to machine room
 ** 1 o'clock: Corridor behind small building. Leads to dead body room.
 
+
+
+## 7 o'clock door
+
+* Above door is a wooden frame with a stone.
+* Also, a red light does on when touching the door.
+* Door appears to be locked.
+* When trying to dislodge the frame, the crowbar used sticks firmly
+  to the rock. With some effort, Crogdor manages to retrieve the
+  crowbar.
+* With some effort the stone is removed from the frame; Crogdor had
+  driven a spike into to stone and tied the spike to some rope.
+  The stone swings, gets lose and ends up attached to the spire
+  in the middle.
+* We're not able to open the door.
+* A person appears one level down, at 5 o'clock, claiming the door
+  is his, and he like it if we stay out.  
+
+
+## Rectangle room (5 o'clock)
+
+* Clay circle on the floor, with a walkway through it.
+* Rest of the room is wood. Hardwood, polished. Panels on the wall.
+* Mats on the floor.
+* On the walls: racks (two wall on left, two on right wall)
+* Behind a sliding panel
+** Top shelf: two hand bells (pocketed by Knash)
+** Middle shelf: pocket watch (pocketed by Knash)
+** Bottom shelf: single silver coin (pocketed by Knash)
+* Doors:
+** 8 o'clock: right wall: Long corridor to black room
+** 6 o'clock: back wall (right)
+** 3 o'clock: back wall (left)
+
+## Black room
+
+* Black, somewhat crumbled walls, threaded through walls:
+  light blue lines forming hexagons
+* Floor: pitten and uneven
+* Flat stone ceiling, sagging, cracks
+* Top & bottom: metal vents, brass covers
+* Doors:
+** 1 o'clock: to long corridor and rectangle room
+** 5 o'clock: short corridor to spider room
+
+## Spider room
+
+* Three spiders

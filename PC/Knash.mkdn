@@ -91,6 +91,11 @@ From temple in vaulted cavern.
   Read Magic: More powerful magic thing. Probably clerical, protective magic.
 * White robes (given by metal creatures)
 
+From rectangle room:
+* Two hand-bells (probably bronze)
+* Pocket watch (gold, no chain, face: one hand; numbers 1-12)
+* Single silver coin
+
 ## Spells
 
 * Read Magic

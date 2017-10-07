@@ -80,5 +80,6 @@
 * 23 Yellow: Knash and Perrin find the acid zombies and the treed box
 
 * 24 Yellow: Hagen shows up in the arrivals room
+* 25 Yellow: Party enters the hole, meets the goblins in yellow
 
 *  1  Rainy: Party plans to meet Clem

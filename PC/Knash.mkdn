@@ -83,9 +83,12 @@ From wooden crate:
 From trading place (table room, level -4 Foxhole)
 * "Goblin death magic". Cylinder, 10cm long, 1cm wide. Powerful protective
   device. If you break it, it will kill you and anyone near you.
+  Read Magic: Some kind of enchantment. Not very fancy or powerful. May not do
+              as advertized.
 
 From temple in vaulted cavern.
 * Silver pendant (underneath wooden kneelers)
+  Read Magic: More powerful magic thing. Probably clerical, protective magic.
 * White robes (given by metal creatures)
 
 ## Spells

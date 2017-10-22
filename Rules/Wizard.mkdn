@@ -1,0 +1,39 @@
+# Wizard
+
+## Special Abilities
+
+### Detect Magic
+
+Wizards have a sense of when magic is active around them.  A wizard can take a
+moment, concentrate, and attempt to determine what kind of magic, if any, is at
+play.  The referee may make a passive check when appropriate.
+
+Roll 1d20 + Level against a target based on the strength of the magic.
+
+### Read Magic
+
+Wizard spellbooks are like the study notes kept by a madman.  They describe
+arcane procedures, already nearly incomprehensible to begin with, in highly
+idiosyncratic ways private to the writer.  One wizard can read another's
+spells, but it's never straightforward.
+
+Roll 1d20 + Aspect Bonus - Spell Level.  There may be additional adjustments if
+the reader is familiar with the writer's work, or if the writer's method was
+particularly eccentric.  Success will give an idea of the basic complexity and
+nature of the spell.  (Spells are often labeled in common writing, but the
+names are not always entirely edifying.)
+
+A wizard can make one attempt to read any given spell or scroll.
+
+### Copy Spell
+
+To memorize or cast a spell, a wizard must copy it into their own spellbook.
+This is a painstaking process, requiring careful translation from a foreign
+source into the wizard's own style.
+
+Copying a spell is a full day's work per spell level.
+
+The translation process is often imperfect, and mutations can be introduced to
+the spell.  Roll (2 x Spell Level - Wizard Level)d20.  Each 1 and each 20
+produces a mutation in the spell, to be determined by the GM and explain when
+appropriate.

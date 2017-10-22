@@ -35,7 +35,7 @@
 
 ## Stuff
 
-* 12 gp, 9 sp
+* 10 gp, 9 sp
 * newspaper from the caravan on the road SW of town
 * Leather Armor
 * Daggers, 3
@@ -61,5 +61,7 @@
 * 5 iron spikes
 * 3 large bags
 * hand mirror
+* hammer
+* some nails
 
 * a horse

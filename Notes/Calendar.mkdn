@@ -81,5 +81,6 @@
 
 * 24 Yellow: Hagen shows up in the arrivals room
 * 25 Yellow: Party enters the hole, meets the goblins in yellow
+* 26 Yellow: Spiders weave a web atop the hole
 
 *  1  Rainy: Party plans to meet Clem

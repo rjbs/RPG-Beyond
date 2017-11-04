@@ -9,7 +9,7 @@
 
     Max HP: 10
 
-    XP: 3090
+    XP: 3340
     XP Bonus: 0%
 
     Str: 13
@@ -37,6 +37,7 @@
 
 ## Stuff
 
+* 6 gp
 * studded leather armor
 * shortbow
 * quiver, 8 arrows, + 1 silver tipped arrow
@@ -48,7 +49,7 @@
 
 ## In Storage
 
-* Unknown amount of unknown white bricks that weigh very little and have slots in them [UO-169-002]
+* 11 white bricks of unknown material that weigh very little and have slots in them [UO-169-002]
 * Sledge Hammer
 
 ## Other

@@ -7,7 +7,7 @@
 
 ## Stats
 
-    HP: 2
+    HP: 6
 
     XP: 5274
     XP Bonus: 0%

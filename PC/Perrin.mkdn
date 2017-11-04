@@ -44,6 +44,7 @@
 * dagger
 * 4 torches
 * flint and steel
+* tray, kettle
 
 ## In Storage
 

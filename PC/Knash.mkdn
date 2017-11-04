@@ -48,7 +48,6 @@ After waking up in the boat:
 * Leather armour
 * Gaff (from guy in boat)
 * Brass ring (from guy in boat)
-* Short sword (from guy in boat)
 * Lantern
 * 1 pt flask of lantern oil
 * flint and steel

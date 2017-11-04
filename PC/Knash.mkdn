@@ -9,7 +9,7 @@
 
     HP: 6
 
-    XP: 5274
+    XP: 5524
     XP Bonus: 0%
 
     Str:  6
@@ -35,7 +35,7 @@
 
 On deposit with the Edgwold treasurer: 100
 
-* 1211 gp
+* 711 gp
 * 7 gold + 2 other metal coins (from dresser in overgrown house)
 
 ## Stuff (gone (for now?))

@@ -40,3 +40,6 @@ Nearsighted.  Anything beyond 10' is a blur.  -4 to hit with missile weapons.
 
 * Battle axe
 * Leather armor
+
+From cabin with acid monster:
+* Old, damaged, axe-head

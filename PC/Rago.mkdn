@@ -10,7 +10,7 @@
 
     HP: 7
 
-    XP: 3501
+    XP: 3576
     XP Bonus: 0%
 
     Str: 10

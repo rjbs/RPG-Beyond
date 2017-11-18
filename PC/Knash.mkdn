@@ -65,32 +65,30 @@ From the farmhouse where Pearl was found:
 * 1,620 "pounds" in banknotes drawn on the Bank of the Allied Farms of Fite
 
 From "Perrin's brother" (Morris):
-* Necklace with random numbers and letters. Also, inscription which says
- "In case of trouble, swallow". (Currently inside Perrin)
-* Rectangled piece of glass: "There are a number of subtle enchantments on
-  the piece of glass, and you're able to at least detect divination magic
-  and some sort of magic related to being granted power or access to secret
-  places."
+* [II-212-001] Rectangular piece of glass: "There are a number of subtle
+  enchantments on the piece of glass, and you're able to at least detect
+  divination magic and some sort of magic related to being granted power or
+  access to secret places."
 
 From wooden crate:
-* Silver cylinder. Placing hands on the cylinder brings you to room
-  with ceramic person, belonging to some empire.
+* [II-610-299] Silver cylinder. Placing hands on the cylinder brings you to
+  room with ceramic person, belonging to some empire.
 
 From trading place (table room, level -4 Foxhole)
-* "Goblin death magic". Cylinder, 10cm long, 1cm wide. Powerful protective
-  device. If you break it, it will kill you and anyone near you.
+* [CS-219-991] "Goblin death magic". Cylinder, 10cm long, 1cm wide. Powerful
+  protective device. If you break it, it will kill you and anyone near you.
   Read Magic: Some kind of enchantment. Not very fancy or powerful. May not do
               as advertized.
 
 From temple in vaulted cavern.
-* Silver pendant (underneath wooden kneelers)
+* [CS-219-316] Silver pendant (underneath wooden kneelers)
   Read Magic: More powerful magic thing. Probably clerical, protective magic.
-* White robes (given by metal creatures)
+* [CS-219-315] White robes (given by metal creatures)
 
 From rectangle room:
-* Two hand-bells (probably bronze)
-* Pocket watch (gold, no chain, face: one hand; numbers 1-12)
-* Single silver coin
+* [CS-219-109] Two hand-bells (probably bronze)
+* [CS-219-110] Pocket watch (gold, no chain, face: one hand; numbers 1-12)
+* [CS-219-111] Single silver coin
 
 ## Spells
 

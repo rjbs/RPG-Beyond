@@ -10,7 +10,7 @@
 
     HP: 2
 
-    XP: 425
+    XP: 595
     XP Bonus: 5%
 
     Str:  5

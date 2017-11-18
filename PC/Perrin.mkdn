@@ -40,7 +40,7 @@
 * 6 gp
 * studded leather armor
 * shortbow
-* quiver, 8 arrows, + 1 silver tipped arrow
+* quiver, 3 arrows, + 1 silver tipped arrow
 * shortsword
 * dagger
 * 4 torches

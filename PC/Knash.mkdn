@@ -44,7 +44,7 @@ After waking up in the boat:
 
 * Short sword
 * Metal shield
-* Bow + 9 arrows
+* Bow + 20 arrows
 * Leather armour
 * Gaff (from guy in boat)
 * Brass ring (from guy in boat)

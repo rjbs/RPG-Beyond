@@ -90,6 +90,16 @@ From rectangle room:
 * [CS-219-110] Pocket watch (gold, no chain, face: one hand; numbers 1-12)
 * [CS-219-111] Single silver coin
 
+From Spider room (Foxhole, level 4)
+* Pegs and stones of board games.
+
+From Water room (Foxhole, level 4)
+* White ceramic bowl, 20 centimeter diameter
+
+From Room M (Foxhole, level 4)
+* Middle: metal, the size of a curling rock with legs
+          green light on top (shape of ring)
+
 ## Spells
 
 * Read Magic

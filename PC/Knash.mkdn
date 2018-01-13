@@ -2,14 +2,14 @@
 
     Player: Abigail
     Class: Unseen
-    Level: 2
+    Level: 3
     Mask: Dome mask; solid red (from Wim)
 
 ## Stats
 
-    HP: 6
+    HP: 6 (to be rerolled)
 
-    XP: 5869
+    XP: 6124
     XP Bonus: 0%
 
     Str:  6
@@ -21,6 +21,8 @@
 
     Attack: +1
     BONUS : Bow proficiency
+
+    SPECIAL: (to be decided)
 
     Armour Class: 14    10 Base
                         +2 Leather Armour

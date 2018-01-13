@@ -84,3 +84,5 @@
 * 26 Yellow: Spiders weave a web atop the hole
 
 *  1  Rainy: Party plans to meet Clem
+*  5  Rainy: Perrin goes dead
+*  6  Rainy: Perrin comes back from the dead

@@ -43,6 +43,7 @@ This level is 60 feet from the top.
 * Goblins come here every 19th day to trade.
 * Black faced person (Quiown) trading magical stones & goblin steel
   cylinders. He shows up on an unknown schedule.
+* Brock calls this the Flea Market
 
 * Met Haslan Gladwell; he claims to be able to heal Perrin.
 
@@ -128,8 +129,22 @@ This level is 60 feet from the top.
 ** Bottom shelf: single silver coin (pocketed by Knash)
 * Doors:
 ** 8 o'clock: right wall: Long corridor to black room
-** 6 o'clock: back wall (right)
+** 6 o'clock: to rifle room
 ** 3 o'clock: back wall (left)
+
+* Met 'Brock' here: he's the guy from 7 o'clock door. He wants his magnet
+  back (magnet is currently on spire). Brock warns about the fog on level 7;
+  it's hard and dangerous to get through. Bottom may be 12 levels down, but
+  Brock isn't sure. In the future he may want to help us to get through
+  level 7. Also help us in general once we have a plan to shut everything
+  down.
+  Theory: we can shut down the whole thing at the bottom. Brock wants us
+  to do so.
+  We can contact Brock using the goblins (white ones are the best) in
+  the flea market. They can get a message to Brock.
+  Goblins have "drop clams": they can take us down through the fog,
+  but not up. Teleportation is an option. There are suits so that
+  the room where people arrive, can send you back.
 
 ## Black room
 
@@ -148,6 +163,10 @@ This level is 60 feet from the top.
 * 3 round tables, marked out for board games (of an unknown type).
 * South wall: bank with handles; nozzles next to handles
   (one nozzle per handle)
+** First tap (left most): Beer
+** Second tap:            Water
+** Third tap:             White thick substance. Mashed potatoes.
+** Fourth tap:            Thick dark-red substance, lumpy. Cranberry sauce.
 * Doors:
 ** 2 o'clock: Water room
 ** 4 o'clock: Rifle room
@@ -180,3 +199,20 @@ This level is 60 feet from the top.
 * Some patches of light grey powder
 * Doors:
 ** 4 o'clock: Back to Spider room
+
+
+## Bedroom
+
+* Double bunkbeds: no bedding
+* Sink
+* Card-Table, four chairs
+* Nook, shelf, recessed into the wall; its walls give off a glow
+* Walls are white, except around the nook - that one is black
+* Purse: full of 14 marbles (not glass). Some sort of crystal. Probably value,
+         may have other uses. Detect magic: they appear to store spells.
+         Storing spells in gems is a Goblin practise.
+* Note book: mostly blank. Some maps of first four levels.
+  Sketch of the rooms, arrow to nook. Bullet list:
+** Squad greens
+** Hazard boots
+** Material gauntlets

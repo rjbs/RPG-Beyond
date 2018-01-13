@@ -150,8 +150,8 @@ This level is 60 feet from the top.
   (one nozzle per handle)
 * Doors:
 ** 2 o'clock: Water room
-** 4 o'clock:
-** 10 o'clock:
+** 4 o'clock: Rifle room
+** 10 o'clock: Black room
 ** 11 o'clock: Back to Black room
 
 

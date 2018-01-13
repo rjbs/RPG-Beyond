@@ -24,8 +24,6 @@
                        +2 Leather Armour
                        +1 (Dex)
 
-    Mangled right hand (-1 dex when using for life?)
-
 ## Aspects
 
 * Hunter

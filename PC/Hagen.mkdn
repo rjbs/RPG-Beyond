@@ -32,11 +32,12 @@
 ## Stuff
 
 * dagger (2)
+* short sword
 * backpack
 * lantern
 * length of rope (1)
 * wineskins (2)
-* 45 gp
+* 38 gp
 
 ## Spells
 

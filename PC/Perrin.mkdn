@@ -37,15 +37,16 @@
 
 ## Stuff
 
-* 6 gp
+* 2 gp
 * studded leather armor
 * shortbow
-* quiver, 3 arrows, + 1 silver tipped arrow
+* quiver, 23 arrows, + 1 silver tipped arrow
 * shortsword
 * dagger
 * 4 torches
 * flint and steel
 * tray, kettle (no more kettle)
+
 ## In Storage
 
 * 11 white bricks of unknown material that weigh very little and have slots in them [UO-169-002]

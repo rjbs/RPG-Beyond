@@ -45,8 +45,7 @@
 * dagger
 * 4 torches
 * flint and steel
-* tray, kettle
-
+* tray, kettle (no more kettle)
 ## In Storage
 
 * 11 white bricks of unknown material that weigh very little and have slots in them [UO-169-002]
@@ -54,3 +53,4 @@
 
 ## Other
 
+dice, tiny scroll case, made of something like ivory

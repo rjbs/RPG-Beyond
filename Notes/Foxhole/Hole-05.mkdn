@@ -2,7 +2,7 @@
 
 ## Doors:
 
-* 12 o'clock
+* 12 o'clock: Rope Room
 *  9 o'clock
 *  5 o'clock
 
@@ -24,3 +24,14 @@
 * Round table with 8 chairs. Opening in table, glass cylinder runs
   from floor to ceiling.
   Corpse in chair nearest to door. Loot captured by Knash.
+
+
+## Beetle room
+
+* Room is full of large (live) beetles
+* Three cyclinders: Flat panels, wet, shiny. Ladders, reaching the top
+* Cylinders are tubs filled with dirty water
+* Two ladders per cylinder, far end has rope
+* Rope is tied to large clam
+* Middle cylinder has two tools: a pole with a small fishing net,
+  and a pole with a hook

@@ -114,6 +114,18 @@ From bedroom (Foxhole, level 4)
 * Note book
 * Four chairs (in house)
 
+From corpse in Cylinder Room in Rope Room (Foxhole, level 5)
+* Dagger
+* Pistol: Small. 3 small glowing dots and 3 small dim dots on butt.
+         (Purple dots). No moving parts, except for trigger.
+* Small glass ball, green wisp (in motion)
+* 2 Purses
+* Bag: Duffel. Lined with soft fabric. Clasps and buttons. 
+* Leather pouch with small hand tools: Plyers, screwdriver, hammer, pincer.
+* 150 pounds sterling, bank of Middlemarch
+* Vellum scroll: Protective spell, "Bubble", creates a shield around you.
+
+
 ## Spells
 
 * Read Magic

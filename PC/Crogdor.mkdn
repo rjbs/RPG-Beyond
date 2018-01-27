@@ -54,12 +54,12 @@
 * crowbar
 * first aid kit
 * lantern
-* 4 pints naptha
+* 1 pint naptha
 * Locksmith kit
 * climbing harness
 * 50' rope
 * 5 iron spikes
-* 3 large bags
+* 1 large bag
 * hand mirror
 * hammer
 * some nails

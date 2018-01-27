@@ -80,6 +80,7 @@
 * 23 Yellow: Knash and Perrin find the acid zombies and the treed box
 
 * 24 Yellow: Hagen shows up in the arrivals room
+* 24 Yellow: Purge.
 * 25 Yellow: Party enters the hole, meets the goblins in yellow
 * 26 Yellow: Spiders weave a web atop the hole
 

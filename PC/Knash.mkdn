@@ -7,7 +7,7 @@
 
 ## Stats
 
-    HP: 6 (to be rerolled)
+    HP: 8
 
     XP: 6124
     XP Bonus: 0%
@@ -28,6 +28,10 @@
                         +2 Leather Armour
                         +1 Shield
                         +1 Dex
+
+**Special Abilities**
+
+* backstab = +4 to hit, 2x damage on sneak attack
 
 ## Languages
 

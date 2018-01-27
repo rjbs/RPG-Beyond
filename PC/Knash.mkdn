@@ -7,7 +7,7 @@
 
 ## Stats
 
-    HP: 8
+    HP: 5 (Out of 8 max)
 
     XP: 6124
     XP Bonus: 0%

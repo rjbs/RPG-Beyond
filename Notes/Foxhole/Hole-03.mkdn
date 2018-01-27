@@ -7,3 +7,28 @@ RIP room:  several connected rooms, one with "RIP Stay Out".
            Light door (one way), Rago gets trapped.
            Breaking glass frees Rago
            Spiders: Jared dead, Perin lost leg.
+
+
+## Meat room
+
+* Doors:
+**  9 o'clock: To catwalk
+**  1 o'clock: Octogonal room
+
+* 9 O'clock door is now open, propped with a wooden pole.
+* Path through insect carapaces to door to octogonal room
+
+
+## Octogonal room
+
+* Doors:
+**  9 o'clock, back to meat room
+
+* Metal table. Lines in the table, glowing.
+* Under the table are spirally shaped carvings
+* Faintly glowing cloud of rainbow coloured glass. Some lights in the
+  cloud. In the middle of the cloud, a metal rod is suspended.
+  Cloud moves when approached.
+* Cloud emits a disk; it hangs above the table, emitting a bright
+  beam downwards, which illuminates parts of the table.
+* After swinging a duffel bag at it, the disk goes back into the cloud.

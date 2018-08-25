@@ -129,16 +129,22 @@ From Beetle Room (Foxhole, level 5)
 * Shell of a large clam
 
 From wizard in crashed air-boat:
-* Silver crown: Blue and white stones. Arcane writing.
+* Silver crown: Blue and white stones. Arcane writing. (Magic? Could be)
 * Billfold: papers, perhaps banknotes? Ink shimmers in light.
-* Two-part magic wand, unscrewed in the middle.
+* Two-part magic wand, unscrewed in the middle. Magical. No weapon.
+  Subtle magic. Magical tool. Perhaps needs another piece to make useful.
 * Robes (damaged, blooded on).
 
 From crew in air-boat:
-* 2 large daggers.
-* 3 glass discs.
+* 2 large daggers. Slightly enchanted: magically made sharp. Low key.
+* 3 glass discs. Some kind of magic to them. May need other components.
+  Likely something to do with divination.
 
-* Book, with 8 blank leaves (16 pages).
+* Book, with 8 blank leaves (16 pages). Magical. Part of a larger system.
+  May work together with wand, discs, and something else. Meant to be
+  a common book. Could have been used to store an entire library, showing
+  whatever the user needs.
+
 
 ## Spells
 

@@ -87,3 +87,5 @@
 *  1  Rainy: Party plans to meet Clem
 *  5  Rainy: Perrin goes dead
 *  6  Rainy: Perrin comes back from the dead
+* 13  Rainy: Dr. Meat steals the brain from the jar
+* 20  Rainy: Oresta rejoins the party, sky boat crash

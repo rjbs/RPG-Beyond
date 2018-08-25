@@ -38,12 +38,15 @@
 * 2 gp
 * studded leather armor
 * shortbow
-* quiver, 23 arrows, + 1 silver tipped arrow
+* quiver, 20 arrows, + 1 silver tipped arrow
 * shortsword
 * dagger
 * 4 torches
 * flint and steel
 * tray, kettle (no more kettle (and no more tray))
+* vellum map from crashed airship, and pins
+* dagger from crashed airship
+* disc from crashed airship
 
 ## In Storage
 

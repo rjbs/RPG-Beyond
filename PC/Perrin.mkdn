@@ -43,10 +43,9 @@
 * dagger
 * 4 torches
 * flint and steel
-* tray, kettle (no more kettle (and no more tray))
-* vellum map from crashed airship, and pins
-* dagger from crashed airship
-* disc from crashed airship
+* vellum map from crashed airship, and pins - not magical :(
+* dagger from crashed airship - lightly enchanted. Made sharp
+* disc from crashed airship - have some kind of magical something. Maybe need other components
 
 ## In Storage
 

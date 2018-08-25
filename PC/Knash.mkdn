@@ -44,7 +44,115 @@ On deposit with the Edgwold treasurer: 100
 * 711 gp
 * 7 gold + 2 other metal coins (from dresser in overgrown house)
 
-## Stuff (gone (for now?))
+## Stuff
+
+* Long dagger (Paul Fenwick)
+* 50 gp
+* Leather Armour
+* Shield
+* Dagger
+* Short Bow
+* 2 Quivers w 10 arrows
+* 10 Darts
+* Backpack
+* Thieves Tools
+* Tinder Box
+* Bedroll
+* Lantern
+* Flasks of Oil -- Paraffin (3x)
+* Water Skin
+* Standard Rations (5x)
+* Rope
+* 2 Scroll cases (Paul Fenwick)
+  * Keralon's Mirror Image - requires a mirror large enough to reflect the
+    target of the spell, which is duplicated [SS-136-002]
+  * Scroll for summoning a bridge (Dead travellers) [FW-902-005]
+* Key to Benjamin Harker's chains
+* Keyring (from guardsman killed at the Temple ruins)
+* Sprigs of wolfsbane (archer)
+* Compact Cookware
+* Entrenching tool
+* Fishing kit
+* Grappling hook
+* Jeweler's tools
+* Tape, duck
+* Tent
+* Whistle
+* Disk with metal band (from insectoids in Elven woods) [UO-169-001]
+   - Device for communicating. One of a set of two. Hold in front of
+     you and have the desire to communicate with the other end.
+* 750 ml brown glass bottle. Corked. Opaque liquid inside. Labeled
+   - Labelled Whiskey (80-90 years).
+* 4 Potions (assumed to be healing potions) (from machine in village)
+* Device to channel energy (from machine in village) [UO-780-001]
+* Jewelry box w jewelry (building h in village)
+   + Pairs of earrings
+   + Necklaces
+   + Chokers    (all gold, 15-100 gold pieces)
+* Obsidian disc, with four small lights (building h in village) [UO-780-002]
+  - "theurgy detector"
+   - Device used to detect presence of gods and their effects nearby
+* silk tent, collapsed
+* brass wrist watch  on ruined leather strap; engraved with coat of arms
+* from the dead guy in exploded house
+  * paper envelope of green herbs
+  * purse, 10 pp, 25 gp, 25 sp, all unmarked
+  * box of spell copying supplies (enough for one spell)
+  * four tubes of black lotus powder [WC-910-001]
+  * box of matches
+  * metal badge
+  * magic rod [UO-910-002]
+  * tin can of oil (screw top, half liter left)
+  * flare gun
+  * compass
+  * spellbook
+    * read magic
+    * magic missile (1)
+    * monster summoning (1)
+    * sleep (1)
+    * arcane lock (2)
+* from the exploded house
+  * sphere of rust
+  * blue metal sphere set with emeralds
+  * brass sphere with pins and grooves
+  * crystal skull
+  * clockwork bird
+  * pages from the full-color purple book [UO-910-003]
+* From Foxhole, Level 2:
+  * Nail
+  * Blade of a sickle (sharp, steel)
+  * Metal loop/eye (probably steel)
+  * 2 Pairs of boots
+  * Book (novel?, written in Common; title "Truth is a river", about 200 pages)
+  * Cigarette cages (3 dried out cigarettes; case made out of brass)
+  * Box with 6 eggs (golden)
+  * Gold coin, twice normal size, irregular holes
+* From dead travellers in camp:
+  * Wand (silver, with inscriptions) [FW-902-010]
+  * Bandolier with glass vials of liquids (four + 2 shattered)
+    * pale blue [FW-902-001]
+    * deep red [FW-902-002]
+    * glowing orange [FW-902-003]
+    * something in a dark vial [FW-902-004]
+  * Spell book (will take time to investigate) [FW-902-006]
+* "Move magic" -- box and wired-up wand from goblin [UO-136-004]
+    - Tools to illuminate special Goblin doors, the Goblins use to
+      magically move around.
+* Excavation device (as reassembled by Dera) [UO-136-005b]
+* from the house on the hill:
+  * small silver bell with circular line of text:
+    "...servant to H.Q. Pergax a humble..."
+* Fancy goatskin hat/cloak in a hatbox
+* Nice outfit, including "finery" hat.
+* short sword (once property of Hoyte)
+* Hoyte's purse
+  * jaw harp
+  * two rubber balls (1" diameter)
+  * jacks
+* Gold necklace with pendant (corpse on level 1 of Foxhole)
+* Chair (from underneath corpse on level 1 of Foxhole)
+* Barrel with white powder (level 2 of Foxhole) [UO-495-001]
+* 8 pieces of paper from Table room (level 4 of Foxhole)
 
 After waking up in the boat:
 

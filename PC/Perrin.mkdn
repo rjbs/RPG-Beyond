@@ -36,9 +36,12 @@
 ## Stuff
 
 * 2 gp
+* 1 gp, 1 sp, 1 cp
+* middlemarch coins: 18 gp, 12 sp, 4 cp
 * studded leather armor
 * shortbow
 * quiver, 20 arrows, + 1 silver tipped arrow
+* longsword; blunted by chopping wood
 * shortsword
 * dagger
 * 4 torches
@@ -46,6 +49,38 @@
 * vellum map from crashed airship, and pins - not magical :(
 * dagger from crashed airship - lightly enchanted. Made sharp
 * disc from crashed airship - have some kind of magical something. Maybe need other components
+* pegleg
+* grenade, mystery [UO-000-001]
+> A small metal cylinder with a rough grippy surface along its side and a
+> black top and bottom.  A metal handle runs the length of the side, hinged
+> at the top and fastened to the bottom with a pin.
+* backpack
+* waterskin
+* bottle, stoppered, steel
+* rope, 50'
+* climbing harness
+* torches, 4
+* duck tape (100 feet)
+* whistle
+* tinderbox
+* lucifers (14 matches)
+* 2 more boxes of lucifers (2 doz. ea.)
+* 1 candle
+* nylon wire, 75'
+* caltrops, 1 pouch, 24 caltrops
+* pencil and paper (5 sheets)
+* crowbar
+* magic metal torch [UO-780-002]
+* three bottles wine [WC-780-001]
+* three bottles brown liquor [WC-780-002]
+* one bottle green liquor [WC-780-003]
+* two golden candlesticks
+* emerald pendant on gold chain
+* weird book of animal stories
+* leather wallet with $72 in Bank of Allman notes (three $24 notes)
+* map case, map of something in Alithica [FW-902-007]
+* map case, map of a shoreline [FW-902-008]
+* two metal rods joined by two smaller metal rods [FW-902-009]
 
 ## In Storage
 

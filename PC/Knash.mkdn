@@ -149,6 +149,8 @@ Bandits
 * Short sword 
 * Purse with coins (amount to be determined)
 
+* 6 coloured feathers: about 15 cm long. Unknown bird.
+
 ## Spells
 
 * Read Magic

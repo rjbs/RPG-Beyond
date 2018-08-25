@@ -128,6 +128,17 @@ From corpse in Cylinder Room in Rope Room (Foxhole, level 5)
 From Beetle Room (Foxhole, level 5)
 * Shell of a large clam
 
+From wizard in crashed air-boat:
+* Silver crown: Blue and white stones. Arcane writing.
+* Billfold: papers, perhaps banknotes? Ink shimmers in light.
+* Two-part magic wand, unscrewed in the middle.
+* Robes (damaged, blooded on).
+
+From crew in air-boat:
+* 2 large daggers.
+* 3 glass discs.
+
+* Book, with 8 blank leaves (16 pages).
 
 ## Spells
 
@@ -138,3 +149,6 @@ From Beetle Room (Foxhole, level 5)
 * Magic Missile
 * Monster Summoning
 * Arcane Lock (2-level)
+
+
+

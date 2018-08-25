@@ -30,3 +30,8 @@ coffers in the wizards' plant cave.
 ## Ritual Dagger
 
 A precious-metal dagger with a large star ruby in the pommel.
+
+## Wolf Hides
+
+3 tanned wolf hides from those creepy wolves with blue fibres running through
+their bodies.

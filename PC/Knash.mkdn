@@ -9,7 +9,7 @@
 
     HP: 8
 
-    XP: 6124
+    XP: 6274
     XP Bonus: 0%
 
     Str:  6
@@ -120,7 +120,7 @@ From corpse in Cylinder Room in Rope Room (Foxhole, level 5)
          (Purple dots). No moving parts, except for trigger.
 * Small glass ball, green wisp (in motion)
 * 2 Purses
-* Bag: Duffel. Lined with soft fabric. Clasps and buttons. 
+* Bag: Duffel. Lined with soft fabric. Clasps and buttons.
 * Leather pouch with small hand tools: Plyers, screwdriver, hammer, pincer.
 * 150 pounds sterling, bank of Middlemarch
 * Vellum scroll: Protective spell, "Bubble", creates a shield around you.

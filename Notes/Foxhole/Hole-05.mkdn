@@ -3,8 +3,8 @@
 ## Doors:
 
 * 12 o'clock: Rope Room
-*  9 o'clock
-*  5 o'clock
+*  9 o'clock: Beetle Room
+*  5 o'clock: 
 
 
 ## Rope room
@@ -35,3 +35,16 @@
 * Rope is tied to large clam
 * Middle cylinder has two tools: a pole with a small fishing net,
   and a pole with a hook
+
+
+## 
+
+* Tapestries on hallway leading into room (worthless)
+* Floor has residue (spilled something?)
+* Pillars
+* Pedestal with glass jar; jar is clamped to pedestal (4 glowing locks)
+  Inside the jar is a brain, floating in a liquid.
+  Faintly shimmering wall of light around the pedestal
+* 4 metal skeletons (like Frank) Two (nearest to door) are holding swords.
+  The other two have arms modified into rifle like weapons.
+* There are metal fittings and rods on the wall to hold more tapestries

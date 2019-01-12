@@ -273,5 +273,3 @@ Bandits
 * Monster Summoning
 * Arcane Lock (2-level)
 
-
-

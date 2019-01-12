@@ -6,8 +6,7 @@ Normal human.  2 hp.  AC 10.  Attack +0.
 
 Earns 1gp per day on retainer, including "non-adventuring days."
 
-* Riding horse
-  * Saddle
+* Donkey
 
 ## Clem the Carrier
 

@@ -48,7 +48,7 @@ get lost.
 
 ## Advancement
 
-    Level   Title         XP          HD 
+    Level   Title         XP          HD
         1                      0      1d8
         2                  2,500      2d8
         3                  5,000      3d8

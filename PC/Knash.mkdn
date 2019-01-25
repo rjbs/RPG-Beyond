@@ -92,6 +92,11 @@ On deposit with the Edgwold treasurer: 100
 * Obsidian disc, with four small lights (building h in village) [UO-780-002]
   - "theurgy detector"
    - Device used to detect presence of gods and their effects nearby
+   - Info from Elsbeth:
+      - Gets warm
+      - Display lights
+      - Wear it, perhaps on your hand.
+      - Expect it to be short range, perhaps less than 1 km.
 * silk tent, collapsed
 * brass wrist watch  on ruined leather strap; engraved with coat of arms
 * from the dead guy in exploded house
@@ -102,6 +107,9 @@ On deposit with the Edgwold treasurer: 100
   * box of matches
   * metal badge
   * magic rod [UO-910-002]
+    - Info from Elsbeth:
+       - Altering the contents of your brain
+       - Activate, press it to the brain, draw the required symbol
   * tin can of oil (screw top, half liter left)
   * flare gun
   * compass
@@ -138,6 +146,14 @@ On deposit with the Edgwold treasurer: 100
 * "Move magic" -- box and wired-up wand from goblin [UO-136-004]
     - Tools to illuminate special Goblin doors, the Goblins use to
       magically move around.
+    - Info from Elsbeth:
+       - Not uncommon
+       - Outside of her expertise
+       - Nightdoors. Point this device at a nightdoor and you see it;
+         you'd need a catalogue to know where a doors go through. 
+         Doors may not be two-way. Only there when it's night.
+       - Talk to a Goblin?
+       - Made by Goblins.
 * Excavation device (as reassembled by Dera) [UO-136-005b]
 * from the house on the hill:
   * small silver bell with circular line of text:

@@ -203,12 +203,18 @@ From "Perrin's brother" (Morris):
 From wooden crate:
 * [II-610-299] Silver cylinder. Placing hands on the cylinder brings you to
   room with ceramic person, belonging to some empire.
+  Elsbeth: Suggest to take it 10 miles away.
+           Project your mind to a place on top of this one. Can't have
+           too many. There's already one here in Foxhole.
 
 From trading place (table room, level -4 Foxhole)
 * [CS-219-991] "Goblin death magic". Cylinder, 10cm long, 1cm wide. Powerful
   protective device. If you break it, it will kill you and anyone near you.
   Read Magic: Some kind of enchantment. Not very fancy or powerful. May not do
               as advertized.
+  Elsbeth: "Glory rod". Is indeed deadly. Might already have been used.
+            Absorbs life energy. Plants and elves are safe (they don't
+            have souls).
 
 From temple in vaulted cavern.
 * [CS-219-316] Silver pendant (underneath wooden kneelers)

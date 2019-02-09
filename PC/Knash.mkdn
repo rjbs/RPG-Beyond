@@ -24,10 +24,11 @@
 
     SPECIAL: (to be decided)
 
-    Armour Class: 14    10 Base
+    Armour Class: 15    10 Base
                         +2 Leather Armour
                         +1 Shield
                         +1 Dex
+                        +1 Helmet
 
 **Special Abilities**
 
@@ -283,6 +284,20 @@ Bandits
 
 
 * Pistol, no bullets (on hold from Elsbeth Antine)
+
+From Shiny Bulb Room II
+* Silver bulb -- about 12 cm diameter. Feels heavier than solid silver.
+  After pocketing, it starts floating in backpack, showing blue
+  concentric rings.
+
+From Orange/White Ripple Room
+* Orange/white stone short sword
+* Orange/white stone belt
+
+From Skeleton in Shiny Corridor:
+* Short Sword
+* Ring of keys
+* Helmet (worn)
 
 
 ## Spells

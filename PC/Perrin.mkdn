@@ -74,7 +74,7 @@
 * nylon wire, 75'
 * caltrops, 1 pouch, 24 caltrops
 * pencil and paper (5 sheets)
-* crowbar
+* crowbar, lightly chipped
 * magic metal torch [UO-780-002]
 * three bottles wine [WC-780-001]
 * three bottles brown liquor [WC-780-002]
@@ -86,6 +86,9 @@
 * map case, map of something in Alithica [FW-902-007]
 * map case, map of a shoreline [FW-902-008]
 * two metal rods joined by two smaller metal rods [FW-902-009]
+* small leather looking purse made of orange and white stone
+* orange and white stone pistol
+* orange and white stone disk
 
 ## In Storage
 

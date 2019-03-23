@@ -286,18 +286,21 @@ Bandits
 * Pistol, no bullets (on hold from Elsbeth Antine)
 
 From Shiny Bulb Room II
-* Silver bulb -- about 12 cm diameter. Feels heavier than solid silver.
-  After pocketing, it starts floating in backpack, showing blue
+* Silver bulb -- about 12-15 cm diameter. Feels heavier than solid
+  silver. After pocketing, it starts floating in backpack, showing blue
   concentric rings.
+  Elsbeth: May be some kind of scout. May be useful to take control
+           of it.
+
 
 From Orange/White Ripple Room
 * Orange/white stone short sword
 * Orange/white stone belt
 
 From Skeleton in Shiny Corridor:
-* Short Sword
+* Short Sword (handed to Elsbeth)
 * Ring of keys
-* Helmet (worn)
+* Helmet (worn) (handed to Elsbeth)
 
 
 ## Spells

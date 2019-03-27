@@ -7,7 +7,7 @@
 
 ## Stats
 
-    Max HP: 10
+    Max HP: 10 (4)
 
     XP: 4032
     XP Bonus: 0%
@@ -42,10 +42,10 @@
 * Projection from Jellyfish on L4 of Foxhole
 * 2 gp
 * 1 gp, 1 sp, 1 cp
-* middlemarch coins: 18 gp, 12 sp, 4 cp
+* middlemarch coins: 17 gp, 12 sp, 4 cp
 * studded leather armor
 * shortbow
-* quiver, 20 arrows, + 1 silver tipped arrow
+* quiver, 9 arrows, + 1 silver tipped arrow
 * longsword; blunted by chopping wood
 * shortsword
 * dagger
@@ -62,7 +62,7 @@
 * backpack
 * waterskin
 * bottle, stoppered, steel
-* rope, 50'
+* rope, 50' - currently used to tie up sleeping guy
 * climbing harness
 * torches, 4
 * duck tape (100 feet)

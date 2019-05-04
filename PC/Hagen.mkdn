@@ -31,7 +31,6 @@
 
 ## Stuff
 
-* dagger (2)
 * short sword
 * backpack
 * lantern

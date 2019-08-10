@@ -26,7 +26,12 @@
 ## Spell
 
  - Charm Person
+     Range: 120 feet
  - Light
+     Range: 120 feet, Duration: lv+6 turns
  - Magic Missile
+     Range: 160 feet, 1d6+1 dmg, 1 at 1st, 3 at 5th...
  - Read Magic
  - Sleep
+     affect  One 4+1 HD of creatures, otherwise 2d8 HD of creatures
+     Duration: 4d4 turns Range: 240 feet

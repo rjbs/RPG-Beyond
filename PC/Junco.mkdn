@@ -23,3 +23,10 @@
 
 ## Stuff
 
+## Spell
+
+ - Charm Person
+ - Light
+ - Magic Missile
+ - Read Magic
+ - Sleep

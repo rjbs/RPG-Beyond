@@ -1,0 +1,25 @@
+
+## Junko the Floppy
+
+    Player: Gizmo
+    Class: Magic User
+    Level: 1
+
+## Stats
+
+    XP: 0
+    XP Bonus: 0%
+
+    Str: 14
+    Int: 17
+    Wis: 16
+    Dex: 10
+    Con: 10
+    Cha: 14
+
+## Languages
+
+- Mercean (Common)
+
+## Stuff
+
